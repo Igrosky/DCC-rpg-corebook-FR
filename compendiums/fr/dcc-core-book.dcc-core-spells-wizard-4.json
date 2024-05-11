@@ -1,0 +1,46 @@
+{
+  "label": "Sorts de Mage lvl 4",
+      "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+		  },
+		  
+  "entries": {
+    "Control Fire": {
+ "name": "Contrôle du feu",
+      "range": "4,5 m",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Vigueur (parfois)",
+      "page": "242",
+      "description": "<p>&rsquo;L'incantateur cr&eacute;e et manipule des flammes pour barrer le passage, immoler ses adversaires et se prot&eacute;ger des d&eacute;g&acirc;ts. S&rsquo;il r&eacute;ussit son incantation, l&rsquo;incantateur peut choisir de manifester n&rsquo;importe quel effet &eacute;gal ou inf&eacute;rieur au r&eacute;sultat de son test d&rsquo;incantation, lui offrant une palette d&rsquo;options pouvant produire des effets parfois moins puissants, mais potentiellement plus utiles.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.T3Nm1enIADKs2PXk]{Contr&ocirc;le du feu}</p>"
+    },
+	
+    "Control Ice": {
+      "name": "Contrôle de la glace",
+      "range": " 6 m par NI",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Vigueur (parfois)",
+      "page": "241",
+      "description": "<p>L&rsquo;incantateur cr&eacute;e des murs de glace ou projette un froid glacial pour ralentir ou blesser ses ennemis. S&rsquo;il r&eacute;ussit son incantation, l&rsquo;incantateur peut choisir de manifester n&rsquo;importe quel effet &eacute;gal ou inf&eacute;rieur au r&eacute;sultat de son test d&rsquo;incantation, lui offrant une palette d&rsquo;options pouvant produire des effets parfois moins puissants, mais potentiellement plus utiles</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.6JqoVAFm5h9KvNod]{Contr&ocirc;le de la glace}</p>"
+    },
+	
+    "Lokerimon's Orderly Assistance": {
+      "name": "Lokerimon's Orderly Assistance"
+    },
+    "Polymorph": {
+      "name": "Polymorph"
+    },
+    "Transmute Earth": {
+      "name": "Transmute Earth"
+    },
+    "Wizard Sense": {
+      "name": "Wizard Sense"
+    }
+  }
+}

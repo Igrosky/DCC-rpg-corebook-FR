@@ -1,0 +1,85 @@
+{
+	"label": "Mounts",
+	"entries": {
+		"Barding": {
+			"name": "Bardage",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Banded mail)": {
+			"name": "Bardage (Clibanion)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Chainmail)": {
+			"name": "Bardage (Cotte de mailles)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Full plate)": {
+			"name": "Bardage (Harnois)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Half-plate)": {
+			"name": "Bardage (Armure de plates)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Hide)": {
+			"name": "Bardage (Peau)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Leather)": {
+			"name": "Bardage (Cuir)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Padded)": {
+			"name": "Bardage (Matelassée)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Scale mail)": {
+			"name": "Bardage (Écailles)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Barding (Studded Leather)": {
+			"name": "Bardage (Cuir Clouté)",
+			"description": "<p>Poids : 2x le poids d'une armure de taille humaine normale du même type.</p>\n<p>Coût : 4x le coût d'une armure normale de taille humaine du même type.</p>"
+		},
+		"Bridle and Bit": {
+			"name": "Mors et bride",
+			"description": ""
+		},
+		"Donkey or Mule": {
+			"name": "Âne ou mule",
+			"description": ""
+		},
+		"Feed (1 / day)": {
+			"name": "Fourrage (par jour)",
+			"description": ""
+		},
+		"Horse, Regular": {
+			"name": "Cheval standard",
+			"description": ""
+		},
+		"Horse, Warhorse": {
+			"name": "Cheval de guerre",
+			"description": ""
+		},
+		"Pony": {
+			"name": "Poney",
+			"description": ""
+		},
+		"Saddle, pack": {
+			"name": "Fontes",
+			"description": ""
+		},
+		"Saddle, riding": {
+			"name": "Selle d’équitation",
+			"description": ""
+		},
+		"Saddlebags": {
+			"name": "Selle de bât",
+			"description": ""
+		},
+		"Stabling (1 / day)": {
+			"name": "Écurie (par jour)",
+			"description": ""
+		}
+	}
+}

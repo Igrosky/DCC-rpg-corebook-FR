@@ -1,0 +1,194 @@
+{
+  "label": "Sorts de Patron",
+    "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+	  },
+  "entries": {
+    "Blade of Atropos": {
+      "name": "Lame d’Atropos",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs 15+NI le cas échéant (voir ci-dessous)",
+      "page": "352",
+      "description": "<p>La Lame d&rsquo;Atropos est offerte &agrave; ceux qui oeuvrent pour les Gr&eacute;es et cherchent &agrave; occire les cr&eacute;atures chaotiques et ceux qui portent la marque d&rsquo;une corruption arcanique. Lancer ce sort n&eacute;cessite de poss&eacute;der une &eacute;p&eacute;e non magique. Si celle-ci est orn&eacute;e de joyaux et de m&eacute;taux pr&eacute;cieux (d&rsquo;une valeur minimale de 1000 po), le mage b&eacute;n&eacute;ficie d&rsquo;un bonus de +2 &agrave; son test d&rsquo;incantation. Si le mage l&acirc;che son &eacute;p&eacute;e, le sort prend imm&eacute;diatement fin. Tant qu&rsquo;il manie cette lame, le mage n&rsquo;utilise pas son modificateur de Force (qu&rsquo;il soit positif ou n&eacute;gatif) pour toucher ou pour calculer ses d&eacute;g&acirc;ts.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.7utLqfC4vJlZImgG]{Lame d&rsquo;Atropos}</p>"
+    },
+	
+    "Bottomfeeder Bond": {
+      "name": "Lien du gobeur d’insectes",
+      "range": "9 m ou plus",
+      "duration": "1 tour ou plus",
+      "castingTime": "2 rounds",
+      "save": "Volonté vs DD test d’incantation pour les créatures intelligentes",
+      "page": "329",
+      "description": "<p>Bobugbubilz tient sa cour sur un plan lointain couvert de marais &agrave; perte de vue. En ces lieux, il est le ma&icirc;tre de tous les amphibiens et autres arpenteurs des mar&eacute;cages, comme les crocodiles, poissons-chats, serpents venimeux, taons&hellip; Ce sort renforce le lien entre le mage et Bobugbubilz aux yeux de ses serviteurs mortels, ce qui donne &agrave; l&rsquo;incantateur un certain degr&eacute; de contr&ocirc;le sur de telles cr&eacute;atures.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.ynvvONptW3hK1kUs]{Lien du gobeur d’insectes}</p>"
+    },
+	
+    "Curse of Moirae": {
+      "name": "Malédiction de Moirae",
+      "range": "Contact",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation le cas échéant",
+      "page": "353",
+      "description": "<p>Le mage prend la mesure du temps de vie restant de sa cible (aussi bien que le peut un mortel), augmentant les probabilit&eacute;s qu&rsquo;elle meure de mani&egrave;re pr&eacute;matur&eacute;e (m&ecirc;me si, au final, sa fin est &eacute;videmment &eacute;crite d&rsquo;avance). Apr&egrave;s avoir lanc&eacute; ce sort, le mage a 1d4+NI rounds pour r&eacute;ussir &agrave; porter une attaque au corps &agrave; corps contre sa cible afin de lui transmettre la mal&eacute;diction. Si l&rsquo;incantateur ne parvient pas &agrave; transf&eacute;rer la mal&eacute;diction &agrave; quelqu&rsquo;un, il doit r&eacute;ussir un jet de sauvegarde de Vigueur DD 10+NI ou subir 1d3 points de d&eacute;g&acirc;ts par NI.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.WXc6mMJPLPISwCeb]{Mal&eacute;diction de Moirae}</p>"
+    },
+	
+    "Forest Walk": {
+      "name": "Marche sylvestre",
+      "range": "Variable",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "346",
+      "description": "<p>Familier des esprits et des puissances des Terres elfiques, le mage conna&icirc;t les chemins secrets et autres raccourcis menant aux royaumes f&eacute;eriques, lui permettant de se t&eacute;l&eacute;porter d&rsquo;un arbre &agrave; l&rsquo;autre. L&rsquo;incantateur doit emprunter la m&ecirc;me esp&egrave;ce d&rsquo;arbres, ce qui limite g&eacute;n&eacute;ralement ses d&eacute;placements &agrave; des biomes similaires. Par exemple, il ne peut voyager depuis une for&ecirc;t tropicale vers une for&ecirc;t d&rsquo;arbres au feuillage caduc, ou encore d&rsquo;une for&ecirc;t de conif&egrave;res nordiques vers une for&ecirc;t de feuillus dans un climat temp&eacute;r&eacute;. Surgir ainsi d&rsquo;un arbre conf&egrave;re g&eacute;n&eacute;ralement l&rsquo;effet de surprise (&agrave; la discr&eacute;tion du Juge). Le mage peut choisir le type d&rsquo;arbre duquel il &eacute;merge mais n&rsquo;a pas besoin de conna&icirc;tre les terres sur lesquelles il souhaite voyager. Il peut d&eacute;clarer par exemple : &laquo; Je souhaite &eacute;merger d&rsquo;un ch&ecirc;ne dans le royaume des orques &agrave; 160 km au nord d&rsquo;ici. &raquo;</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.sa9lfvQBhbDaFV3E]{Invoquer Ithha, Prince élémentaire du vent}</p>"
+    },
+	
+    "Glorious Mire": {
+      "name": "Bourbier grandiose",
+      "range": "Contact",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "327",
+      "description": "<p data-pm-slice=\"1 1 []\">Le seigneur d&eacute;mon des amphibiens est bien plus &agrave; l&rsquo;aise dans les terres mar&eacute;cageuses sans fin o&ugrave; il demeure. Ces fosses de boue saum&acirc;tres s&rsquo;&eacute;tendent &agrave; perte de vue sous un ciel bas et marron, envahies de racines enchev&ecirc;tr&eacute;es ,et plong&eacute;es au milieu de v&eacute;g&eacute;taux gris et raides et de ruines moisies et broussailleuses. Avec ce sort, l&rsquo;incantateur transforme son voisinage imm&eacute;diat pour en faire des mar&eacute;cages o&ugrave; Bobugbubilz se sent chez lui. Les sols de pierre ramollissent et se transforment en boue, les arbres sont d&eacute;s&eacute;quilibr&eacute;s et se mettent &agrave; vaciller sur leurs bases d&eacute;sormais liquides, et les ch&acirc;teaux s&rsquo;enfoncent dans la fange. &Agrave; bas niveau, l&rsquo;incantateur ne peut affecter qu&rsquo;une zone limit&eacute;e, mais &agrave; plus haut niveau, ce sort peut provoquer l&rsquo;effondrement de ch&acirc;teaux tout entiers.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.JCmdmmupgYq9rXZT]{Bourbier grandiose}</p>"
+    },
+	
+    "Invoke Azi Dahaka": {
+      "name": "Invoquer Azi Dahaka",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "330",
+      "description": "<p>Prince d&eacute;mon des temp&ecirc;tes et de la d&eacute;solation, Azi Dahaka est tout sauf subtil. Il est la temp&ecirc;te de sable destructrice, l&rsquo;aspic mortel, le corps dess&eacute;ch&eacute; sous le soleil impitoyable. Il appara&icirc;t sous la forme d&rsquo;une hydre infernale et attend de ses suivants qu&rsquo;ils apportent ruine et d&eacute;solation o&ugrave; qu&rsquo;ils soient. Il veut faire de ce monde un d&eacute;sert sur lequel il r&egrave;gnera. Le rituel du lien doit s&rsquo;effectuer en plein d&eacute;sert au z&eacute;nith, alors que le mage n&rsquo;a rien bu pendant un jour et une nuit. Tr&egrave;s exigeant avec ses adeptes, il provoque chez eux d&eacute;shydratation et visions, par le biais de coups de chaleur, durant lesquelles il leur confie diverses missions pour r&eacute;pandre le chaos..</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.kf8y0wIGJCEICsUb]{Invoquer Azi Dahaka}</p>"
+    },
+	
+    "Invoke Bobugbubilz": {
+      "name": "Invoquer Bobugbubilz",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "Page: 323",
+      "description": "<p data-pm-slice=\"1 1 []\">Seigneur d&eacute;mon des amphibiens, Bobugbubilz exige de ses serviteurs qu&rsquo;ils prot&egrave;gent les grenouilles, crapauds et salamandres, qu&rsquo;ils r&eacute;pandent le chaos et r&eacute;v&egrave;rent les terres mar&eacute;cageuses. Se lier &agrave; Bobugbubilz demande une semaine de c&eacute;r&eacute;monie putride dans le repaire gluant du Crapaud D&eacute;mon. Lorsqu&rsquo;on invoque son aide, Bobugbubilz demande en retour de petites d&eacute;monstrations de fid&eacute;lit&eacute;, constitu&eacute;es essentiellement de sacrifices de serpents et autres pr&eacute;dateurs de ses serviteurs amphibiens.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.UaVwaMarDwxQW7jq]{Invoquer Bobugbubilz}</p>"
+    },
+	
+    "Invoke Ithha, Prince of Elemental Wind": {
+      "name": "Invoquer Ithha, Prince élémentaire du vent",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "357",
+      "description": "<p data-pm-slice=\"1 1 []\">Ithha, le prince &eacute;l&eacute;mentaire du vent, est un exemple type des pactes &eacute;l&eacute;mentaires qui peuvent &ecirc;tre conclus. Ithha est un demi-dieu qui n&rsquo;a d&rsquo;autre objectif que de vaincre Grom, l&rsquo;&eacute;l&eacute;mentaire de terre et ses serviteurs. Il accorde &agrave; ses adeptes un contr&ocirc;le limit&eacute; des vents et la capacit&eacute; d&rsquo;invoquer des &eacute;l&eacute;mentaires d&rsquo;air.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @Compendium[dcc-core-book.dcc-core-spell-journals.Invoke Ithha, Prince of Elemental Wind]{Invoke Ithha, Prince of Elemental Wind}</p>"
+    },
+	
+    "Invoke Obitue-Que": {
+      "name": "Invoquer Obitue-Que",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "356",
+      "description": "<p>Le seigneur des Cinq est un g&eacute;n&eacute;ral, un diantrefosse et un balor, dot&eacute; de cinq yeux rouge rubis dus &agrave; des mutations exp&eacute;rimentales. Sa forme physique a &eacute;t&eacute; d&eacute;truite par une lign&eacute;e de nobles barbares, mais son esprit dominateur a surv&eacute;cu, tapi dans les zones envahies par le d&eacute;clin et la pourriture, o&ugrave; sont accomplies les c&eacute;r&eacute;monies pour se lier &agrave; lui. Il exige de ses adeptes qu&rsquo;ils poursuivent son plan de conqu&ecirc;te cryptique, et s&rsquo;il est prompt &agrave; r&eacute;pondre quand on l&rsquo;invoque, l&rsquo;aide qu&rsquo;il procure a souvent pour contrepartie d&rsquo;accro&icirc;tre sa domination sur l&rsquo;incantateur.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.tIiQcGMrecSYgIo8]{Invoquer Obitue-Que}}</p>"
+    },
+	
+    "Invoke Sezrekan": {
+      "name": "Invoquer Sezrekan",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "337",
+      "description": "<p data-pm-slice=\"1 1 []\">Consid&eacute;r&eacute; comme le plus diabolique des sorciers ayant arpent&eacute; le monde connu, Sezrekan l&rsquo;Ancien est n&eacute; dans une famille de paysans, marqu&eacute; d&egrave;s sa prime jeunesse par une mal&eacute;diction : son affinit&eacute; avec les mondes sup&eacute;rieurs. Avide d&rsquo;&eacute;couter la musique des hautes sph&egrave;res, l&rsquo;aspirant mage n&rsquo;y a trouv&eacute; que chaos et folie. Abandonnant patrons et seigneurs, Sezrekan chercha &agrave; se lib&eacute;rer du monde et de son enveloppe mortelle, quel qu&rsquo;en soit le co&ucirc;t. Ceux qui l&rsquo;ont choisi pour patron se doivent de suivre ses pas, sacrifiant amis et parents dans le seul but d&rsquo;atteindre la parfaite ma&icirc;trise d&rsquo;eux-m&ecirc;mes, et ultimement du multivers. Le Vieux Ma&icirc;tre a peu de consid&eacute;ration pour ceux qui ne parviennent pas &agrave; s&rsquo;en sortir par eux-m&ecirc;mes et n&rsquo;apporte son aide qu&rsquo;aux lanceurs de sorts ayant prouv&eacute; leur d&eacute;vouement et leur talent.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.qslx9RarpJfHDSwC]{Invoquer Sezrekan}</p>"
+    },
+	
+    "Invoke the King of Elfland": {
+      "name": "Invoquer Le Roi des terres elfiques",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "343",
+      "description": "<p>Ma&icirc;tre incontest&eacute; des royaumes verdoyants, visible seulement au travers de bosquets ensoleill&eacute;s, de la bruine g&eacute;n&eacute;r&eacute;e par de grandes chutes d&rsquo;eau, au cr&eacute;puscule ou &agrave; l&rsquo;aube, le Roi des Terres elfiques r&egrave;gne sur les peuples elfiques depuis son tr&ocirc;ne de brume et de glace. F&eacute;roce lorsqu&rsquo;on l&rsquo;importune, le r&eacute;gent &agrave; barbe blanche veille sur les contr&eacute;es oniriques, les prot&eacute;geant de toute incursion. Il accorde de fantastiques pouvoirs &agrave; ses champions mortels, mais, d&rsquo;un temp&eacute;rament versatile et sanguin, il d&eacute;daigne les affaires qui ne se rapportent pas directement &agrave; son domaine.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.Tpfy5qbgFb65LrNQ]{Invoquer Le Roi des terres elfiques}</p>"
+    },
+	
+    "Invoke the Three Fates": {
+      "name": "Invoquer les Trois Grées",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "349",
+      "description": "<p>Ne rendant de comptes ni aux dieux ni aux hommes, les Trois Gr&eacute;es fa&ccedil;onnent le destin de l&rsquo;univers tout entier sur leur m&eacute;tier &agrave; tisser le temps. Gardiennes de l&rsquo;ordre, elles luttent contre les puissances diaboliques, les dieux malfaisants et les forces des terres sombres qui cherchent &agrave; d&eacute;faire l&rsquo;oeuvre de la cr&eacute;ation. Elles frappent d&rsquo;anath&egrave;me les magies d&eacute;chues et la corruption engendr&eacute;e par celles-ci. Ceux qui suivent les Trois Gr&eacute;es doivent respecter une discipline stricte afin de ne pas eux-m&ecirc;mes devenir les monstres qu&rsquo;ils combattent. Ils tendent &agrave; appartenir &agrave; deux cat&eacute;gories : ils deviennent soit de vieux archipaladins, canalisant la magie blanche contre les forces du Chaos, soit des chasseurs de sorci&egrave;res aussi f&eacute;roces que parano&iuml;aques, traquant la corruption (souvent avec succ&egrave;s) derri&egrave;re les apparences illusoires.</p>\n<p>&nbsp;</p>\n<p><em>Note : Ces r&eacute;sultats ont la particularit&eacute; de demander au Juge de prendre al&eacute;atoirement un d&eacute; qui d&eacute;terminera le moment o&ugrave; les bonus octroy&eacute;s seront effectifs. Le r&eacute;sultat du d&eacute; donne soit le nombre de rounds au bout duquel le bonus prend effet, soit le nombre de rounds cons&eacute;cutifs durant lesquels le bonus octroy&eacute; est effectif. Par exemple, si le Juge fouille dans ses d&eacute;s, pioche un d&eacute; &agrave; six faces et qu&rsquo;il obtient un 3 sur celui-ci, le bonus octroy&eacute; prendra effet le troisi&egrave;me round suivant l&rsquo;invocation de son patron. Ou, en fonction du r&eacute;sultat de l&rsquo;invocation, le bonus octroy&eacute; prend fin au bout de trois rounds.</em></p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.ATYhaFHOxmtajpKW]{Invoquer les Trois Grées}</p>"
+    },
+	
+    "Invoke Yddgrrl, the World Root": {
+      "name": "Invoquer Yddgrrl, La racine du monde",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "355",
+      "description": "<p>Yddgrrl est la racine de toute plante vivante. Il est le gardien des for&ecirc;ts, v&eacute;n&eacute;r&eacute; par les Sylvaniens, les plantes dot&eacute;es de conscience ainsi que par quelques druides. Sa pr&eacute;sence peut &ecirc;tre ressentie dans l&rsquo;apaisante ros&eacute;e du matin, dans le calme profond de la v&eacute;g&eacute;tation, lorsque, m&eacute;ditative, elle puise sa subsistance. Il contr&ocirc;le l&rsquo;humus, l&rsquo;air, les pluies foresti&egrave;res, et se manifeste sous la forme d&rsquo;une gigantesque racine qui cro&icirc;t et fend le sol des for&ecirc;ts pour venir en aide &agrave; ceux qui en ont besoin. Yddgrrl demande peu &agrave; ses adeptes, tant qu&rsquo;ils m&eacute;ditent r&eacute;guli&egrave;rement sur la s&eacute;r&eacute;nit&eacute; de la v&eacute;g&eacute;tation et d&eacute;fendent les for&ecirc;ts contre ses ennemis, tout particuli&egrave;rement contre ses deux n&eacute;m&eacute;sis : le feu et les coups de hache. Yddgrrl r&eacute;side dans un plan singulier et unique, intersection des plans &eacute;l&eacute;mentaires de l&rsquo;air, de l&rsquo;eau et de la terre, dans lequel il m&egrave;ne un combat perp&eacute;tuel contre les forces &eacute;l&eacute;mentaires du feu</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.DjqcMdDvUsNfB28D]{Invoquer Yddgrrl, La racine du monde}</p>"
+    },
+	
+    "Kith of the Hydra": {
+      "name": "Kith of the Hydra"
+    },
+    "Phylactery of the Soul": {
+      "name": "Phylactery of the Soul"
+    },
+    "Reap the Whirlwind": {
+      "name": "Reap the Whirlwind"
+    },
+    "Sequester": {
+      "name": "Bastion",
+      "range": "Variable",
+      "duration": "1d24 heures par NI",
+      "castingTime": "1 tour",
+      "save": "Volonté ou test de compétence vs DD test d’incantation le cas échéant",
+      "page": "340",
+      "description": "<p>La Voie de l&rsquo;Ancien demande une concentration et un engagement absolus. Le mage prot&egrave;ge une zone contre les intrusions, lui laissant le temps de planifier ses prochaines actions.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.y3Gj0ztSCEDlOv0d]{Bastion}}</p>"
+    },
+	
+    "Shield Maiden": {
+      "name": "Shield Maiden"
+    },
+    "Snake Trick": {
+      "name": "Malédiction serpentine",
+      "range": "Variable",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation si l’objet est tenu par une créature non consentante ; les objets magiques ont toujours droit à un jet de sauvegarde",
+      "page": "334",
+      "description": "<p data-pm-slice=\"1 1 []\">En tant que serviteur d&rsquo;Azi Dahaka, le mage est l&rsquo;alli&eacute; des aspics et autres serpents communs. D&rsquo;un mot, il est capable de transformer n&rsquo;importe quel objet inanim&eacute; en serpent ondulant. Ce dernier n&rsquo;est cependant pas sous le contr&ocirc;le du mage et fait de son mieux pour se d&eacute;fendre, fuir au loin ou attaquer, en fonction de la situation. L&rsquo;objet cibl&eacute; doit &ecirc;tre plus long que large. Par exemple, une couronne peut &ecirc;tre transform&eacute;e en serpent, mais pas une caisse en bois.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.X4rlQ3rbAid0XXu2]{Malédiction serpentine}</p>"
+    },
+	
+    "Tadpole Transformation": {
+      "name": "Transformation en têtard",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "326",
+      "description": "<p data-pm-slice=\"1 1 []\">Un authentique serviteur de Bobugbubilz appr&eacute;cie la qui&eacute;tude des mar&eacute;cages profonds, le bourdonnement relaxant des moustiques et des taons, le contact rafra&icirc;chissant de l&rsquo;eau boueuse, les &eacute;claboussures des poissons et des grenouilles sautillantes et les chants gutturaux des crapauds-buffles. Voil&agrave; ce qui apporte de la joie &agrave; Bobugbubilz et ses suivants. Ce sort permet &agrave; l&rsquo;incantateur de transformer son corps de telle sorte qu&rsquo;il s&rsquo;accommode de telles sensations et puisse les appr&eacute;cier &agrave; leur juste valeur.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.Z7GN9FHSfVBYhm9W]{Transformation en têtard}</p>"
+    },
+	
+    "The Dreaming": {
+      "name": "The Dreaming"
+    },
+    "War Horn of Elfland": {
+      "name": "War Horn of Elfland"
+    },
+    "Warp and Weft": {
+      "name": "Warp and Weft"
+    }
+  }
+}

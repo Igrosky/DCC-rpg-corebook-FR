@@ -1,0 +1,296 @@
+{
+	"label": "Cyclopedia of Creatures Monstrous and Mundane",
+	"entries": {
+		"Android": {
+			"name": "Android"
+		},
+		"Ant, giant (queen)": {
+			"name": "Fourmi géante (reine)"
+		},
+		"Ant, giant (soldier)": {
+			"name": "Fourmi géante (soldate)"
+		},
+		"Ant, giant (worker)": {
+			"name": "Fourmi géante (ouvrière)"
+		},
+		"Barbed salamander (type I demon, Bobugbubilz)": {
+			"name": "Barbed salamander (type I demon, Bobugbubilz)"
+		},
+		"Basilisk": {
+			"name": "Basilisk"
+		},
+		"Bat swarm, mundane": {
+			"name": "Bat swarm, mundane"
+		},
+		"Bat swarm, vampiric": {
+			"name": "Bat swarm, vampiric"
+		},
+		"Bat, giant vampire": {
+			"name": "Bat, giant vampire"
+		},
+		"Beetle, giant": {
+			"name": "Beetle, giant"
+		},
+		"Boa constrictor, giant": {
+			"name": "Boa constrictor, giant"
+		},
+		"Brain, elder": {
+			"name": "Brain, elder"
+		},
+		"Bugbear": {
+			"name": "Bugbear"
+		},
+		"Cave cricket": {
+			"name": "Cave cricket"
+		},
+		"Cave octopus": {
+			"name": "Cave octopus"
+		},
+		"Centaur": {
+			"name": "Centaur"
+		},
+		"Centipede, giant": {
+			"name": "Centipede, giant"
+		},
+		"Chimera": {
+			"name": "Chimera"
+		},
+		"Cobra, giant": {
+			"name": "Cobra, giant"
+		},
+		"Cockatrice": {
+			"name": "Cockatrice"
+		},
+		"Cyclops": {
+			"name": "Cyclops"
+		},
+		"Deep One": {
+			"name": "Deep One"
+		},
+		"Devil frog (type I demon, Bobugbubilz)": {
+			"name": "Devil frog (type I demon, Bobugbubilz)"
+		},
+		"Dimensional sailor": {
+			"name": "Dimensional sailor"
+		},
+		"Donkey/Mule": {
+			"name": "Donkey/Mule"
+		},
+		"Elemental, Air": {
+			"name": "Elemental, Air"
+		},
+		"Elemental, Earth": {
+			"name": "Elemental, Earth"
+		},
+		"Elemental, Fire": {
+			"name": "Elemental, Fire"
+		},
+		"Elemental, Water": {
+			"name": "Elemental, Water"
+		},
+		"Extradimensional analogue": {
+			"name": "Extradimensional analogue"
+		},
+		"Four-armed ape-man": {
+			"name": "Four-armed ape-man"
+		},
+		"Gargoyle": {
+			"name": "Gargoyle"
+		},
+		"Ghost": {
+			"name": "Ghost"
+		},
+		"Ghoul": {
+			"name": "Ghoul"
+		},
+		"Giant ape-man": {
+			"name": "Giant ape-man"
+		},
+		"Giant, cloud (20’ tall, 7,000 lbs.)": {
+			"name": "Giant, cloud (20’ tall, 7,000 lbs.)"
+		},
+		"Giant, fire (12’ tall, 5,000 lbs.)": {
+			"name": "Giant, fire (12’ tall, 5,000 lbs.)"
+		},
+		"Giant, frost (16’ tall, 2,700 lbs.)": {
+			"name": "Giant, frost (16’ tall, 2,700 lbs.)"
+		},
+		"Giant, hill (12’ tall, 1,200 lbs.)": {
+			"name": "Giant, hill (12’ tall, 1,200 lbs.)"
+		},
+		"Giant, stone (14’ tall, 1,500 lbs.)": {
+			"name": "Giant, stone (14’ tall, 1,500 lbs.)"
+		},
+		"Giant, storm (22’ tall, 10,000 lbs.)": {
+			"name": "Giant, storm (22’ tall, 10,000 lbs.)"
+		},
+		"Gnoll": {
+			"name": "Gnoll"
+		},
+		"Goblin": {
+			"name": "Goblin"
+		},
+		"Griffon": {
+			"name": "Griffon"
+		},
+		"Harpy": {
+			"name": "Harpy"
+		},
+		"Hell hound": {
+			"name": "Hell hound"
+		},
+		"Hobgoblin": {
+			"name": "Hobgoblin"
+		},
+		"Hollow man": {
+			"name": "Hollow man"
+		},
+		"Hollow spawn": {
+			"name": "Hollow spawn"
+		},
+		"Horse": {
+			"name": "Horse"
+		},
+		"Hydra": {
+			"name": "Hydra"
+		},
+		"Hydra Head": {
+			"name": "Hydra Head"
+		},
+		"Insect swarm": {
+			"name": "Insect swarm"
+		},
+		"Iron shadow": {
+			"name": "Iron shadow"
+		},
+		"Jungle ape-man": {
+			"name": "Jungle ape-man"
+		},
+		"Killer bee": {
+			"name": "Killer bee"
+		},
+		"Kobold": {
+			"name": "Kobold"
+		},
+		"Leech, colossal": {
+			"name": "Leech, colossal"
+		},
+		"Living statue, crystal": {
+			"name": "Living statue, crystal"
+		},
+		"Living statue, iron": {
+			"name": "Living statue, iron"
+		},
+		"Living statue, stone": {
+			"name": "Living statue, stone"
+		},
+		"Lizard, giant": {
+			"name": "Lizard, giant"
+		},
+		"Lizardman": {
+			"name": "Lizardman"
+		},
+		"Man-Bat": {
+			"name": "Man-Bat"
+		},
+		"Manticore": {
+			"name": "Manticore"
+		},
+		"Minor Toadfiend (type II demon, Bobugbubilz)": {
+			"name": "Minor Toadfiend (type II demon, Bobugbubilz)"
+		},
+		"Minotaur": {
+			"name": "Minotaur"
+		},
+		"Mummy": {
+			"name": "Mummy"
+		},
+		"Ogre": {
+			"name": "Ogre"
+		},
+		"Orc": {
+			"name": "Orc"
+		},
+		"Owlbear": {
+			"name": "Owlbear"
+		},
+		"Pony": {
+			"name": "Pony"
+		},
+		"Primeval slime": {
+			"name": "Primeval slime"
+		},
+		"Pterodactyl": {
+			"name": "Pterodactyl"
+		},
+		"Rat swarm": {
+			"name": "Rat swarm"
+		},
+		"Rat, giant": {
+			"name": "Rat, giant"
+		},
+		"Scorpion, giant": {
+			"name": "Scorpion, giant"
+		},
+		"Serpent-man": {
+			"name": "Serpent-man"
+		},
+		"Servitor": {
+			"name": "Servitor"
+		},
+		"Shadow": {
+			"name": "Shadow"
+		},
+		"Shrooman": {
+			"name": "Shrooman"
+		},
+		"Skeleton": {
+			"name": "Skeleton"
+		},
+		"Slug, underdark": {
+			"name": "Slug, underdark"
+		},
+		"Subhuman": {
+			"name": "Subhuman"
+		},
+		"Time traveler": {
+			"name": "Time traveler"
+		},
+		"Toadfiend (type III demon, Bobugbubilz)": {
+			"name": "Toadfiend (type III demon, Bobugbubilz)"
+		},
+		"Toadfiend Avatar (type IV demon, Bobugbubilz)": {
+			"name": "Toadfiend Avatar (type IV demon, Bobugbubilz)"
+		},
+		"Troglodyte": {
+			"name": "Troglodyte"
+		},
+		"Troll": {
+			"name": "Troll"
+		},
+		"Viper, giant": {
+			"name": "Viper, giant"
+		},
+		"Vombis leech": {
+			"name": "Vombis leech"
+		},
+		"Vombis zombie": {
+			"name": "Vombis zombie"
+		},
+		"Warhorse": {
+			"name": "Warhorse"
+		},
+		"White ape-man": {
+			"name": "White ape-man"
+		},
+		"Wolf, common": {
+			"name": "Wolf, common"
+		},
+		"Wolf, dire": {
+			"name": "Wolf, dire"
+		},
+		"Zombie": {
+			"name": "Zombie"
+		}
+	}
+}

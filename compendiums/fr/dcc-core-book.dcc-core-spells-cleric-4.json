@@ -1,0 +1,41 @@
+{
+  "label": "Sorts de Clerc lvl 4",
+    "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value",
+    "level": "system.level"
+	  },
+	  
+  "entries": {
+    "Affliction of the Gods": {
+      "name": "Calamité des dieux",
+      "range": "15 m + 3 m par NI",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Vigueur vs DD test d’incantation",
+      "page": "296",
+      "description": "<p>Le clerc abat toutes sortes d&rsquo;afflictions sur ses ennemis. Les cr&eacute;atures s&rsquo;opposant &agrave; la foi du clerc (consid&eacute;r&eacute;s comme impies ou d&rsquo;alignement oppos&eacute;) subissent un malus de -2 &agrave; leur jet de sauvegarde de Vigueur. Tous les autres effectuent leur jet de sauvegarde normalement. Le sort affecte tous les adversaires dans une zone de 3 m de c&ocirc;t&eacute; par NI. Les cr&eacute;atures alli&eacute;es situ&eacute;es dans la zone d&rsquo;effet ne sont pas affect&eacute;es.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.mPqNw7kA7oqnCSzc]{Calamit&eacute; des dieux}</p>"
+    },
+	
+    "Cause Earthquake": {
+      "name": "Séisme",
+      "range": "Variable",
+      "duration": "1 round",
+      "castingTime": "1 action",
+      "save": "Voir ci-dessous",
+      "page": "299",
+      "description": "<p>Le clerc provoque un tremblement de terre aussi intense que localis&eacute;, d&eacute;truisant tout ce qui est situ&eacute; dans sa zone d&rsquo;effet. Le choc bouleverse les cr&eacute;atures, met &agrave; bas les structures, fait s&rsquo;ouvrir des crevasses et cause des avalanches et autres glissements de terrain.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.khVzTuoDpWZCzETY]{Séisme}</p>"
+    },
+	
+    "Sanctify/Desecrate": {
+      "name": "Sanctify/Desecrate"
+    },
+    "Vermin Blight": {
+      "name": "Vermin Blight"
+    }
+  }
+}

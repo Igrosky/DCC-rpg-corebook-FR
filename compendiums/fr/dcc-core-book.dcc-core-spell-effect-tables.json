@@ -1,0 +1,2768 @@
+{
+  "label": "Sorts effets secondaires tables",
+  "entries": {
+    "Affliction of the Gods Manifestation": {
+      "name": "Calamité des dieux Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la peau de la victime commence à cloquer tandis que la corruption envahit son corps",
+        "2-2": "des anneaux de lumière divine tombent sur les cibles ou s’élèvent du sol pour les encercler",
+        "3-3": "des rayons d’énergie jaillissent du symbole sacré du clerc et touchent chacun de ses ennemis",
+        "4-4": "des apparitions fantomatiques entourent les cibles, effleurant leur visage de leurs mains intangibles"
+      }
+    },
+    "Animal Summoning Corruption": {
+      "name": "Invocation d'animaux Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage du mage manifeste un trait mineur appartenant à l’animal qu’il a tenté d’invoquer, comme des moustaches, des oreilles plus longues, des yeux de chat, etc.",
+        "2-2": "le mage émet une odeur corporelle que les humains trouvent étrange, mais qui est irrésistible pour les animaux",
+        "3-5": "corruption mineure",
+        "6-7": "corruption majeure",
+        "8-8": "corruption supérieure"
+      }
+    },
+    "Animal Summoning Manifestation": {
+      "name": "Invocation d'animaux Manifestation",
+      "description": "<p>Roll [[/roll 1d4]]</p>",
+      "results": {
+        "1-1": "un oeuf apparaît puis éclot pour révéler l’animal invoqué",
+        "2-2": "l’animal apparaît soudainement dans des nuages sombres",
+        "3-3": "le squelette de l’animal se forme, puis ses organes, puis les muscles, avant que la peau ne les recouvre et que l’animal apparaisse (",
+        "4-4": "l’animal surgit du sol, entièrement formé."
+      }
+    },
+    "Animal Summoning Misfire": {
+      "name": "Invocation d'animaux Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur invoque involontairement une nuée d’insectes agaçants comme des abeilles, des guêpes ou des sauterelles",
+        "2-2": "au lieu d’invoquer un animal, l’incantateur en renvoie un accidentellement : le familier du mage ou l’animal commun le plus proche disparaît pendant 1d4 rounds avant de revenir sale, mouillé et en colère",
+        "3-3": "l’incantateur invoque seulement une partie de l’animal, provoquant l’apparition d’un tas d’oreilles de lapins ensanglantées, de cornes de boucs coupées, de pattes de loups démembrés ou de viscères sanguinolents",
+        "4-4": "l’incantateur invoque bien un animal mais le fait apparaître par erreur dans un bâtiment voisin, un élément du décor ou le sol, s’il n’y a pas d’éléments caractéristiques aux alentours. L’animal meurt instantanément, et son corps est difficile à récupérer, étant donné sa fusion avec l’objet."
+      }
+    },
+    "Arcane Affinity Corruption": {
+      "name": "Affinité arcanique Corruption",
+      "description": "",
+      "results": {
+        "1-1": "Voir page 163",
+        "2-2": "Voir page 163",
+        "3-3": "Voir page 163",
+        "4-4": "Voir page 163",
+        "5-6": "Voir page 163"
+      }
+    },
+    "Arcane Affinity Misfire": {
+      "name": "Affinité arcanique Revers",
+      "description": "",
+      "results": {
+        "1-1": "Voir page 163",
+        "2-2": "Voir page 163",
+        "3-3": "Voir page 163",
+        "4-4": "Voir page 163"
+      }
+    },
+    "Banish Manifestation": {
+      "name": "Bannissement Manifestation",
+     "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "des chaînes d’argent éthérées s’entremêlent autour de la cible pour la contraindre",
+        "2-2": "une brume dense enveloppe la cible",
+        "3-3": "une main griffue descend des cieux pour saisir la cible et la renvoyer d’où elle vient",
+        "4-4": "la cible disparaît littéralement"
+      }
+    },
+    "Binding (Wizard Casting) Manifestation": {
+     "name": "Soumission (Mage) Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "un nuage de poussière scintillante enveloppe la cible",
+        "2-2": "une corde magique scintillante s’enroule autour de la cible",
+        "3-3": "un joug céleste tombe des cieux et contraint la cible."
+      }
+    },
+    "Binding (Wizard Casting) Misfire": {
+      "name": "Soumission (Mage) Revers",
+      "description": "<p>The wizard suffers a 50% chance of major corruption or misfire, rolling on the generic tables as appropriate.</p>",
+      "results": {
+        "1-1": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}",
+        "2-2": "@Compendium[dcc-core-book.dcc-core-tables.dVNL147uj3IIhvbk]{Table 5-6: Revers arcaniques génériques}"
+      }
+    },
+    "Binding Manifestation": {
+      "name": "Soumission Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "un nuage de poussière scintillante enveloppe la cible",
+        "2-2": "une corde magique scintillante s’enroule autour de la cible",
+        "3-3": "un joug céleste tombe des cieux et contraint la cible."
+      }
+    },
+    "Blade of Atropos Manifestation": {
+      "name": "Lame d’Atropos Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "l’épée du mage se met à luire d’une puissance vertueuse, illuminant tout dans un rayon de 18 m",
+        "2-2": "l’épée du mage crépite de magie, comme si des toiles d’araignées bleu électrique en parcouraient la lame de haut en bas",
+        "3-3": "la lame de l’incantateur clignote, surgissant et disparaissant, enveloppée de vrilles de brume verte",
+        "4-4": "une lumière violette et mauve émane de l’intérieur de l’épée, brillant au travers de fissures qui se dessinent le long de sa lame."
+      }
+    },
+    "Blessing Ally Manifestation": {
+      "name": "Bénédiction sur un allié Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la cible luit",
+        "2-2": "la cible est enveloppée d’une aura éclatante",
+        "3-3": "la cible est auréolée d’une couronne angélique",
+        "4-4": "des choeurs célestes chantent doucement pendant toute la durée de la bénédiction."
+      }
+    },
+    "Blessing Object Manifestation": {
+     "name": "Bénédiction sur un Objet Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la cible luit",
+        "2-2": "la cible est enveloppée d’une aura éclatante",
+        "3-3": "la cible est auréolée d’une couronne angélique",
+        "4-4": "des choeurs célestes chantent doucement pendant toute la durée de la bénédiction."
+      }
+    },
+    "Blessing Self Manifestation": {
+      "name": "Bénédiction sur soi Manifestation",
+     "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la cible luit",
+        "2-2": "la cible est enveloppée d’une aura éclatante",
+        "3-3": "la cible est auréolée d’une couronne angélique",
+        "4-4": "des choeurs célestes chantent doucement pendant toute la durée de la bénédiction."
+      }
+    },
+    "Breathe Life Corruption": {
+      "name": "Souffle de vie Corruption",
+      "description": "",
+      "results": {
+        "1-1": "un des doigts de l’incantateur se transforme définitivement en la matière de l’objet qu’il souhaitait animer. Ainsi, s’il voulait animer une statue de pierre, son doigt se transforme en pierre vivante",
+        "2-2": "les objets du type visé (par exemple, les gemmes, si l’incantateur visait une gemme) s’agitent de manière inexplicable autour de l’incantateur, en vibrant, sautant ou tremblant. Cet effet a une portée de 3 m de rayon et affecte les objets de ce type jusqu’au terme de l’existence de l’incantateur",
+        "3-4": "mineure",
+        "5-5": "majeure",
+        "6-6": "supérieure"
+      }
+    },
+    "Breathe Life Misfire": {
+      "name": "Souffle de vie Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’objet visé ne s’anime pas mais subit par contre 1d6 points de dégâts (ce qui peut être suffisant pour détruire ou briser un objet de petite taille)",
+        "2-2": "le souffle de vie se manifeste dans le mauvais support, un petit objet situé à moins de 6 m déterminé aléatoirement (caillou, dague, chapeau, botte, ceinture, pomme de pin, etc.) qui commence à danser alors qu’il prend vie pour une durée de 1d6 jours",
+        "3-3": "refaites le test d’incantation, en ignorant les échecs jusqu’à ce qu’un succès soit obtenu, afin que l’objet s’anime bel et bien, mais les points de vie dont il est pourvu viennent directement de l’incantateur, qui subit instantanément les dégâts équivalents, dont il guérira normalement mais qui peuvent être suffisants pour le tuer si l’objet est assez grand",
+        "4-4": "l’objet ciblé ne s’anime pas mais tous les petits objets pesant moins de 2,5 kg situés dans un rayon de 9 m autour de l’incantateur prennent subitement vie pendant 1d10 tours, provoquant un chaos indescriptible quand les armes, vêtements, habits, nourritures et autres se mettent à danser autour du groupe."
+      }
+    },
+    "Cantrip Misfire": {
+      "name": "Tour de magie Revers",
+      "description": "",
+      "results": {
+        "1-1": "L’incantateur invoque accidentellement une grosse abeille qui se met à le pourchasser",
+        "2-2": "l’incantateur génère une flaque de glu qui fixe ses chaussures au sol. Il parviendra à se libérer en les déchirant au moyen d’un test de Force DD 15",
+        "3-3": "les cheveux de l’incantateur changent de couleur (au gré du Juge)",
+        "4-4": "les yeux de l’incantateur changent de couleur (au gré du Juge)."
+      }
+    },
+    "Charm Person Corruption": {
+      "name": "Charme-Personne Corruption",
+      "description": "",
+      "results": {
+        "1-3": "corruption mineure;",
+        "4-5": "corruption majeure",
+        "6-6": "corruption supérieure"
+      }
+    },
+    "Charm Person Manifestation": {
+      "name": "Charme-Personne Manifestation",
+      "description": "Roll [[/roll 1d6]].",
+      "results": {
+        "1-1": "flash de lumière",
+        "2-2": "musique apaisante",
+        "3-3": "nuage noir",
+        "4-4": "poussière de fée scintillante",
+        "5-5": "rayon noir",
+        "6-6": "rayon de lune tombant du ciel"
+      }
+    },
+    "Charm Person Misfire": {
+      "name": "Charme-Personne Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur tombe amoureux de la cible",
+        "2-2": "1d4 créatures proches tirées au hasard tombent amoureuses les unes des autres",
+        "3-3": "l’incantateur endort involontairement la cible (JS de Volonté pour résister)",
+        "4-4": "la cible n’est pas charmée, mais au contraire elle est en colère contre l’incantateur qu’elle trouve repoussant."
+      }
+    },
+    "Chill Touch Corruption": {
+      "name": "Contact glacial Corruption",
+      "description": "",
+      "results": {
+        "1-1": "la peau du visage de l’incantateur se flétrit et sèche, ce qui lui donne l’apparence d’un crâne décharné",
+        "2-2": "la peau des mains de l’incantateur tombe, et ses mains deviennent squelettiques",
+        "3-3": "l’incantateur brille en permanence d’une aura bleue maladive",
+        "4-4": "les morts-vivants sont attirés par l’incantateur et se précipitent vers lui comme des papillons attirés par une flamme",
+        "5-6": "corruption mineure",
+        "7-7": "corruption majeure",
+        "8-8": "corruption supérieure"
+      }
+    },
+    "Chill Touch Manifestation": {
+      "name": "Contact glacial Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "les mains du mage brillent d’une lueur bleue",
+        "2-2": "les mains du mage deviennent noires",
+        "3-3": "le mage émet une puissante odeur de corruption",
+        "4-4": "les mains du mage deviennent squelettiques."
+      }
+    },
+    "Chill Touch Misfire": {
+      "name": "Contact glacial Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur est secoué par l’énergie nécromantique et subit 1d4 points de dégâts",
+        "2-2": "l’incantateur blesse un allié proche au hasard, lui infligeant 1d4 points de dégâts",
+        "3-3": "l’incantateur projette une explosion d’énergie nécromantique dans le cadavre le plus proche, qui se retrouve animé comme un zombie avec 1d6 points de vie (s’il n’y a pas de cadavre proche, aucun effet)."
+      }
+    },
+    "Choking Cloud Corruption": {
+      "name": "Nuage étouffant Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le souffle de l’incantateur est désormais un gaz toxique : quand il expire, toutes les personnes alentour doivent réussir un jet de sauvegarde de Vigueur DD 12 ou être malades pendant 1d4 heures (-1 à tous les jets pendant cette période)",
+        "2-2": "l’incantateur est entouré en permanence d’un nuage toxique qui rend malade toutes les personnes situées à moins de 1,5 m pendant 1d4 heures, sauf si elles réussissent un jet de sauvegarde de Vigueur DD 12 (-1 à tous les jets pendant cette période)",
+        "3-3": "les yeux de l’incantateur se transforment en orbes translucides dans lesquels tourbillonne du gaz",
+        "4-4": "certains types de créatures sont capables de détecter automatiquement l’incantateur s’il se trouve à moins de 800 m et sont attirées par lui, notamment les créatures immatérielles et éthérées, ainsi que tous les monstres du plan élémentaire de l’air",
+        "5-8": "corruption mineure"
+      }
+    },
+    "Choking Cloud Manifestation": {
+      "name": "Nuage étouffant Manifestation",
+      "description": "Roll [[/roll 1d8]]",
+      "results": {
+        "1-1": "nuage noir",
+        "2-2": "brouillard translucide",
+        "3-3": "explosion de cendres",
+        "4-4": "geyser surgissant au pied de la cible",
+        "5-5": "nuage jaune-vert",
+        "6-6": "brouillard rouge",
+        "7-7": "brume épaisse et huileuse",
+        "8-8": "nuage bleu"
+      }
+    },
+    "Choking Cloud Misfire": {
+      "name": "Nuage étouffant Revers",
+      "description": "",
+      "results": {
+        "1-1": "un nuage de gaz toxique explose autour de l’incantateur (1d4x3 m de rayon, 1d4 points de dégâts à tous ceux qui s’y trouvent+JS Vigueur DD 12 pour éviter d’être aveuglé pendant 1d4 rounds)",
+        "2-2": "l’incantateur réussit à matérialiser le nuage, mais c’est un nuage de guérison qui soigne 1d4 points de dégâts à tous ceux qui se trouvent à moins de 6 m de la cible visée",
+        "3-3": "le nuage de gaz toxique prend malencontreusement feu à cause d’une torche ou une lanterne proche et explose au moment où il émerge de la main de l’incantateur, provoquant 1d8 points de dégâts de feu sur l’incantateur et toutes les personnes situées à moins de 3 m de lui",
+        "4-4": "l’incantateur réussit à matérialiser le nuage, mais il est totalement inutile, se réduisant à une vague brume qui n’a aucun autre impact que visuel."
+      }
+    },
+    "Color Spray Corruption": {
+      "name": "Couleurs Dansantes Corruption",
+      "description": "",
+      "results": {
+        "1-1": "la peau de l’incantateur prend une teinte multicolore",
+        "2-2": "les yeux de l’incantateur prennent chacun une couleur différente",
+        "3-3": "les cheveux de l’incantateur changent de couleur",
+        "4-4": "la peau de l’incantateur change de couleur",
+        "5-7": "corruption mineure",
+        "8-8": "corruption majeure. Lancez ensuite 1d10 pour les changements de couleur : (1) bleu (2) vert (3) jaune (4) orange (5) rouge (6) pourpre (7) argenté (8) doré (9) blanc (10) noir"
+      }
+    },
+    "Color Spray Manifestation": {
+      "name": "Couleurs Dansantes Manifestation",
+      "description": "Roll [[/roll 1d8]]",
+      "results": {
+        "1-1": "projection de flèches colorées",
+        "2-2": "arc-en-ciel tombant du ciel",
+        "3-3": "flash de couleurs variées",
+        "4-4": "rayon de couleur changeante tombant du ciel",
+        "5-5": "nuage multicolore ou monochrome",
+        "6-6": "ombre constituée de couleurs tamisées et délavées",
+        "7-7": "inversion de couleurs dans la zone touché",
+        "8-8": "filins de lumière émanant du bout des doigts de l’incantateur."
+      }
+    },
+    "Color Spray Misfire": {
+      "name": "Couleurs Dansantes Revers",
+      "description": "",
+      "results": {
+        "1-1": "les rayons d’énergie colorée se retournent sur l’incantateur, l’aveuglant pendant 1d4 rounds",
+        "2-2": "couleurs dansantes est lancé de manière erratique. Le Juge lance en secret un type de dé de son choix : le sort prend effet au bout de ce nombre de rounds avec un nouveau jet pour le test d’incantation",
+        "3-3": "les couleurs se dispersent dans des directions aléatoires au lieu de former un arc-en-ciel cohérent. Lancez 1d12 pour déterminer la direction (comme une horloge avec 12:00 positionné en face de l’incantateur). 1d4+1 nuances de couleurs jaillissent et explosent, chacune dans une direction différente, provoquant l’aveuglement (1d4 rounds, JS Volonté DD 12 pour résister) de la première créature qu’elle rencontre, qu’elle soit alliée ou ennemie."
+      }
+    },
+    "Comprehend Languages Corruption": {
+      "name": "Compréhension des langues Corruption",
+      "description": "",
+      "results": {
+        "1-1": "les yeux de l’incantateur brillent désormais d’un jaune vif",
+        "2-2": "la peau est recouverte de tatouages légèrement luminescents représentant une écriture indéchiffrable et énigmatique",
+        "3-3": "trouble de la parole : lancez 1d12 à chaque fois que l’incantateur s’exprime et, sur un 12, les mots sont prononcés dans une langue aléatoire (faites un jet en tant que mage sur l’annexe L)",
+        "4-4": "interprète universel : l’incantateur comprend de façon permanente toutes les langues parlées à un niveau basique, y compris le chant des oiseaux, le bourdonnement des insectes et même les langages subsoniques comme les cris de chauve-souris, ce qui fait qu’il a du mal à se concentrer à cause de ce bourdonnement constant autour de lui (-1 à tous les tests de concentration)",
+        "5-5": "lecture incandescente : à chaque fois que l’incantateur lit un document, ses yeux se mettent à briller, le document commence à chauffer et finit par s’enflammer : le papier en 2 rounds, le papyrus en 3, le tissu ou le parchemin en 4 ; la chaleur se manifeste seulement lors de la lecture et ne cause jamais de dégâts aux créatures environnantes",
+        "6-6": "deux douzaines de petits tentacules poussent autour des orbites de l’incantateur",
+        "7-7": "corruption mineure",
+        "8-8": "corruption majeure"
+      }
+    },
+    "Comprehend Languages Manifestation": {
+      "name": "Compréhension des langues Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "les yeux de l’incantateur brillent",
+        "2-2": "le texte brille",
+        "3-3": "les caractères du texte se déforment pour prendre une apparence déchiffrable",
+        "4-4": "rien"
+      }
+    },
+    "Comprehend Languages Misfire": {
+      "name": "Compréhension des langues Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur parle pendant 1d4 heures en employant des langues incompréhensibles",
+        "2-2": "’allié le plus proche parle pendant 1d4 heures dans une langue déterminée aléatoirement (faites un jet en tant que mage sur l’annexe L)",
+        "3-3": "toutes les créatures situées à 9 m ou moins (y compris l’incantateur) sont frappées de mutisme pendant 1d6 minutes",
+        "4-4": "l’incantateur devient complètement analphabète pendant 1d4 jours."
+      }
+    },
+    "Consult Spirit Corruption": {
+      "name": "Consulter les esprits Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage de l’incantateur prend l’apparence d’un esprit déterminé aléatoirement (voir page 319)",
+        "2-2": "la conscience de l’incantateur est définitivement liée à celle d’un esprit déterminé aléatoirement, qui a dès lors 1 % de chances par jour de prendre possession de son corps pendant 1d4 rounds au cours de la journée",
+        "3-3": "les cheveux de l’incantateur deviennent blancs et se dressent",
+        "4-4": "l’incantateur vieillit instantanément de 1d8+2 années",
+        "5-5": "la peau de l’incantateur se ride comme s’il avait 100 ans, même s’il ne vieillit pas en réalité et qu’il ne subit aucune autre conséquence du vieillissement",
+        "6-6": "les oreilles de l’incantateur deviennent sensibles aux voix des fantômes. Il peut les entendre dès qu’ils sont proches, même si aucun contact n’a été établi."
+      }
+    },
+    "Consult Spirit Manifestation": {
+      "name": "Consulter les esprits Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "l’incantateur s’immobilise et semble ne rien faire pendant la durée du sort",
+        "2-2": "l’incantateur apparaît et disparaît quand les questions sont posées",
+        "3-3": "l’incantateur tient une conversation tout seul."
+      }
+    },
+    "Consult Spirit Misfire": {
+      "name": "Consulter les esprits Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur réussit à contacter son propre esprit, là où il se trouve au-delà de la vie et de la mort en attendant son destin final, ce qui lui donne une impression bizarre de déjà-vu et de désorientation. Il subit une pénalité de -1 à toutes les actions pendant 1 tour",
+        "2-2": "l’incantateur contacte un esprit qui s’empare immédiatement de son corps, mettant son personnage sous le contrôle du Juge pendant 1d6 rounds et le faisant agir à l’opposé de sa personnalité et de son alignement",
+        "3-3": "l’incantateur expulse son esprit de son corps pour 1d6 rounds, qui s’effondre dans un état catatonique jusqu’au retour de son esprit."
+      }
+    },
+    "Control Fire Corruption": {
+      "name": "Contrôle du feu Corruption",
+      "description": "",
+      "results": {
+        "1-1": "les cheveux de l’incantateur se transforment en flammes crépitantes qui ne produisent aucune chaleur",
+        "2-2": "l’incantateur laisse des traces de pas incandescentes partout où il passe",
+        "3-3": "les habits de l’incantateur se consument en permanence et doivent être changés quotidiennement",
+        "4-4": "l’incantateur est tout le temps accompagné d’une odeur de fumée",
+        "5-5": "le corps de l’incantateur se retrouve couvert de marques de brûlure",
+        "6-6": "l’incantateur doit tous les jours allumer un feu d’une taille minimum égale à celle d’un feu de camp et s’imprégner de sa chaleur pendant au moins 10 min ou subir une pénalité de -1 à tous les tests d’incantation."
+      }
+    },
+    "Control Fire Manifestation": {
+      "name": "Contrôle du feu Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "le corps de l’incantateur est enveloppé de flammes inoffensives",
+        "2-2": "les flammes avoisinantes sautent de leur foyer pour tournoyer autour de l’incantateur",
+        "3-3": "les flammes tombent du ciel avant de prendre la ou les formes créées par l’incantateur",
+        "4-4": "l’incantateur vomit une gerbe de feu."
+      }
+    },
+    "Control Fire Misfire": {
+      "name": "Contrôle du feu Revers",
+      "description": "",
+      "results": {
+        "1-1": "toutes les créatures situées à moins de 4,5 m de l’incantateur (y compris lui-même) doivent effectuer un jet de sauvegarde de Vigueur DD 5+NI ou prendre feu (1d6 points de dégâts par round jusqu’à extinction)",
+        "2-2": "toutes les sources de flammes dans un rayon de 4,5 m autour de l’incantateur produisent une épaisse fumée noire qui remplit un cube de 3 m de côté à chaque round pendant 1d4 rounds",
+        "3-3": "le sort prend effet, mais dans une zone aléatoire ou sur une créature aléatoire située à moins de 9 m de l’incantateur (relancez le test d’incantation pour déterminer l’effet et la puissance comme si l’incantateur relançait le sort)",
+        "4-4": "l’incantateur brûle tous les poils de son corps."
+      }
+    },
+    "Control Ice Corruption": {
+      "name": "Contrôle de la glace Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le contact de l’incantateur fait geler de petits volumes de liquide (de la taille d’un gobelet)",
+        "2-2": "le souffle de l’incantateur fait geler les végétaux communs",
+        "3-3": "l’incantateur frissonne de froid en permanence",
+        "4-4": "le souffle de l’incantateur produit de la buée quelle que soit la température autour de lui",
+        "5-5": "les yeux de l’incantateur prennent définitivement une teinte bleutée anormale",
+        "6-6": "l’incantateur subit une pénalité de -2 à tous les tests d’incantation, jets de sauvegarde et autres jets en lien avec la magie basée sur le feu."
+      }
+    },
+    "Control Ice Manifestation": {
+      "name": "Contrôle de la glace Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "les yeux de l’incantateur prennent une teinte bleutée",
+        "2-2": "la température baisse dans une zone de 3 m de diamètre autour de l’incantateur",
+        "3-3": "la peau et les cheveux de l’incantateur se couvrent de givre",
+        "4-4": "des vents arctiques surgissent de nulle part."
+      }
+    },
+    "Control Ice Misfire": {
+      "name": "Contrôle de la glace Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur se retrouve enveloppé de glace et immobilisé. 1d3 rounds sont nécessaires pour pouvoir le libérer de son cocon de glace",
+        "2-2": "le sol entourant l’incantateur gèle dans un rayon de 4,5 m, nécessitant un jet de sauvegarde de Réflexes DD 10 pour éviter de se retrouver à terre",
+        "3-3": "un allié de l’incantateur déterminé aléatoirement est gelé sur place comme précédemment",
+        "4-4": "tous les liquides transportés par l’incantateur (y compris ceux qui sont magiques) gèlent brutalement et brisent leurs contenants. Les liquides peuvent dégeler et être perdus si des mesures ne sont pas prises pour les récupérer."
+      }
+    },
+    "Cure Paralysis Manifestation": {
+      "name": "Guérison de la paralysie Manifestation",
+      "description": "",
+      "results": {
+        "1-1": "la cible devient invisible pour réapparaître dans son état normal",
+        "2-2": "une horde de charpentiers féeriques surgit du sol pour oeuvrer à la libération de la cible",
+        "3-3": "un voile doré tombe devant la cible, et lorsqu’il disparaît, celle-ci est revenue à son état normal."
+      }
+    },
+    "Curse of Moirae Manifestation": {
+      "name": "Malédiction de Moirae Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "les extrémités des doigts du mage s’imprègnent de suie, qui marque la cible en cas d’attaque réussie",
+        "2-2": "une petite araignée noire apparaît dans la paume de la main du mage et saute sur sa cible si le mage parvient à la toucher avec une attaque",
+        "3-3": "les attaques physiques du mage projettent des gouttelettes de brume noire sur sa victime",
+        "4-4": "les lèvres du mage deviennent aussi noires que le charbon, et la malédiction est transmise au moyen d’un baiser (une attaque réussie)."
+      }
+    },
+    "Darkness Manifestation": {
+      "name": "Ténèbres Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "nuage de ténèbres",
+        "2-2": "noir absolu",
+        "3-3": "brouillard noir, épais et huileux."
+      }
+    },
+    "Demon Summoning - No Patron Corruption": {
+      "name": "Convocation de Démon - Sans patron Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage de l’incantateur prend l’apparence du démon qu’il a tenté d’invoquer",
+        "2-2": "le corps de l’incantateur adopte certains aspects du démon qu’il a tenté d’invoquer",
+        "3-3": "le visage de l’incantateur se grêle, et il perd provisoirement 1d4 points d’Intelligence alors que le démon s’oppose violemment à la tentative d’invocation",
+        "4-4": "l’incantateur a du mal à respirer, et son souffle devient sifflant en présence des démons du type de celui qu’il a tenté d’invoquer",
+        "5-5": "mineure",
+        "6-6": "majeure",
+        "7-8": "supérieure"
+      }
+    },
+    "Demon Summoning - No Patron Manifestation": {
+      "name": "Convocation de Démon - Sans patron Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "un oeuf apparaît peu à peu avant d’éclore et de faire surgir le démon invoqué",
+        "2-2": "des flashs de nuages noirs précèdent l’apparition du démon",
+        "3-3": "le squelette du démon apparaît, puis ses organes, puis ses muscles, qui se relient entre eux avant que la peau ne pousse et que le démon ne soit complet",
+        "4-4": "le démon surgit du sol entièrement formé."
+      }
+    },
+    "Demon Summoning - Patron Corruption": {
+      "name": "Convocation de Démon - Patron Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage de l’incantateur prend l’apparence du démon qu’il a tenté d’invoquer",
+        "2-2": "le corps de l’incantateur adopte certains aspects du démon qu’il a tenté d’invoquer",
+        "3-3": "le visage de l’incantateur se grêle, et il perd provisoirement 1d4 points d’Intelligence alors que le démon s’oppose violemment à la tentative d’invocation",
+        "4-4": "l’incantateur a du mal à respirer, et son souffle devient sifflant en présence des démons du type de celui qu’il a tenté d’invoquer",
+        "5-5": "mineure",
+        "6-6": "majeure",
+        "7-8": "supérieure"
+      }
+    },
+    "Demon Summoning - Patron Manifestation": {
+      "name": "Convocation de Démon - Patron Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "un oeuf apparaît peu à peu avant d’éclore et de faire surgir le démon invoqué",
+        "2-2": "des flashs de nuages noirs précèdent l’apparition du démon",
+        "3-3": "le squelette du démon apparaît, puis ses organes, puis ses muscles, qui se relient entre eux avant que la peau ne pousse et que le démon ne soit complet",
+        "4-4": "le démon surgit du sol entièrement formé."
+      }
+    },
+    "Demon Summoning - True Name Corruption": {
+      "name": "Convocation de Démon - Vrai nom Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage de l’incantateur prend l’apparence du démon qu’il a tenté d’invoquer",
+        "2-2": "le corps de l’incantateur adopte certains aspects du démon qu’il a tenté d’invoquer",
+        "3-3": "le visage de l’incantateur se grêle, et il perd provisoirement 1d4 points d’Intelligence alors que le démon s’oppose violemment à la tentative d’invocation",
+        "4-4": "l’incantateur a du mal à respirer, et son souffle devient sifflant en présence des démons du type de celui qu’il a tenté d’invoquer",
+        "5-5": "mineure",
+        "6-6": "majeure",
+        "7-8": "supérieure"
+      }
+    },
+    "Demon Summoning - True Name Manifestation": {
+      "name": "Convocation de Démon - Vrai nom Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "un oeuf apparaît peu à peu avant d’éclore et de faire surgir le démon invoqué",
+        "2-2": "des flashs de nuages noirs précèdent l’apparition du démon",
+        "3-3": "le squelette du démon apparaît, puis ses organes, puis ses muscles, qui se relient entre eux avant que la peau ne pousse et que le démon ne soit complet",
+        "4-4": "le démon surgit du sol entièrement formé."
+      }
+    },
+    "Detect Evil (Wizard Casting) Manifestation": {
+      "name": "Détection du mal (Mage) Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "les créatures maléfiques luisent doucement lorsque le clerc les regarde",
+        "2-2": "un choeur divin résonne d’un ton strident pour prévenir le clerc lorsqu’il pose les yeux sur une créature maléfique",
+        "3-3": "des ténèbres semblent suinter des créatures maléfiques, les enveloppant dans un véritable linceul d’ombre."
+      }
+    },
+    "Detect Evil (Wizard Casting) Misfire": {
+      "name": "Détection du mal (Mage) Revers",
+      "description": "<p>The wizard suffers a 50% chance of major corruption or misfire, rolling on the generic tables as appropriate.</p>",
+      "results": {
+        "1-1": "@UUID[Compendium.dcc-core-book.dcc-core-tables.RollTable.ueWyXu3ti2dBXsfI]{Table 5-5 : Corruption supérieure}",
+        "2-2": "@UUID[Compendium.dcc-core-book.dcc-core-tables.RollTable.dVNL147uj3IIhvbk]{Table 5-6 : Revers arcaniques génériques}"
+      }
+    },
+    "Detect Evil Manifestation": {
+       "name": "Détection du mal Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "les créatures maléfiques luisent doucement lorsque le clerc les regarde",
+        "2-2": "un choeur divin résonne d’un ton strident pour prévenir le clerc lorsqu’il pose les yeux sur une créature maléfique",
+        "3-3": "des ténèbres semblent suinter des créatures maléfiques, les enveloppant dans un véritable linceul d’ombre."
+      }
+    },
+    "Detect Invisible Corruption": {
+      "name": "Voir l’invisible Corruption",
+      "description": "",
+      "results": {
+        "1-3": "mineure",
+        "4-5": "majeure",
+        "6-6": "supérieure"
+      }
+    },
+    "Detect Invisible Manifestation": {
+      "name": "Voir l’invisible Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "les yeux de l’incantateur disparaissent, laissant seulement voir des orbites vides",
+        "2-2": "les yeux de l’incantateur deviennent noirs",
+        "3-3": "l’incantateur est enveloppé d’un léger brouillard."
+      }
+    },
+    "Detect Invisible Misfire": {
+      "name": "Voir l’invisible Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur augmente involontairement les effets d’invisibilité tout autour de lui. Ainsi, les créatures invisibles voient leur durée d’invisibilité doublée",
+        "2-2": "l’incantateur rend sa tête invisible pendant 1d4 heures",
+        "3-3": "l’ombre de l’incantateur se multiplie pendant 1d4 jours. Le mage génère un total de 4 ombres dans différentes directions, quelles que soient les sources de lumière, qui se déplacent parfois de façon autonome, ce qui sème la panique parmi les paysans qui l’entourent",
+        "4-4": "l’incantateur rend invisible pendant 1d4 rounds une créature déterminée aléatoirement située à moins de 6 m."
+      }
+    },
+    "Detect Magic (Wizard Casting) Misfire": {
+      "name": "Détection de la magie (Mage) Revers",
+      "description": "<p>The wizard suffers a 50% chance of major corruption or misfire, rolling on the generic tables as appropriate.</p>",
+      "results": {
+        "1-1": "@UUID[Compendium.dcc-core-book.dcc-core-tables.RollTable.ueWyXu3ti2dBXsfI]{Table 5-5 : Corruption supérieure}",
+        "2-2": "@UUID[Compendium.dcc-core-book.dcc-core-tables.RollTable.dVNL147uj3IIhvbk]{Table 5-6 : Revers arcaniques génériques}"
+      }
+    },
+    "Dispel Magic Corruption": {
+      "name": "Dissipation de la magie Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur perd définitivement 5 kg",
+        "2-2": "l’incantateur absorbe les aspects du sort qu’il a tenté de dissiper, au gré du Juge. S’il a, par exemple, tenté de dissiper nuage étouffant, son haleine devient irrémédiablement toxique",
+        "3-3": "l’incantateur gagne définitivement 10 kg",
+        "4-4": "mineure",
+        "5-5": "majeure",
+        "6-6": "supérieure"
+      }
+    },
+    "Dispel Magic Misfire": {
+      "name": "Dissipation de la magie Revers",
+      "description": "",
+      "results": {
+        "1-1": "un objet magique porté par l’incantateur et déterminé aléatoirement (s’il en a) est partiellement désenchanté, perdant définitivement un point de bonus ou une capacité spéciale",
+        "2-2": "au lieu d’atteindre la cible prévue par l’incantateur, l’effet de dissipation est dirigé sur un autre effet magique déterminé aléatoirement dans un rayon de 15 m, qui est alors automatiquement dissipé pendant 1d6 rounds",
+        "3-3": "le sort accentue les effets magiques au lieu de les dissiper. Tous les tests d’incantation effectués à moins de 6 m de l’incantateur (y compris les siens) bénéficient d’un bonus de +1 pour 1d6 prochains rounds",
+        "4-4": "le sort libère l’énergie du dernier sort dissipé par l’incantateur et le relance avec un résultat de 1d10+4 au test d’incantation. Par exemple, si le dernier sort dissipé était nuage étouffant, alors un nouveau nuage étouffant apparaît soudainement. Si le Juge et le joueur ne se souviennent plus du dernier sort dissipé, déterminez-en un aléatoirement de niveau 1d4 sur la table 5-8 : Sorts de mage."
+		}
+    },
+    "Ekim's Mystical Mask Corruption": {
+      "name": "Masque mystique d’Ekim Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage de l’incantateur prend une apparence impassible et artificielle",
+        "2-2": "la chair du visage de l’incantateur se dessèche et desquame en permanence",
+        "3-3": "l’incantateur développe une phobie qui l’empêche de dévoiler son visage et prend l’habitude de porter un voile ou une capuche",
+        "4-4": "le nez de l’incantateur disparaît entièrement, laissant son visage plat à la manière d’un masque."
+      }
+    },
+    "Ekim's Mystical Mask Manifestation": {
+      "name": "Masque mystique d’Ekim Manifestation",
+      "description": "<p>Roll [[/roll 1d4]]</p>",
+      "results": {
+        "1-1": "le masque apparaît de nulle part",
+        "2-2": "la chair du visage de l’incantateur se décolle pour révéler le masque en-dessous",
+        "3-3": "la tête de l’incantateur devient provisoirement floue, puis le masque apparaît lorsque le phénomène se dissipe",
+        "4-4": "la tête de l’incantateur semble faire une rotation de 180°, révélant un visage masqué à l’arrière de sa tête. En sus de ces manifestations, chaque masque modifie le visage de l’incantateur d’une manière différente. Ces altérations sont détaillées dans la table de résultats ci-dessous."
+      }
+    },
+    "Ekim's Mystical Mask Misfire": {
+      "name": "Masque mystique d’Ekim Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur est aveuglé par le masque pendant 1d3 rounds et subit une pénalité de -4 à tous les jets d’initiative, d’attaque, de sauvegarde, de surprise et ses tests d’incantation",
+        "2-2": "la bouche de l’incantateur disparaît pendant 1d3 rounds durant lesquels il ne peut plus lancer aucun sort",
+        "3-3": "les yeux de l’incantateur deviennent hypersensibles à la lumière pendant une journée entière, il subit une pénalité de -2 à tous les jets d’attaque, de sauvegarde, d’initiative, ainsi qu’à ses tests d’incantation et de caractéristique quand la luminosité est supérieure à celle d’une bougie",
+        "4-4": "le visage de l’incantateur disparaît totalement, le rendant aveugle et muet. De plus, il doit réussir un jet de sauvegarde de Vigueur DD 10 à chaque round ou s’évanouir par asphyxie. Son visage redevient normal à la fin de la durée du sort."
+      }
+    },
+    "Eldritch Hound Corruption": {
+      "name": "Limier occulte Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le visage de l’incantateur prend l’apparence d’un limier",
+        "2-2": "l’incantateur devient un aimant à limiers occultes. Si jamais l’un d’entre eux venait à être lancé à ses trousses, ses chances de réussite seraient augmentées de +25 % (1 % de risques d’échec minimum)",
+        "3-3": "lorsque l’incantateur tente de lancer n’importe quel sort, un résultat de 1 naturel provoque toujours l’invocation d’un limier occulte en plus de tout autre effet (corruption, revers, souillure de patron, etc.). Celui-ci lance une attaque furieuse sur l’incantateur avant de disparaître",
+        "4-4": "une fine fourrure de chien recouvre la peau de l’incantateur",
+        "5-6": "supérieure"
+      }
+    },
+    "Eldritch Hound Manifestation": {
+      "name": "Limier occulte Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "une présence invisible qui rend nerveux chiens et chevaux",
+        "2-2": "une chose d’ombre qui ne prend jamais totalement forme",
+        "3-3": "un panache de brume qui dégage une forte humidité",
+        "4-4": "une vague de chaleur brûlante qui saute d’un endroit à l’autre."
+      }
+    },
+    "Eldritch Hound Misfire": {
+      "name": "Limier occulte Revers",
+      "description": "",
+      "results": {
+        "1-1": "le limier occulte apparaît et attaque immédiatement l’incantateur, combattant jusqu’à la mort",
+        "2-2": "le limier occulte apparaît et interprète mal sa mission, ce qui l’amène à poursuivre une cible déterminée aléatoirement parmi les amis de l’incantateur",
+        "3-3": "le limier occulte invoqué est fragile et faible et développe un lien avec l’incantateur. La prochaine fois que celui-ci lance ce sort, il y a 50 % de chances que le limier affaibli apparaisse (CA 8, 5 PV, pas d’attaque). Un tel limier a -50 % de chances de repérer la piste de sa cible et, à chaque fois qu’il apparaît, il y a à nouveau 50 % de chances qu’il se manifeste à la prochaine invocation, jusqu’à ce que le mage réussisse son incantation sans que le limier affaibli n’apparaisse."
+      }
+    },
+    "Emirikol's Entropic Maelstrom Corruption": {
+      "name": "Maelström entropique d’Emirikol Corruption",
+      "description": "",
+      "results": {
+        "1-1": "les yeux de l’incantateur sont remplacés par des orbes d’un pourpre noirâtre zébrés d’éclairs silencieux",
+        "2-2": "le corps de l’incantateur est marbré de veines de couleurs malsaines (jaune bileux, bronze mat, ocre glaireux, etc.)",
+        "3-3": "l’incantateur subit un vieillissement prématuré (ses cheveux blanchissent, des rides et des taches de vieillesse apparaissent, etc.)",
+        "4-4": "les vêtements en tissu et en cuir pourrissent à un rythme anormal une fois portés, obligeant l’incantateur à renouveler sa garde-robe chaque semaine."
+      }
+    },
+    "Emirikol's Entropic Maelstrom Misfire": {
+      "name": "Maelström entropique d’Emirikol Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur doit réussir un jet de sauvegarde de Vigueur DD 10 ou vieillir temporairement de 2d20 ans pendant 24 h",
+        "2-2": "toutes les possessions non magiques de l’incantateur se mettent subitement à rouiller ou à pourrir",
+        "3-3": "un contrecoup entropique repousse l’incantateur 4,5 m en arrière et lui inflige 1d4 points de dégâts",
+        "4-4": "une pluie de poissons et de grenouilles se met à tomber dans une zone de 12 m autour de l’incantateur, obligeant tout le monde à effectuer un jet de sauvegarde de Vigueur DD 8 sous peine de subir 1d3 points de dégâts face à ce matraquage",
+        "5-5": "l’incantateur et toutes les créatures dans un rayon de 6 m changent soudainement de place (le Juge peut repositionner les cibles affectées à son gré ou au hasard)."
+      }
+    },
+    "Enlarge Corruption": {
+      "name": "Agrandissement Corruption",
+      "description": "",
+      "results": {
+        "1-6": "une partie du corps de l’incantateur est agrandie de façon permanente de (1d3+1)xsa taille normale : (1) yeux (2) oreilles (3) nez (4) mains (5) tibias (6) pieds",
+        "7-10": "une partie du corps de l’incantateur est rétrécie de moitié de façon permanente : (7) yeux (8) nez (9) bras (-1 Force) (10) jambes (Mouvement -1,5 m)",
+        "11-11": "hirsute : la pilosité de l’incantateur se développe de façon incontrôlée pendant 1d4 jours, couvrant son corps comme le pelage d’un gorille",
+        "12-12": "l’incantateur grandit de façon permanente, sa taille augmentant de 4d8 cm, son poids de (1d6+1)x5 kg et sa Force de +1, mais son équipement, lui, ne grandit pas",
+        "13-13": "les doigts de l’incantateur poussent de 2d8 cm, déterminé au hasard pour chaque doigt, ce qui rend la préhension difficile et lui inflige une pénalité de -1 à l’Agilité",
+        "14-14": "corruption mineure",
+        "15-15": "corruption majeure",
+        "16-16": "corruption supérieure"
+      }
+    },
+    "Enlarge Manifestation": {
+      "name": "Agrandissement Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la cible grandit à vue d’oeil",
+        "2-2": "la cible disparaît puis réapparaît plus grande",
+        "3-3": "des centaines de minuscules ouvriers semblent découper le corps de la cible puis le réassembler en plus grand",
+        "4-4": "la cible rajeunit jusqu’à prendre la taille et l’apparence d’un bébé, puis vieillit de nouveau miraculeusement jusqu’à reprendre une apparence adulte, mais de plus grande taille."
+      }
+    },
+    "Enlarge Misfire": {
+      "name": "Agrandissement Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’ennemi le plus proche grandit de 50 % au lieu de l’allié, lui conférant un bonus de Force de +2 (s’il n’y a pas d’ennemi à proximité, ignorez le résultat)",
+        "2-2": "tous les ennemis dans un périmètre de 15 m voient leur taille doubler et leur Force augmenter de +3",
+        "3-3": "la cible est rétrécie au lieu d’être agrandie, sa taille diminue de -25 %, et elle subit une pénalité de Force de -1",
+        "4-4": "tout ce qui se trouve dans un rayon de 30 m, y compris les créatures vivantes, les objets, les plantes, les bâtiments et autres choses similaires, est réduit à l’échelle d’une souris. Les humains font par exemple 15 cm, les bâtiments réduisent en proportion, les armes ressemblent à des cure-dents, etc. Pour ceux qui sont affectés, le monde au-delà de cette zone semble avoir grandi de façon exponentielle ; les créatures et les objets restent affectés même s’ils se déplacent au-delà de la zone et retrouvent leur taille normale après une journée, mais ils doivent survivre jusque-là sous cette forme minuscule."
+      }
+    },
+    "ESP Corruption": {
+      "name": "Perception Extrasensorielle - PES Corruption",
+      "description": "",
+      "results": {
+        "1-1": "le crâne de l’incantateur s’agrandit de façon grotesque tandis que son cerveau double de taille",
+        "2-2": "les yeux de l’incantateur s’assombrissent de manière permanente",
+        "3-3": "les pensées de l’incantateur sont (littéralement) visibles sous forme de lumière miroitante qui irradie de son crâne, variant de la luminosité d’une torche quand il réfléchit intensément jusqu’à une douce pulsation la nuit",
+        "4-4": "l’incantateur devient complètement chauve",
+        "5-6": "mineure",
+        "7-8": "majeure"
+      }
+    },
+    "ESP Manifestation": {
+      "name": "Perception Extrasensorielle - PES Manifestation",
+      "description": "<p>Roll [[/roll 1d5]].</p>",
+      "results": {
+        "1-1": "rien de visible",
+        "2-2": "la tête de l’incantateur brille",
+        "3-3": "les yeux de l’incantateur deviennent brumeux",
+        "4-4": "des ondes miroitantes émanent du crâne de l’incantateur",
+        "5-5": "des flashs lumineux surgissent de l’incantateur de temps à autre."
+      }
+    },
+    "ESP Misfire": {
+      "name": "Perception Extrasensorielle - PES Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur diffuse involontairement ses pensées à toutes les créatures à moins de 9 m, ce qui informe instantanément ces dernières de son humeur et de son opinion sur elles",
+        "2-2": "l’incantateur effleure la partie la plus sombre et sauvage de l’esprit animal le plus proche. Le mage chancelle de douleur et subit une pénalité de -1 à tous les jets pendant 1d4 rounds le temps qu’il récupère du choc",
+        "3-3": "l’incantateur projette une salve de pensées vers 1d4 créatures déterminées aléatoirement situées à moins de 30 m, chacune d’elle subissant 1 point de dégâts suite à la monstrueuse migraine provoquée par cette explosion psychique",
+        "4-4": "une créature, à propos de laquelle l’incantateur a un secret bien enfoui, apprend ce secret alors qu’il transmet accidentellement des pensées au lieu d’en recevoir (par exemple, un amour secret, un allié qu’il prévoit de trahir, quelqu’un envers qui il a une dette qu’il ne compte pas honorer, etc.)."
+      }
+    },
+    "Eternal Champion Corruption": {
+        "name": "Champion éternel Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur est hanté par des réminiscences oniriques d’un temps oublié. Dorénavant, à chaque fois qu’il obtient 13 sur n’importe quel jet de dés (qu’il s’agisse d’une attaque, d’un test d’incantation, d’un jet de sauvegarde ou de quoi que ce soit d’autre), il se fige pendant 1d4 rounds, durant lesquels il se voit incapable d’entreprendre la moindre action",
+        "2-2": "l’incantateur est désigné par des puissances surnaturelles comme champion d’une cause particulière dans un lointain passé (cause qui ne lui sera jamais révélée). Les créatures surnaturelles ont désormais d’assez mauvaises dispositions envers lui, et leurs chances d’être hostiles à son égard sont généralement augmentées de +25 %",
+        "3-3": "le champion éternel que l’incantateur a essayé d’invoquer avait un poste de garde permanent dans les cours du Chaos. Les supérieurs du champion sont si mécontents de l’incantation que le mage se retrouve marqué d’un signe de réprobation, visible uniquement des seigneurs du Chaos et de leurs séides, qui le considèrent désormais défavorablement",
+        "4-4": "mineure",
+        "5-5": "majeure",
+        "6-6": "supérieure"
+      }
+    },
+    "Eternal Champion Misfire": {
+      "name": "Champion éternel Revers",
+      "description": "",
+      "results": {
+        "1-1": "le mage désigne un guerrier allié comme étant lui-même le champion d’incantateurs vivant dans d’autres lieux et à d’autres époques. Il a ainsi 1 % de chances de disparaître chaque jour en se trouvant appelé à combattre pour des causes lointaines par d’autres lanceurs du sort",
+        "2-2": "l’incantateur inverse malencontreusement les paramètres du sort et se projette lui-même à l’époque où le guerrier réside plutôt que de le faire venir pour l’aider. Il disparaît donc au lever du jour pour réapparaître au crépuscule le même jour, ensanglanté et épuisé comme s’il avait combattu toute la journée (considérez qu’il a perdu 2d4 PV et 1d6 sorts déterminés aléatoirement). L’incantateur n’a absolument aucun souvenir de ce qui lui est arrivé au cours de cette journée."
+      }
+    },
+    "Feather Fall Corruption": {
+      "name": "Feuille morte Corruption",
+      "description": "",
+      "results": {
+        "1-1": "les cheveux de l’incantateur se dressent comme s’il était en permanence en train de tomber",
+        "2-2": "l’incantateur effectue toutes ses descentes (d’une corde, d’un escalier, le long d’un poteau, etc.) à la moitié de sa vitesse de déplacement normale",
+        "3-3": "l’incantateur est soumis à des bourrasques sporadiques qui n’affectent pas les autres personnages et doit réussir des tests de Force pour rester debout (DD 5 pour des vents légers, DD 10 pour des vents forts et DD 15 pour des rafales)",
+        "4-4": "les cheveux de l’incantateur sont définitivement transformés en plumes",
+        "5-5": "des bruits de vent sifflant l’accompagnent partout."
+      }
+    },
+    "Feather Fall Manifestation": {
+      "name": "Feuille morte Manifestation",
+      "description": "<p>Roll [[/roll 1d4]]</p>",
+      "results": {
+        "1-1": "des ailes de peau aérodynamiques poussent sur les bras et les jambes de la cible",
+        "2-2": "la cible brille d’une aura formée de plumes vaporeuses jaune canari",
+        "3-3": "la pilosité de la cible est remplacée par des plumes duveteuses",
+        "4-4": "le corps de la cible s’incurve comme une feuille morte pour glisser sur les vents."
+      }
+    },
+    "Feather Fall Misfire": {
+      "name": "Feuille morte Revers",
+      "description": "",
+      "results": {
+        "1-1": "la vitesse de chute de l’incantateur augmente, provoquant 1d6 dégâts supplémentaires à l’impact",
+        "2-2": "l’incantateur s’élève brutalement en l’air de 3 m avant de tomber au sol (subissant 1d6 points de dégâts ou 2d6 s’il y a une surface solide à 3 m ou moins au-dessus de sa tête)",
+        "3-3": "les vêtements et autres possessions de l’incantateur deviennent intangibles pendant 1d6x10 min et ne peuvent être portés ou utilisés",
+        "4-4": "l’incantateur est projeté de 1d6+3 m dans une direction aléatoire par une rafale de vent fantôme."
+      }
+    },
+    "Find Familiar Corruption": {
+      "name": "Appel de familier Corruption",
+      "description": "",
+      "results": {
+        "1-3": "mineure",
+        "4-5": "majeure",
+        "6-6": "supérieure."
+      }
+    },
+    "Fire Resistance Corruption": {
+      "name": "Résistance au feu Corruption",
+      "description": "<p>Roll [[/roll 1d8]].</p>",
+      "results": {
+        "1-1": "le visage de l’incantateur prend l’apparence brûlée et déformée d’une victime d’incendie",
+        "2-2": "les sourcils de l’incantateur sont calcinés",
+        "3-3": "les ongles de l’incantateur deviennent noirs",
+        "4-4": "la peau de l’incantateur se teinte comme s’il était victime d’un coup de soleil permanent",
+        "5-6": "mineure",
+        "7-7": "majeure",
+        "8-9": "supérieure."
+      }
+    },
+    "Fire Resistance Manifestation": {
+      "name": "Résistance au feu Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la peau de l’incantateur devient dure et noire",
+        "2-2": "le sujet devient aqueux comme un élémentaire",
+        "3-3": "un globe d’énergie blanche scintillante enveloppe le sujet",
+        "4-4": "des anges évanescents attisent des flammes noires."
+      }
+    },
+    "Fire Resistance Misfire": {
+      "name": "Résistance au feu Revers",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "l’incantateur ainsi que ses habits, parchemins et autre possessions prennent feu, lui infligeant 1d4 points de dégâts avant de s’éteindre en crachotant",
+        "2-2": "l’incantateur se retrouve plus vulnérable au feu : il subit un malus de -2 à ses jets de sauvegarde contre les effets basés sur le feu, ainsi qu’un point de dégâts supplémentaire lorsqu’il subit des dégâts de feu au cours des prochaines 1d4 heures",
+        "3-3": "l’incantateur crée une vague de froid qui congèle immédiatement tous les liquides qu’il porte (y compris les potions) (",
+        "4-4": "l’incantateur déclenche un incendie au pied d’une personne déterminée aléatoirement située à moins de 15 m et lui inflige 1d4 points de dégâts."
+      }
+    },
+    "Fireball Corruption": {
+      "name": "Boule de feu Corruption",
+      "description": "",
+      "results": {
+        "1-1": "les bras et les mains de l’incantateur noircissent comme du charbon",
+        "2-2": "la peau de l’incantateur prend une teinte et une texture charbonneuse",
+        "3-3": "toute la pilosité du corps de l’incantateur est carbonisée, et il dégage en permanence une vague odeur de poil brûlé",
+        "4-4": "un petit portail invisible vers le plan élémentaire du feu s’ouvre juste au-dessus de l’incantateur et reste béant : des particules de feu ou de lave dégoulinent régulièrement sur lui, ce qui l’enveloppe d’un scintillement permanent et donne 1 % de chances par jour qu’une de ces étincelles enflamme quelque chose à un moment inopportun",
+        "5-5": "mineure",
+        "6-7": "majeure",
+        "8-8": "supérieure"
+      }
+    },
+    "Fireball Manifestation": {
+      "name": "Boule de feu Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "une boule de flammes est catapultée sur la cible et explose en créant une déflagration ardente",
+        "2-2": "un jet de flammes liquides inonde la cible sous une pluie de feu",
+        "3-3": "une singularité apparaît dans un point de l’espace avant d’exploser dans une gerbe de flammes éclatantes",
+        "4-4": "un ensemble de graines ardentes rebondit vers le point visé où elles explosent en flammes."
+      }
+    },
+    "Fireball Misfire": {
+      "name": "Boule de feu Revers",
+      "description": "",
+      "results": {
+        "1-1": "une petite boule de feu explose sur l’incantateur, lui infligeant 1d6 points de dégâts",
+        "2-2": "une grande boule de feu explose autour de l’incantateur, lui infligeant 3d6 points de dégâts ainsi qu’à toutes les créatures situées à moins de 6 m",
+        "3-3": "l’incantateur entre en combustion spontanée, subissant 2d6 points de dégâts. Tous les objets inflammables qu’il porte (y compris les vêtements et les parchemins) tombent instantanément en cendres",
+        "4-4": "l’incantateur invoque le mauvais élément, générant un jet de glace qui inonde tout ce qui se trouve à moins de 6 m de lui, ne provoquant aucun dégât mais éteignant potentiellement toute flamme existante",
+        "5-5": "la peau de l’incantateur est gravement brûlée sur toute la surface de son corps, et chaque mouvement lui cause d’intenses douleurs (qui se traduisent par une pénalité de -1 à toutes les actions) avant que la brûlure ne guérisse au bout d’une semaine."
+      }
+    },
+    "Flaming Hands Corruption": {
+      "name": "Mains brûlantes Corruption",
+      "description": "",
+      "results": {
+        "1-1": "mains noircies en permanence",
+        "2-2": "un simple contact provoque l’embrasement du papier 25 % du temps",
+        "3-3": "tous les poils du corps de l’incantateur sont définitivement brûlés",
+        "4-4": "l’incantateur subit un malus permanent de -2 pour tous les tests d’incantation des sorts basés sur le froid."
+      }
+    },
+    "Flaming Hands Manifestation": {
+      "name": "Mains brûlantes Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "les mains de l’incantateur s’enveloppent de flammes",
+        "2-2": "le feu jaillit du bout des doigts de l’incantateur",
+        "3-3": "les mains de l’incantateur se transforment en flammes fumantes et déchaînées",
+        "4-4": "la peau noircit et se décolle pour révéler des mains squelettiques desquelles s’écoule de la lave."
+      }
+    },
+    "Flaming Hands Misfire": {
+      "name": "Mains brûlantes Revers",
+      "description": "",
+      "results": {
+        "1-1": "des flammes jaillissent d’un membre aléatoire du corps du mage, perturbant sa visée. Déterminez aléatoirement la direction des flammes. Celles-ci infligent 1d3 points de dégâts à tout ce qui se trouve à une portée de 4,5 m dans cette direction",
+        "2-2": "les mains de l’incantateur s’enflamment, lui infligeant 1d3 points de dégâts",
+        "3-3": "1d4 possessions aléatoires de l’incantateur s’enflamment et sont carbonisées",
+        "4-4": "tous les feux dans un rayon de 4,5 m autour de l’incantateur sont immédiatement soufflés."
+      }
+    },
+    "Fly Corruption": {
+      "name": "Vol Corruption",
+      "description": "",
+      "results": {
+        "1-1": "des plumes d’oiseau poussent sur les chevilles et les pieds de la cible",
+        "2-2": "une membrane pousse dans l’espace situé entre le dos et les bras de l’incantateur et se couvre de plumes, à la manière de pseudo-ailes si frêles qu’elles ne confèrent aucune capacité de vol",
+        "3-3": "l’incantateur attire irrésistiblement les oiseaux, les insectes et autres objets volants, qui bourdonnent fréquemment autour de lui. Le phénomène le gêne régulièrement, l’empêchant de se dissimuler et compliquant toute vie sociale",
+        "4-4": "l’incantateur prend 1d10+10 kg, développe une bedaine du jour au lendemain et se retrouve plus « cloué au sol » que jamais : le surpoids est impossible à perdre quel que soit le régime ou l’activité physique engagée",
+        "5-5": "l’incantateur devient particulièrement sensible aux attaques d’élémentaires de l’air, aux bourrasques, cyclones et autres effets similaires",
+        "6-6": "majeure",
+        "7-8": "supérieure."
+      }
+    },
+    "Fly Manifestation": {
+      "name": "Vol Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "la cible se voit pousser des ailes (d’apparence angélique ou démoniaque, en fonction de son alignement)",
+        "2-2": "la cible est entourée de milliers d’oiseaux minuscules qui le soulèvent dans les airs",
+        "3-3": "des nuages apparaissent sous les pieds de la cible",
+        "4-4": "pas de manifestation visible."
+      }
+    },
+    "Fly Misfire": {
+      "name": "Vol Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur s’enfonce de 15 cm dans le sol, ses pieds fissurant la terre ou la roche. Il ne peut plus bouger avant d’avoir passé au moins un round à s’extraire de cette situation",
+        "2-2": "l’incantateur fait s’envoler tout son équipement : ses vêtements, ses armes, ses livres de sorts et autres objets se retrouvent propulsés dans les airs pendant 1d4+1 rounds, puis évoluent erratiquement de 18 m par round dans une direction déterminée aléatoirement, le laissant nu et sans équipement, tentant de les suivre jusqu’au lieu où ils finissent par tomber",
+        "3-3": "l’incantateur fait s’envoler toutes les armes situées à moins de 9 m. Celles-ci se regroupent avant d’être propulsées dans les airs, puis d’évoluer erratiquement à une vitesse de 18 m par round pendant 1d4+1 rounds",
+        "4-4": "l’incantateur et 1d4 créatures déterminées aléatoirement dans un rayon de 9 m deviennent énormes et voient leur Mouvement réduit de moitié pendant le prochain tour."
+      }
+    },
+    "Food of the Gods Manifestation": {
+      "name": "Nourriture divine Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "une table de banquet apparaît en scintillant, chargée de nourriture, puis disparaît, laissant le repas à disposition",
+        "2-2": "une pluie de nourriture tombe du ciel, se déposant sur les surfaces planes ou dans les mains de ceux qui les tendent",
+        "3-3": "le clerc vomit la nourriture et l’eau magiquement créées",
+        "4-4": "des matériaux non comestibles, comme le bois, la pierre, voire des ordures, se transforment en substances comestibles."
+      }
+    },
+    "Force Manipulation Corruption": {
+      "name": "Mur de force Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur perd le sens du toucher, comme si ses mains étaient entourées en permanence d’une barrière invisible",
+        "2-2": "de petits objets tout autour de l’incantateur sont renversés par des éclairs de force énergétique (les verres se renversent, les vases chutent, les potions tombent des tables) – un effet pas vraiment bénéfique pour l’incantateur",
+        "3-3": "l’incantateur flotte à 1 cm du sol en permanence, mais applique toujours assez de pression sur le sol pour déclencher des pièges, s’enfoncer dans l’eau et, d’une façon générale, subir les effets d’un terrain défavorable",
+        "4-4": "le visage de l’incantateur devient occasionnellement transparent, ce qui révèle son crâne en dessous",
+        "5-5": "Une fois par jour, au gré du Juge, un mur de force barre le passage de l’incantateur pendant 1d3 rounds."
+      }
+    },
+    "Force Manipulation Manifestation": {
+      "name": "Mur de force Manifestation",
+      "description": "",
+      "results": {
+        "1-1": "les mains de l’incantateur scintillent, et l’atmosphère crépite d’énergie",
+        "2-2": "un nuage de particules de lumière scintillantes prend la forme de l’objet souhaité puis disparaît",
+        "3-3": "des cubes d’énergie bleutée tombent du ciel pour former l’objet ou le mur, puis disparaissent",
+        "4-4": "du bout de son doigt qui se met à briller, l’incantateur trace dans l’air la forme qu’il souhaite créer."
+      }
+    },
+    "Force Manipulation Misfire": {
+      "name": "Mur de force Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur est frappé d’un retour de force, matraqué de coups invisibles, et doit réussir un jet de sauvegarde de Vigueur DD 13 ou se retrouver à terre",
+        "2-2": "l’incantateur est soulevé de 5 à 10 cm par un champ de force et ne peut plus se déplacer par ses propres moyens, il doit être poussé ou tiré jusqu’à dissipation de l’effet au bout d’une heure",
+        "3-3": "l’incantateur s’enferme dans une bulle de force et doit réussir un jet de sauvegarde de Réflexes DD 10 à chaque round sous peine de rouler de 9 m dans une direction aléatoire. La bulle éclate au bout de 1d6 rounds",
+        "4-4": "l’incantateur est mitraillé par 1d4 sphères de force lui infligeant chacune 1 point de dégâts."
+      }
+    },
+    "Forest Walk Manifestation": {
+      "name": "Marche sylvestre Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "une porte apparaît soudainement dans la souche d’un arbre",
+        "2-2": "le mage s’estompe peu à peu, ne devenant qu’une ombre disparaissant dans l’arbre",
+        "3-3": "le mage voit des feuilles lui pousser et sa peau se changer en écorce tandis qu’il est rapidement absorbé dans l’arbre."
+      }
+    },
+    "Forget Corruption": {
+      "name": "Oubli Corruption",
+      "description": "",
+      "results": {
+        "1-1": "les traits du visage de l’incantateur se « lissent », deviennent quelconques et difficiles à retenir",
+        "2-2": "l’incantateur a des difficultés à se souvenir des détails et a tendance chaque jour à oublier plusieurs petits événements mineurs survenus la veille, ce qui fait que, durant une aventure, s’il faut se souvenir à un moment d’un détail d’une aventure précédente, il y a 25 % de chances que le personnage ne se le rappelle pas",
+        "3-5": "mineure",
+        "6-7": "majeure",
+        "8-8": "supérieure."
+      }
+    },
+    "Forget Manifestation": {
+      "name": "Oubli Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "bout du doigt gris",
+        "2-2": "bout du doigt enflammé",
+        "3-3": "cône de brouillard."
+      }
+    },
+    "Forget Misfire": {
+      "name": "Oubli Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur oublie un sort déterminé aléatoirement parmi ceux qu’il peut encore lancer pour le reste de la journée",
+        "2-2": "l’incantateur oublie les 24 dernières heures de son existence de manière définitive",
+        "3-3": "l’incantateur oublie son propre nom et a toutes les peines du monde à se le rappeler au cours du prochain mois, quel que soit le nombre de fois où on le lui rappelle",
+        "4-4": "l’incantateur implante accidentellement ses propres souvenirs d’enfance dans l’esprit de tous ses alliés à moins de 6 m, créant de la sorte chez eux un patchwork de souvenirs potentiellement déconcertants et dévoilant plusieurs événements d’enfance embarrassants (par exemple, incontinence nocturne, fessées, premiers amours, etc.)."
+      }
+    },
+    "Gust of Wind Corruption": {
+     "name": "Bourrasque Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur attire orages et éclairs tel un paratonnerre ; il subit dorénavant +1 point de dégâts de toutes les attaques basées sur les éclairs. Il acquiert de plus une étrange réputation d’aimant à tempête auprès de ses pairs",
+        "2-2": "les éternuements de l’incantateur deviennent colossaux, projetant des souffles capables d’éteindre des flammes et de faire s’envoler les petits objets",
+        "3-3": "quand l’incantateur parle, son souffle est assez puissant pour faire trembler les flammes jusqu’à 30 m et s’envoler les petits objets",
+        "4-4": "majeure",
+        "5-5": "supérieure."
+      }
+    },
+    "Gust of Wind Manifestation": {
+      "name": "Bourrasque Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "des courants d’air coloré se matérialisent pour former une rafale de vent",
+        "2-2": "un enchevêtrement de vents tournoyants se forme dans le dos du mage, pour devenir une rafale tourbillonnante",
+        "3-3": "des dizaines de mini-cyclones balayent la zone devant l’incantateur",
+        "4-4": "rien de plus qu’une bourrasque ordinaire."
+      }
+    },
+    "Gust of Wind Misfire": {
+      "name": "Bourrasque Revers",
+      "description": "",
+      "results": {
+        "1-1": "une bourrasque solitaire projette l’équipement de l’incantateur (armes, sac à dos, livre de sorts, etc.) à 1d4x3 m dans une direction aléatoire",
+        "2-2": "l’incantateur invoque une tempête torrentielle au-dessus de sa tête et se voit plaqué au sol pendant 1d4 rounds, incapable de bouger ou d’accomplir la moindre action à moins de réussir un test de Force DD 20 à chaque round",
+        "3-3": "toutes les flèches à moins de 30 m sont enchantées et surfent sur les vents avec plus d’efficacité, recevant un bonus de +1 aux dégâts pendant un tour."
+      }
+    },
+    "Haste Corruption": {
+      "name": "Hâte Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur vieillit immédiatement de 2d10+10 ans",
+        "2-2": "l’incantateur et ceux qui l’entourent dans un rayon de 6 m vieillissent de 2d10+10 ans",
+        "3-3": "l’incantateur acquiert une série de tics et de mouvements compulsifs qui ponctuent chacune de ses actions, provoquant quelques moments gênants lors de ses interactions sociales (",
+        "4-4": "l’incantateur est en permanence nerveux et à cran, ne pouvant rester en place, ce qui lui fait subir un malus de -1 à toutes les actions nécessitant de la concentration",
+        "5-6": "majeure",
+        "7-8": "supérieure."
+      }
+    },
+    "Haste Manifestation": {
+      "name": "Hâte Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "la cible devient floue",
+        "2-2": "la cible est enveloppée d’une aura trouble ressemblant à une vague de chaleur",
+        "3-3": "aucune manifestation quand la cible est immobile, mais ses mouvements sont rapides comme l’éclair."
+      }
+    },
+    "Haste Misfire": {
+      "name": "Hâte Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur ralentit le temps pour lui-même, ce qui lui fait perdre sa prochaine action",
+        "2-2": "l’incantateur ralentit le temps pour lui-même et 1d4 alliés à moins de 6 m, ce qui leur fait perdre leur prochaine action",
+        "3-3": "l’incantateur s’inflige un vieillissement de 1d10+10 ans",
+        "4-4": "(4) l’incantateur lance hâte sur un insecte à proximité qui se met à bourdonner violemment avant de partir au loin."
+      }
+    },
+    "Hepsoj's Fecund Fungi Corruption": {
+      "name": "Champignons féconds d’Hepsoj Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur développe une toux chronique et crache des spores de moisissures",
+        "2-2": "de petites excroissances de champignons coriaces se développent sur la peau de l’incantateur",
+        "3-3": "une odeur perpétuelle de moisi et de mildiou accompagne l’incantateur",
+        "4-4": "la tête de l’incantateur prend la forme tortueuse d’un champignon."
+      }
+    },
+    "Hepsoj's Fecund Fungi Manifestation": {
+      "name": "Champignons féconds d’Hepsoj Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "de minuscules filaments de champignons poussent sur les doigts de l’incantateur tandis qu’il produit sa magie",
+        "2-2": "l’incantateur émet un nuage de spores scintillantes par la bouche et le nez avant que la magie ne prenne forme",
+        "3-3": "de petites vesses-de-loup surgissent des pieds de l’incantateur et se dirigent vers la ou les cibles du sort",
+        "4-4": "la chair de l’incantateur se couvre de spores duveteuses qui fusionnent pour créer l’effet désiré"
+      }
+    },
+    "Hepsoj's Fecund Fungi Misfire": {
+      "name": "Champignons féconds d’Hepsoj Revers",
+      "description": "",
+      "results": {
+        "1-1": "de minuscules homoncules champignon, apparaissent au pied de l’incantateur. Ils le bousculent et lui volent un petit objet avant de s’enfuir",
+        "2-2": "l’air autour de l’incantateur dans un rayon de 3 m se remplit de spores épaisses qui obscurcissent la vision pendant 1d3 rounds (les attaques à distance et les jets de sauvegarde subissent une pénalité de -2)",
+        "3-3": "la gorge de l’incantateur se retrouve envahie de champignons spongieux, et il ne peut rien faire d’autre que tousser pendant 1d4 rounds pour essayer de s’en débarrasser",
+        "4-4": "des excroissances fongiques douloureuses percent la peau de l’incantateur, lui infligeant 1d6 points de dégâts",
+        "5-5": "le sort invoque malencontreusement une vase originelle ou un champignhomme à l’endroit où se trouve l’incantateur. La créature invoquée surgit en 1d5 rounds, affamée ou mécontente d’avoir été appelée."
+      }
+    },
+    "Holy Sanctuary Manifestation": {
+      "name": "Sanctuaire Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "aura brillante",
+        "2-2": "halo angélique",
+        "3-3": "rai de lumière tombant des cieux",
+        "4-4": "« légèreté divine » qui donne l’impression que le clerc flotte juste au-dessus du sol."
+      }
+    },
+    "Invisibility Corruption": {
+      "name": "Invisibility Corruption",
+      "description": "",
+      "results": {
+        "1-6": "one portion of caster's body turns permanently invisible: 1: one hand, 2: one arm, 3: ears, 4: torso, 5: eyes, 6: one leg;",
+        "7-7": "caster's head becomes permanently and irrevocably visible, such that when he is otherwise turned invisible, his head remains visible and appears like a floating orb with no body;",
+        "8-11": "when caster turns invisible, his body polymorphs into another shape [visible to creatures that can see invisible]:",
+        "8-8": "bear,",
+        "9-9": "ape-man,",
+        "10-10": "wolf-man,",
+        "11-11": "horse-man;",
+        "12-14": "minor corruption;",
+        "15-15": "major corruption;",
+        "16-16": "greater corruption"
+      }
+    },
+    "Invisibility Misfire": {
+      "name": "Invisibility Misfire",
+      "description": "",
+      "results": {
+        "1-1": "a wandering ghost that was formerly invisible is suddenly made visible within 15' of caster;",
+        "2-2": "one randomly determined enemy within 20' is made invisible for 1 turn [no effect if no nearby enemies];",
+        "3-3": "all enemies within 50' are made invisible for 1 turn;",
+        "4-4": "for the next day, one randomly determined ally within 50' glows as if suffused in bright sunlight, becoming the target for any animal-minded creature that attacks"
+      }
+    },
+    "Invisible Companion Corruption": {
+      "name": "Invisible Companion Corruption",
+      "description": "",
+      "results": {
+        "1-3": "minor corruption;",
+        "4-5": "major corruption;",
+        "6-6": "greater corruption"
+      }
+    },
+    "Invisible Companion Misfire": {
+      "name": "Invisible Companion Misfire",
+      "description": "",
+      "results": {
+        "1-1": "the caster accidentally turns his nearest ally invisible for [[/roll 1d6]] rounds;",
+        "2-2": "the caster accidentally turns his nearest enemy invisible for [[/roll 1d6]] rounds;",
+        "3-3": "the caster summons a visible companion which is deformed and horrible to look upon, such that until it is dismissed or [[/roll 1d6]] turns pass, the caster and all who look upon it must make DC 8 Fort saves or spend a round nauseated and vomiting;",
+        "4-4": "the caster summons an invisible \"companion\" which is an obese, flatulent amphibian that will not leave until [[/roll 1d6]] hours have passed and makes constant noises and sounds until then"
+      }
+    },
+    "Invoke Azi Dahaka Corruption": {
+      "name": "Invoquer Azi Dahaka Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke Bobugbubilz Corruption": {
+      "name": "Invoquer Bobugbubilz Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke Ithha, Prince of Elemental Wind Corruption": {
+      "name": "Invoquer Ithha, Prince élémentaire du vent Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke Obitue-Que Corruption": {
+      "name": "Invoquer Obitue-Que Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke Patron Corruption": {
+      "name": "Invoquer un Patron Corruption",
+      "description": "",
+      "results": {
+        "1-4": "mineure",
+        "5-7": "majeure",
+        "8-8": "supérieure."
+      }
+    },
+	
+    "Invoke Sezrekan Corruption": {
+      "name": "Invoquer Sezrekan Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke the King of Elfland Corruption": {
+      "name": "Invoquer Le Roi des terres elfiques Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke the Three Fates Corruption": {
+      "name": "Invoquer les Trois Grées Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Invoke Yddgrrl, the World Root Corruption": {
+      "name": "Invoquer Yddgrrl, La racine du monde Corruption",
+      "description": "",
+      "results": {
+        "1-4": "@Compendium[dcc-core-book.dcc-core-tables.ZuGmhXGbhrJIuX9v]{Table 5-3: Corruption mineure}",
+        "5-7": "@Compendium[dcc-core-book.dcc-core-tables.Q1zoCQk4Pv0E7ItP]{Table 5-4: Corruption majeure}",
+        "8-8": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Corruption supérieure}"
+      }
+    },
+    "Kith of the Hydra Manifestation": {
+      "name": "Kith of the Hydra Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "a single tendril of hair turns into a slender snake, rooted in the caster’s scalp",
+        "2-2": "a snake takes form in the caster’s throat, speaking his words with its forked tongue",
+        "3-3": "caster’s eyes take on the serpentine cast of a snake",
+        "4-4": "caster molts like a snake, slowly shedding his skin"
+      }
+    },
+    "Knock Corruption": {
+      "name": "Knock Corruption",
+      "description": "",
+      "results": {
+        "1-3": "minor corruption;",
+        "4-5": "major corruption;",
+        "6-6": "greater corruption"
+      }
+    },
+    "Knock Manifestation": {
+      "name": "Knock Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "resounding knocking sound",
+        "2-2": "loud smashing sound",
+        "3-3": "subtle sound of a lock clicking open",
+        "4-4": "flash of light"
+      }
+    },
+    "Knock Misfire": {
+      "name": "Knock Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster accidentally strengthens the lock on the targeted door, increasing DCs to unlock/ break it by +4;",
+        "2-2": "caster makes the targeted door invisible for [[/roll 1d6]] rounds;",
+        "3-3": "caster causes all fasteners on his person to come undone, including shoelaces, belts, potion stoppers, scroll cases, and so on"
+      }
+    },
+    "Levitate Corruption": {
+      "name": "Levitate Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster permanently float [[/roll 1d6]]\" above the ground;",
+        "2-2": "glass objects are permanently repelled whenever they come within 6\" of the caster, much like how magnets repel each other;",
+        "3-3": "caster's hair stands permanently on end;",
+        "4-5": "major;",
+        "6-6": "minor"
+      }
+    },
+    "Levitate Manifestation": {
+      "name": "Levitate Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "target floats in air",
+        "2-2": "bluish disc of force appears beneath target to lift it into air",
+        "3-3": "a great winged bird descends from above to lift target",
+        "4-4": "pillar of phantasmal mist pushes creature into the air"
+      }
+    },
+    "Lightning Bolt Corruption": {
+      "name": "Lightning Bolt Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster is permanently charged with static electricity, causing him to take 1 point of shock damage every time he touches a metal object, and causing him to inflict 1 point of shock damage every time he touches a creature wearing metal armor;",
+        "2-2": "caster's hair permanently stands on end, defying gravity in a most peculiar way;",
+        "3-3": "caster is forever sensitive to electrical currents, allowing him to discover water underground as a dowser but also causing him to take +1 damage per die on all electrical attacks;",
+        "4-4": "caster's brain is scrambled by electrical currents, causing his Intelligence and Personality scores to transpose;",
+        "5-6": "major;",
+        "7-8": "greater"
+      }
+    },
+    "Lightning Bolt Misfire": {
+      "name": "Lightning Bolt Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster zaps himself for [[/roll 2d4]] damage;",
+        "2-2": "caster zaps one randomly determined ally within 30' for [[/roll 2d4]] damage;",
+        "3-3": "caster charges the point where he stands with electrical energy, such that any creature within 10' of that point on a following round who wears metal armor or carries metal weapons will take [[/roll 2d6]] damage as the electrical charge is released; the charge does not dissipate until released"
+      }
+    },
+    "Locate Object Corruption": {
+      "name": "Locate Object Corruption",
+      "description": "",
+      "results": {
+        "1-1": "for the rest of his life, the caster constantly misplaces things, such that any time he goes to retrieve an object, there is a 10% chance he's misplaced it;",
+        "2-2": "the caster's eyes turn a deep purple color;",
+        "3-3": "the caster becomes a magnet for the object-obfuscating magic of other sorcerers, such that every day there is a 10% chance that a new, randomly-determined object appears on his person, and a separate 5% chance that the angry owner of a formerly-appeared object arrives to reclaim it;",
+        "4-5": "minor corruption;",
+        "6-6": "major corruption"
+      }
+    },
+    "Locate Object Misfire": {
+      "name": "Locate Object Misfire",
+      "description": "",
+      "results": {
+        "1-1": "one randomly determined object on the caster's person is transported [[/roll 1d6]]x100 miles away, and the caster knows exactly where it is;",
+        "2-2": "sometime in the next month the caster loses his favorite magic item and can't find it no matter where he looks;",
+        "3-3": "the weapon of one randomly determined ally within 40' disappears, only to reappear [[/roll 1d7]] days later a little worse for wear;",
+        "4-4": "the caster completely forgets all knowledge of the object he was going to locate"
+      }
+    },
+    "Lokerimon's Orderly Assistance Corruption": {
+      "name": "Lokerimon's Orderly Assistance Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster assumes alien personality traits borrowed from the connected casters;",
+        "2-2": "caster must make a DC 10 Will check to avoid lending assistance to anyone who requests it from him;",
+        "3-3": "caster suffers a permanent -1 to spell checks when alone;",
+        "4-4": "physically touching another living person causes the caster great pain and inflicts 1 point of damage per round of contact if a DC 8 Fort save is failed"
+      }
+    },
+    "Lokerimon's Orderly Assistance Manifestation": {
+      "name": "Lokerimon's Orderly Assistance Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "a glimmering path of light connects the caster and his chosen target(s)",
+        "2-2": "the eyes of the connected casters glow with the same eerie blue illuminations",
+        "3-3": "sparks of magical lightning flicker between the connected caster"
+      }
+    },
+    "Lokerimon's Orderly Assistance Misfire": {
+      "name": "Lokerimon's Orderly Assistance Misfire",
+      "description": "",
+      "results": {
+        "1-1": "all spellcasters within 20' suffer a -2 penalty to spell checks for [[/roll 1d3]] rounds;",
+        "2-2": "caster temporarily loses a random point of Strength, Agility, or Stamina as spellburn ripples through his body [he gains no benefit from this spellburn];",
+        "3-3": "caster's next successful casting causes an ally to lose a point of Strength, Agility, or Stamina as spontaneous spellburn wracks his body [the affected person is chosen by the judge and this spellburn provides no bonus to the cast spell];",
+        "4-4": "caster makes two spell checks on his next spell and must apply the lower roll"
+      }
+    },
+    "Lokerimon's Unerring Hunter Corruption": {
+      "name": "Lokerimon's Unerring Hunter Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster gains a mania about where his allies or enemies are at any given moment;",
+        "2-2": "caster begins to eat like a hound, eschewing silverware to eat and drink with his mouth alone;",
+        "3-3": "caster takes on a doglike appearance;",
+        "4-4": "caster has horrible nightmares of being chased that might cause temporary Stamina loss at the judge's discretion"
+      }
+    },
+    "Lokerimon's Unerring Hunter Manifestation": {
+      "name": "Lokerimon's Unerring Hunter Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "the hunter coalesces from the shadows and then streaks off in search of its target",
+        "2-2": "caster vomits up a mass of bile and cancerous flesh that assumes the hunter’s form",
+        "3-3": "the target dreams of a faceless entity pursuing him every night until the hunter finds him",
+        "4-4": "the target’s possessions burst into flames and the hunter forms from the smoke it creates"
+      }
+    },
+    "Lokerimon's Unerring Hunter Misfire": {
+      "name": "Lokerimon's Unerring Hunter Misfire",
+      "description": "",
+      "results": {
+        "1-1": "a lesser unerring hunter appears and attacks the caster;",
+        "2-2": "the caster offends the hunter race and cannot attempt to cast this spell again until either 1 year has passed or he undertakes steps to make amends -judge's discretion-;",
+        "3-3": "target becomes aware it is being sought and knows who is attempting find it;",
+        "4-4": "target's possession is destroyed in the attempt and the caster must find a new item to replace it;",
+        "5-5": "caster is targeted by a lesser unerring hunter that attempts to capture him and bring him to his intended target"
+      }
+    },
+    "Magic Bulwark Corruption": {
+      "name": "Magic Bulwark Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster gains a new, violent red scar whenever he suffers damage from a magic attack;",
+        "2-2": "caster becomes addicted to casting, temporarily losing 1 point of Stamina any day he does not perform a spell, and needing progressively more spells to avoid the Stamina loss in the form of 2 spells/day after 2 months, 3 spells/day after 3 months, 4 spells/day after 4 months, etc.;",
+        "3-3": "caster permanently glows a soft blue color;",
+        "4-4": "caster's eyes suffer magical trauma rendering him completely color-blind"
+      }
+    },
+    "Magic Bulwark Manifestation": {
+      "name": "Magic Bulwark Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "caster is encased in a field of coruscating light that flashes whenever targeted by magic",
+        "2-2": "a stream of small glowing orbs whirls around the caster, dissipating one by one when intercepting magical attacks",
+        "3-3": "shadowy mouths hang in the folds of the caster’s garments, devouring spells cast against him",
+        "4-4": "a cloud of glowing smoke wreathes the caster’s body"
+      }
+    },
+    "Magic Bulwark Misfire": {
+      "name": "Magic Bulwark Misfire",
+      "description": "",
+      "results": {
+        "1-1": "the caster suffers a -2 penalty to any spell checks performed for the rest of the day;",
+        "2-2": "magic is attracted to the caster and any spell cast at a target with 25' of him has a 50% chance of targeting him instead, but the effect fades after [[/roll 1d4]] hours;",
+        "3-3": "caster cannot cast spells for the normal duration of magic bulwark and can only use magical items or counterspells during that time;",
+        "4-4": "all spells cast within 15' of the caster [including his own] suffer a -2 penalty to spell checks;",
+        "5-5": "caster loses one random spell for the day"
+      }
+    },
+    "Magic Missile Corruption": {
+      "name": "Projectile magique Corruption",
+      "description": "",
+      "results": {
+        "1-4": "les mains et les avant-bras de l’incantateur changent de couleur pour se rapprocher de la teinte des projectiles magiques habituellement générés : (1) jaune électrique (2) bleu glace (3) vert acide (4) rouge vif",
+        "5-5": "les pupilles et les iris de l’incantateur disparaissent, et ses yeux deviennent blanc laiteux",
+        "6-6": "le bout des doigts de l’incantateur devient translucide et presque invisible, d’apparence fantomatique ou semblant composé de pure énergie de force",
+        "7-7": "désormais, à chaque incantation de projectile magique, le mage devient invisible pendant 1d6 rounds",
+        "8-8": "l’incantateur génère un globe de force permanent qui orbite rapidement autour de sa tête, frappant toute créature qui s’approche à moins de 1 m, lui infligeant une vive douleur et 1 point de dégâts par round (ce qui comprend malheureusement les alliés qui tentent de le soigner ou ceux qui combattent à ses côtés quand l’incantateur est au corps à corps)."
+      }
+    },
+    "Magic Missile Manifestation": {
+      "name": "Projectile magique Manifestation",
+      "description": "<p>Roll [[/roll 1d10]]</p>",
+      "results": {
+        "1-1": "météore",
+        "2-2": "flèche de feu",
+        "3-3": "flèche de force",
+        "4-4": "aigle hurlant aux griffes acérées",
+        "5-5": "rayon noir",
+        "6-6": "boule de foudre",
+        "7-7": "jet d’acide",
+        "8-8": "rayon de gel",
+        "9-9": "dague de force",
+        "10-10": "hache de force"
+      }
+    },
+    "Magic Missile Misfire": {
+      "name": "Projectile magique Revers",
+      "description": "",
+      "results": {
+        "1-1": "explosion de projectiles qui partent dans toutes les directions. Toutes les créatures dans un rayon de 30 m (alliées et ennemies) sont frappées par 1d4-1 projectiles, chacun infligeant 1 point de dégâts",
+        "2-2": "les projectiles sont lancés puis ricochent pour revenir sur l’incantateur qui est frappé par 1d3-1 projectiles lui infligeant 1 point de dégâts chacun",
+        "3-3": "explosion énergétique de force autour de l’incantateur, infligeant 1d6 points de dégâts à celui-ci ainsi qu’à toute personne située dans un rayon de 3 m (jet de sauvegarde de Réflexes DD10 pour réduire de moitié)",
+        "4-4": "explosion différée : pas d’effet immédiat mais, au cours des prochaines 24 h, la première fois que l’incantateur obtient un 1 naturel à n’importe quel jet de dé (pas seulement le d20), un projectile magique jaillira pour frapper un personnage au hasard situé dans un rayon de 30 m, lui infligeant 1d4 points de dégâts (et frappera l’incantateur s’il n’y a pas d’autres cibles). Si aucun 1 naturel n’est obtenu en 24 h, le phénomène prend fin",
+        "5-5": "l’incantateur se charge d’une telle énergie que la prochaine fois qu’il touche une créature ou un objet, il libère une décharge qui lui inflige 1 point de dégâts, ainsi que 1d6+1 points de dégâts à ce qu’il aura touché",
+        "6-6": "l’énergie se décharge vers le sol, générant un trou juste sous l’incantateur d’une profondeur de 1d6 m, le faisant chuter au fond. Il ne subit pas de dégâts initiaux, car il « surfe » sur l’effondrement, mais la profondeur du trou peut ouvrir sur le niveau inférieur d’un donjon (provoquant d’éventuels dégâts), et il doit désormais grimper pour en sortir."
+      }
+    },
+    "Magic Mouth Corruption": {
+      "name": "Magic Mouth Corruption",
+      "description": "",
+      "results": {
+        "1-1": "the caster stutters terribly;",
+        "2-2": "the caster mumbles constantly, even in his sleep;",
+        "3-3": "the caster's teeth start to decay at an alarming rate and fall out at the rate of 1 every [[/roll 1d7]] days until magically healed;",
+        "4-4": "the caster can't stop repeating the phrase his magic mouth was meant to impart;",
+        "5-6": "minor"
+      }
+    },
+    "Magic Mouth Misfire": {
+      "name": "Magic Mouth Misfire",
+      "description": "",
+      "results": {
+        "1-1": "a roughly human-sized magic mouth appears, but it does not speak and has absolutely terrible halitosis, which proceeds to stink up the entire area until it vanishes [[/roll 1d7]] days later;",
+        "2-2": "a magic mouth appears for [[/roll 1d6]] hours but it mumbles and stutters such that it cannot be understood;",
+        "3-3": "the caster inadvertently creates a 2' tall magic nose instead of a magic mouth, and the nose lasts for [[/roll 1d8]] hours during which time it oozes mucus in a rather disgusting display;",
+        "4-4": "the magic mouth appears on top of the caster's own mouth and lasts for [[/roll 1d6]] rounds, during which time his speech is limited to the phrase he was planning to impart to the magic mouth"
+      }
+    },
+    "Magic Shield Corruption": {
+      "name": "Bouclier magique Corruption",
+      "description": "",
+      "results": {
+        "1-4": "mineure",
+        "5-7": "majeure",
+        "8-8": "supérieure"
+      }
+    },
+    "Magic Shield Manifestation": {
+      "name": "Bouclier magique Manifestation",
+      "description": "<p>Roll [[/roll 1d6]]</p>",
+      "results": {
+        "1-1": "disque de force bleue scintillante",
+        "2-2": "champ de force jaunâtre",
+        "3-3": "main géante qui dévie les attaques",
+        "4-4": "bouclier émettant une lumière éclatante",
+        "5-5": "déchirure d’un noir insondable dans le tissu de la réalité",
+        "6-6": "tourbillon d’air qui repousse les adversaires."
+      }
+    },
+    "Magic Shield Misfire": {
+      "name": "Bouclier magique Revers",
+      "description": "",
+      "results": {
+        "1-1": "le bouclier de l’incantateur se matérialise de manière inversée : en projetant sa force vers le mage plutôt que vers ses ennemis. L’incantateur subit 1d4 points de dégâts",
+        "2-2": "le bouclier invoqué profite accidentellement à l’ennemi le plus proche, lui conférant un bonus de +4 à la CA pendant 1d3 tours",
+        "3-3": "l’incantateur invoque malencontreusement le bouclier à l’horizontale sous ses pieds, le soulevant à 8 cm du sol et le faisant « surfer » pendant 1d3+1 rounds, ce qui augmente son mouvement de 3 m mais lui impose une pénalité de -1 aux jets d’attaque, de dégâts, à la CA et aux tests d’incantation car il dérive et glisse un peu au hasard",
+        "4-4": "l’incantateur s’enferme complètement dans un bouclier qui bloque toutes les attaques, dégâts, sorts et contacts physiques entre lui et le reste du monde, ce qui fait qu’il est totalement enfermé dans une bulle transparente qui le rend invulnérable aux attaques mais aussi incapable de se déplacer ou de communiquer avec l’extérieur pendant 1d4 rounds."
+      }
+    },
+    "Make Potion Corruption": {
+      "name": "Make Potion Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's flesh takes on a permanent acrid smell; (2) caster's hand are mottled and stained by strange essences;",
+        "2-2": "caster's hand are mottled and stained by strange essences;",
+        "3-3": "liquids writhe snake-like within any container handled by the caster;",
+        "4-4": "liquids boil away in the caster's presence."
+      }
+    },
+    "Make Potion Manifestation": {
+      "name": "Make Potion Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "the liquid glows with scintillating colors",
+        "2-2": "small skull-shaped clouds rise from the brew- ing potion",
+        "3-3": "the brew churns and twists as if alive",
+        "4-4": "the liquid defies gravity, climbing the walls of its container and dripping up towards the ceiling"
+      }
+    },
+    "Make Potion Misfire": {
+      "name": "Make Potion Misfire",
+      "description": "",
+      "results": {
+        "1-1": "The potion explodes, resulting in [[/roll 1d10]] points of damage (Fort save against a DC equal to the intended potion's spell check number is allowed for half damage);",
+        "2-2": "the potion seems fine, but in truth has no magical properties;",
+        "3-3": "re-roll a normal result, and potion has the opposite intended effect as deemed appropriate by the judge;",
+        "4-4": "re-roll a normal result, and potion functions as intended but for half the usual duration."
+      }
+    },
+    "Mending Manifestation": {
+      "name": "Réparer Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "l’objet brille",
+        "2-2": "l’objet disparaît avant de réapparaître réparé",
+        "3-3": "une nuée de gnomes minuscules surgit des fissures et des recoins pour réparer l’objet avec des marteaux et des enclumes avant de déguerpir",
+        "4-4": "l’objet fond puis se reforme réparé."
+      }
+    },
+    "Mending Misfire": {
+      "name": "Réparer Revers",
+      "description": "",
+      "results": {
+        "1-1": "les vêtements de l’incantateur s’effilochent et tombent à ses pieds en paquets de fils",
+        "2-2": "tous les liens, lacets, ceintures et bretelles à moins de 6 m de l’incantateur se défont, provoquant la chute des pantalons, des boucliers, le déversement du contenu des sacs, les bottes qui se délacent, les sac à dos qui glissent des épaules, etc.",
+        "3-3": "des taches de rouille apparaissent sur toutes les armes en métal à moins de 3 m, causant une pénalité de -1 aux dégâts",
+        "4-4": "une patine verdâtre ternit tous les métaux précieux portés par l’incantateur, diminuant leur valeur (et semant le doute sur leur qualité) tant qu’ils ne sont pas polis",
+        "5-5": "l’objet mécanique le plus complexe dans un rayon de 6 m (probablement une arbalète, mais consultez les fiches de personnages) se brise de telle sorte que sa réparation s’avère très compliquée",
+        "6-6": "l’incantateur subit une blessure mineure mais douloureuse, comme un orteil écrasé ou un ongle incarné, qui ne cause aucun dégât mais inflige une pénalité de -1 à tous les jets pendant 10 mn."
+      }
+    },
+    "Mind Purge Corruption": {
+      "name": "Mind Purge Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster becomes absent-minded and must make a DC 7 Luck check each morning or misplace a randomly determined, useful object;",
+        "2-2": "caster lacks name-recognition he may be physically memorable, but nobody can ever place his name",
+        "3-3": "one person at random completely forgets the caster;",
+        "4-4": "caster takes on habits or physical tics possessed by another typically someone he has cast this or other mind control spells on in the past"
+      }
+    },
+    "Mind Purge Manifestation": {
+      "name": "Mind Purge Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "target spews smoke from nose, ears, and mouth",
+        "2-2": "a flash of crimson fire bursts from the target’s eyes",
+        "3-3": "tendrils of evil-looking protoplasm erupt from the caster’s hands to burrow into the target’s head",
+        "4-4": "the caster inhales streams of sparkling energy from the target’s mouth"
+      }
+    },
+    "Mind Purge Misfire": {
+      "name": "Mind Purge Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster forgets who he is for [[/roll 1d3]] rounds [no spellcasting and stands befuddled trying to recall who he is and what he is doing];",
+        "2-2": "all within 15' radius must make a DC 10 Will save or forget 1 random memory;",
+        "3-3": "universe forgets where the caster was and misplaces him [caster is randomly moved [[/roll 1d1010]]' away from currently location and must re-roll initiative if in combat];",
+        "4-4": "any allies [including caster] within a 15' radius of the caster must make a DC 10 Will save or believe themselves to be another randomly determined ally for [[/roll 1d3]] rounds;",
+        "5-5": "caster must make a spell check for his most powerful spell or forget it for the day"
+      }
+    },
+    "Mirror Image Corruption": {
+      "name": "Mirror Image Corruption",
+      "description": "",
+      "results": {
+        "1-3": "major;",
+        "4-6": "minor"
+      }
+    },
+    "Mirror Image Misfire": {
+      "name": "Mirror Image Misfire",
+      "description": "",
+      "results": {
+        "1-1": "the caster creates a \"backward\" mirror image of himself, such that the mirror image's left hand carries what the caster holds in his right hand, and so on, meaning the mirror image [which lasts for [[/roll 1d6]] rounds] is obviously different than the caster;",
+        "2-2": "the caster creates [[/roll 1d6]] mirror images, but they're all different people, not \"mirrors\" at all, and frankly they have odd habits or strange tics that make them discomforting to be around for their [[/roll 1d6+1]] round duration;",
+        "3-3": "the caster generates [[/roll 1d4+1]] extra shadows that dance around his feet, sometimes into the light rather than away from it, lasting the rest of the day;",
+        "4-4": "the caster creates a mirror image of himself that is short and fat, like a funhouse mirror, lasting [[/roll 1d6]] rounds"
+      }
+    },
+    "Monster Summoning Corruption": {
+      "name": "Monster Summoning Corruption",
+      "description": "",
+      "results": {
+        "1-3": "minor corruption;",
+        "4-6": "major corruption"
+      }
+    },
+    "Monster Summoning Manifestation": {
+      "name": "Monster Summoning Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "egg shimmers into existence, then hatches into monster summoned",
+        "2-2": "flash of dark clouds and monster appears",
+        "3-3": "monster’s skeleton appears first, then organs appear, then muscles knit them together, then skin grows, and animal appears",
+        "4-4": "monster erupts from ground fully formed"
+      }
+    },
+    "Monster Summoning Misfire": {
+      "name": "Monster Summoning Misfire",
+      "description": "",
+      "results": {
+        "1-1": "the caster summons forth [[/roll 1d6]] 1 HD creatures that are not under his control and immediately attack him;",
+        "2-2": "instead of summoning creatures, the caster sends himself to a place where the creatures live, arriving in a dark, dank cave where he must spend [[/roll 1d4]] rounds fighting an unknown monstrous opponent -judge's discretion at [[/roll 1d4]] HD- before returning wounded and bloody;",
+        "3-3": "the caster sends his familiar away for [[/roll 1d4]] hours;",
+        "4-4": "the nearest ally is transformed into an intelligent ape, dressed in the same clothes and equipment, for [[/roll 1d4]] rounds"
+      }
+    },
+    "Neutralize Poison or Disease Manifestation": {
+      "name": "Neutralize Poison or Disease Manifestation",
+      "description": "Roll [[/roll 1d4]]",
+      "results": {
+        "1-1": "the target is cured with no visible effect",
+        "2-2": "the target is cured and the mark of the cleric’s deity appears as a birthmark or small scar in a place that was previously affected by the poison or disease",
+        "3-3": "the blinding rays of heavenly light shine forth on the target, making him feel an intense and almost painful heat, burning off the toxins that infest his body",
+        "4-4": "the target’s skin peels instantaneously, as with a severe sunburn, and as the old skin sloughs off the new skin beneath appears younger and healthier as the toxins are removed."
+      }
+    },
+    "Nythuul's Porcupine Coat Corruption": {
+      "name": "Nythuul's Porcupine Coat Corruption",
+      "description": "",
+      "results": {
+        "1-1": "the caster's body hair becomes stiff and quill-like;",
+        "2-2": "small quills speckle the caster's face and his nose assumes a hedge-hog-like quality;",
+        "3-3": "the caster's skin constantly itches and may impose a -1 penalty to tasks that require finesse or concentration at the judge's discretion;",
+        "4-4": "the caster develops a taste for worms and grubs, preferably freshly rooted from the earth"
+      }
+    },
+    "Nythuul's Porcupine Coat Misfire": {
+      "name": "Nythuul's Porcupine Coat Misfire",
+      "description": "",
+      "results": {
+        "1-1": "the quills knit together, immobilizing the caster for [[/roll 1d4]] rounds until they fall out of his flesh;",
+        "2-2": "the quills appear underneath the caster's flesh, causing 1 point of damage to him each round he moves more than 5' or engages in any spellcasting or physical attacks;",
+        "3-3": "the quills are soft and oily, providing no protection and require a successful DC 8 Ref save each time the caster wishes to pick up an item or walk at more than half normal speed, with a failed save meaning the caster drops the item or slips and falls;",
+        "4-4": "the caster's eyes turn small and beady, and his distance vision suffers [all attacks or spell checks against targets father than 10' away suffer a -2 penalty];",
+        "5-5": "quills fire from the caster's body at random, requiring all within 15' of him to make a DC 10 Reflex save or suffer [[/roll 1d4]] damage"
+      }
+    },
+    "Paralysis (Wizard Casting) Manifestation": {
+      "name": "Paralysis (Wizard Casting) Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "crackle of electricity",
+        "2-2": "black ropy binds",
+        "3-3": "white pallor",
+        "4-4": "ethereal gray mist"
+      }
+    },
+    "Paralysis (Wizard Casting) Misfire": {
+      "name": "Paralysis (Wizard Casting) Misfire",
+      "description": "The wizard suffers a 50% chance of major corruption or misfire, rolling on the generic tables as appropriate.",
+      "results": {
+        "1-1": "@Compendium[dcc-core-book.dcc-core-tables.ueWyXu3ti2dBXsfI]{Table 5-5: Greater Corruption}",
+        "2-2": "@Compendium[dcc-core-book.dcc-core-tables.dVNL147uj3IIhvbk]{Table 5-6: Generic Spell Misfire}"
+      }
+    },
+    "Paralysis Manifestation": {
+      "name": "Paralysie Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "crépitement électrique",
+        "2-2": "liens noirs et visqueux",
+        "3-3": "pâleur cadavérique",
+        "4-4": "brouillard éthéré grisâtre."
+      }
+    },
+    "Patron Bond Corruption": {
+      "name": "Lier un Patron Corruption",
+      "description": "",
+      "results": {
+        "1-1": "Aucune – souillure de patron à chaque fois"
+      }
+    },
+    "Patron Bond Misfire": {
+      "name": "Lier un Patron Revers",
+      "description": "",
+      "results": {
+        "1-1": "Aucun"
+      }
+    },
+    "Patron Taint: Azi Dahaka": {
+      "name": "Souillure de patron : Azi Dahaka",
+      "description": "<p>Lorsqu’un mage lié à Azi Dahaka subit une souillure de patron, lancez 1d6 et consultez la table suivante. Une fois les 6 souillures acquises à leur degré le plus élevé, il n’est plus nécessaire de tirer sur cette table.</p>",
+      "results": {
+        "1-1": "Le mage projette une légère couche de poussière à chaque fois qu’il lance un sort. Celle-ci se dépose sur tout ce qui l’entoure dans un rayon de 6 m. La poussière semble absorber l’humidité et laisse la surface des objets sèche et rêche. Si cette souillure est obtenue une deuxième fois, le nuage de poussière invoqué par le mage flétrit et tue toutes les plantes naturelles dans un rayon de 7,5 m. Enfin, si ce résultat tombe une troisième fois, un nuage de poussière et de cendres semble suivre en permanence le mage, provoquant le flétrissement et la mort de toutes les plantes qui l’entourent dans un rayon de 3 m.",
+        "2-2": "Les incantations du mage provoquent des orages destructeurs, manifestations d’une colère surnaturelle. Après avoir lancé un sort, quel qu’il soit, il y a 10 % de chances qu’un coup de tonnerre se fasse entendre au loin. Si cette souillure est tirée une deuxième fois, il y a 35 % de chances que la foudre tombe à proximité au bout de 1d5 secondes. Si le résultat tombe une troisième fois, le mage a maintenant 50 % de chances de provoquer un éclair, immédiatement suivi d’un puissant coup de tonnerre. Toutes les créatures dans un rayon de 6 m autour du mage doivent réussir un jet de sauvegarde de Vigueur DD 10 sous peine de devenir sourdes durant 1d4 rounds.",
+        "3-3": "La présence du mage apporte ruine et décrépitude. Les objets de bois et de papier pourrissent à son contact, tombant en poussière au bout d’une semaine. Si ce résultat est obtenu une deuxième fois, le contact du mage réduit les vêtements de tissu et de cuir en lambeaux, puis en poussière au bout d’une dizaine de jours. Si cette souillure est tirée une troisième fois, son contact affecte le métal, qui rouille et se délite, pour devenir du sable au bout d’un mois. Les objets magiques résistent au contact du mage, mais montrent une usure inhabituelle, devenant marbrés, piquetés.",
+        "4-4": "Des plaques de peau pèlent sur le torse du mage, révélant des écailles irisées. Si cette souillure est tirée une deuxième fois, la peau des bras et des jambes est atteinte. Et si le résultat tombe une troisième fois, l’ensemble de l’épiderme du mage se désagrège pour révéler un corps couvert d’écailles.",
+        "5-5": "Les blessures du mage exsudent un suintement clair, comme une offrande à Azi Dahaka, asséchant lentement l’incantateur. Lorsque celui-ci subit une blessure, il perd 1 PV supplémentaire à cause de cette déperdition. Si cette souillure est acquise une deuxième fois, le mage développe des plaies suintantes sur l’ensemble de son corps. Si elles ne sont pas soignées et bandées régulièrement, elles lui font perdre 1d3 PV par jour. Enfin, si ce résultat est obtenu une troisième fois, le corps du mage est couvert de plaies et de croûtes qui menacent de se rouvrir au moindre effort. Chaque fois qu’il a recours au brûlesort, le mage perd 1 PV pour chaque point de caractéristique dépensé.",
+        "6-6": "Le mage revêt l’aspect d’Azi Dahaka : une deuxième paire d’yeux lui pousse quelque part sur les épaules ou dans le dos. Une mutation guère utile, car ces yeux sont aveugles, mais clignent régulièrement de manière perturbante. Si ce résultat est obtenu une deuxième fois, deux autres paires d’yeux lui poussent dans les mêmes zones. Enfin, si cette souillure est obtenue une troisième fois, un visage émerge du corps du mage. Sa bouche prononce d’étranges et lugubres louanges à la gloire d’Azi Dahaka dans des langues oubliées, ses narines projettent des flammèches, et ses yeux aveugles bougent de manière imprévisible, comme s’ils fixaient et suivaient des choses invisibles."
+      }
+    },
+	
+    "Patron Taint: Bobugbubilz": {
+      "name": "Souillure de patron : Bobugbubilz",
+      "description": "<p>Lorsqu’un mage lié à Bobugbubilz subit une souillure de patron, lancez 1d6 et consultez la table suivante. Une fois les 6 souillures acquises à leur degré le plus élevé, il n’est plus nécessaire de tirer sur cette table.</p>",
+      "results": {
+        "1-1": "Des mouches vrombissantes et agressives apparaissent à chaque fois que le mage lance un sort. Elles sont aussi agaçantes que perturbantes mais inoffensives. Si ce résultat est obtenu une deuxième fois, il s’amplifie : une énorme nuée de mouches apparaît alors à chaque incantation. La nuée est assez imposante pour distraire ennemis et alliés dans un rayon de 3 m (jet de sauvegarde de Volonté DD 8 pour éviter de subir un malus de -1 à tous les jets de dés pendant un round). Le mage, quant à lui, est immunisé. Si cette souillure est tirée une troisième fois, la nuée suit le mage nuit et jour, quelle que soit son activité.",
+        "2-2": "Le mage est moite en permanence, comme s’il était dans un sauna ou sur des terres marécageuses tropicales. Ses sourcils sont mouillés, il transpire en permanence, et en fin de journée, ses vêtements finissent systématiquement trempés. Il peut être gêné pour transporter des parchemins, des livres et autres objets de ce type. Si ce résultat survient une deuxième fois, le mage transpire tellement que ses vêtements sont trempés dès midi. Si le mage obtient cette souillure une troisième fois, il ruisselle littéralement, est tout le temps assoiffé, doit se réhydrater en permanence et, pour finir, laisse une petite flaque lorsqu’il reste en place quelques instants au même endroit.",
+        "3-3": "Le visage de l’incantateur prend des airs de batracien. Ses yeux s’écartent, ses sourcils s’épaississent, sa bouche s’agrandit tandis que ses lèvres s’affinent. Sa voix devient grave et profonde, laissant parfois s’échapper de curieux coassements. Si cette souillure est obtenue une deuxième fois, le visage du mage se rapproche encore plus de celui d’une grenouille : sa langue s’allonge, et des sortes d’arètes oculaires commencent à apparaître. La nuit, durant son sommeil, il coasse involontairement. Il peut encore passer pour un humain la majorité du temps, mais est obligé de prétendre être frappé d’une difformité quelconque. Si le résultat tombe une troisième fois, la tête entière du mage devient celle d’une grenouille. Il peut toujours parler, d’une déroutante voix amphibienne, mais ne peut définitivement plus se faire passer pour un humain normal.",
+        "4-4": "Chaque fois que le mage lance un sort, la zone d’effet est envahie par une horrible odeur de marais, mélange de végétation pourrissante et de fragrance de poisson absolument déplaisante. Si le résultat tombe une deuxième fois, un parfum nauséabond suit le mage en permanence, tellement infect que les passants ne peuvent s’empêcher de le commenter. Si la souillure est obtenue une troisième fois, le mage pue au point de ne jamais pouvoir être accepté en société (bien que cette odeur soit par ailleurs considérée comme suave par les suivants de Bobugbubilz).",
+        "5-5": "Chaque fois que le mage lance un sort, ses jambes s’allongent et les articulations se déforment, l’obligeant à se mouvoir par petits bonds pendant 1d4 rounds, avant de reprendre leur apparence normale. (Si les effets d’un sort vont à l’encontre de cette transformation, ils prennent le dessus sur la souillure.) Si cette souillure est tirée une deuxième fois, la transformation perdure de telle sorte que les jambes du mage ressemblent à s’y méprendre à celles d’une grenouille pendant 1d4 tours. S’il ne bénéficie pas de capacités de saut particulières, il doit tout de même se mouvoir en bondissant plutôt qu’en marchant, ce qui lui donne un air étrange. Si le résultat est obtenu une troisième fois, les jambes du mage sont transformées de manière définitive. Il gagne la capacité de sauter l’équivalent de son mouvement (par exemple, s’il a un mouvement de 9 m, il peut bondir de 9 m et ainsi sauter aisément les ravins et fossés).",
+        "6-6": "Chaque fois que le mage lance un sort, de petits crapauds apparaissent autour de lui. Ils tombent du ciel, s’extirpent des plis de ses vêtements, sortent de terre à ses pieds ou parfois se matérialisent au travers du sort qui est lancé. Ils détalent ensuite rapidement dans les fourrés. Si ce résultat est tiré une deuxième fois, les crapauds n’apparaissent plus seulement lors des incantations, mais aussi à n’importe quel moment 1d4 fois par jour : lorsque le mage s’attable pour dîner, s’apprête à étudier son grimoire, ou encore, lorsqu’il dégaine son arme pour combattre ! Les crapauds apparaissent, tout simplement. Si cette souillure est acquise une troisième fois, les crapauds restent auprès du mage et l’accompagnent partout. Il est ainsi en permanence suivi par une cohorte coassante, fouissante et bondissante de crapauds de dimensions diverses, allant de simples têtards à d’énormes crapauds-buffles. Peu importe le nombre de fois où il les chasse, de nouveaux surviendront inlassablement. Autant dire qu’il devient particulièrement difficile au mage de frayer avec la bonne société."
+      }
+    },
+	
+    "Patron Taint: Sezrekan": {
+      "name": "Souillure de patron : Sezrekan",
+      "description": "<p>Là où les autres patrons apposent leurs ignobles marques sur leurs adeptes, ceux qui suivent le Vieux Maître se mutilent eux-mêmes dans leur course pour atteindre la maîtrise arcanique de Sezrekan. Lorsqu’un mage lié à Sezrekan obtient une souillure, lancez 1d6 et consultez la table ci-dessous. Une fois les 6 souillures acquises à leur degré le plus élevé, il n’est plus nécessaire de tirer sur cette table.</p>",
+      "results": {
+        "1-1": "Poussé vers la folie par l’excès de connaissances occultes, le mage passe son prochain round à se graver un troisième oeil sur le front (s’infligeant 1d3 points de dégâts au passage). De retour dans un lieu civilisé, il cherchera un artisan capable de lui tatouer un troisième oeil sur le front au moyen d’encres exotiques et coûteuses, d’une valeur de 1d5x100 po. Si ce résultat est obtenu une deuxième fois, l’incantateur persiste à porter un bandeau sur les yeux pendant 1d4 jours dans l’espoir de réveiller son troisième oeil. Si cette souillure est tirée une troisième fois, le mage se crève les yeux, devenant aveugle. (Il y a 3 % de chances par niveau que cette automutilation donne effectivement vie à ce troisième oeil.)",
+        "2-2": "Ébloui par ses nouvelles connaissances sur la terrifiante nature du multivers, le mage cherche à remercier le Vieux Maître en lui offrant un sacrifice. L’incantateur doit accomplir son rituel aussi tôt que possible, dans la limite du raisonnable (même si la perception du mage de ce qu’est le raisonnable et du danger immédiat peut être différente de celle de ses compagnons). Lors d’une cérémonie d’une durée de 1 tour, le mage sacrifie ses richesses en l’honneur de Sezrekan pour une valeur d’au moins 1d5x100 po. Tous les objets se consument dans une flamme bleutée, et il y a 3 % de chances que Sezrekan récompense le mage par un bonus de +1 à son prochain test d’incantation. Si ce résultat est obtenu une deuxième fois, le mage doit sacrifier un objet magique, et il y a 6 % de chances que Sezrekan le remercie en lui octroyant un bonus de +2 à son prochain test d’incantation. Si ce résultat tombe une troisième fois, l’incantateur doit cette fois sacrifier un allié qu’il apprécie pour prouver sa dévotion absolue. Il y a alors 9 % de chances qu’il soit récompensé d’un bonus de +3 à son prochain test d’incantation.",
+        "3-3": "Avec un curieux sentiment de déjà-vu, le mage comprend que Sezrekan requiert ses services. À la discrétion du Juge, le mage est missionné par le Vieux Maître pour retrouver un objet occulte ou une ancienne relique située à 1d4 jours de voyage. Le mage a une vision très précise de l’objet convoité, mais seulement approximative de sa localisation et de ce par quoi il est gardé. Une seconde occurrence de ce résultat place l’objet à 1d4 semaines de distance et dans un lieu bien protégé. Enfin, si ce résultat tombe une troisième fois, l’objet sera sous la garde de protections anciennes, de pièges et autres démons, et sera situé à 1d4 mois de trajet dans des conditions de voyage particulièrement dangereuses.",
+        "4-4": "Lors d’un rêve éveillé, le puissant Sezrekan apparaît. Le mage réalise alors l’imperfection de sa magie et sa dépendance trop grande envers les puissances extérieures. Pour s’affranchir de leur influence, le mage abandonne l’un des sorts de niveau 1 qu’il connaît, jurant de ne plus jamais l’incanter. (Si, par la suite, celui-ci découvre un nouveau sort de niveau 1, il peut l’apprendre afin de remplacer le sort oublié.) Si ce résultat est obtenu une deuxième fois, le mage doit cette fois abandonner un sort de niveau 2. Enfin, s’il est tiré une troisième fois, c’est un sort de niveau 3 que le mage doit écarter. Si le mage refuse d’abandonner l’un de ses sorts, c’est Sezrekan qui l’abandonne alors !",
+        "5-5": "Les perspectives effrayantes induites par les connaissances du mage introduisent peu à peu la folie dans sa vie quotidienne. Il doit choisir une substance (fer, eau, acier, coton, or, argent, soie, bois, cuir, vélin, viande, etc.) et la déclarer tabou. Par conséquent, il fera tout ce qu’il peut pour éviter d’entrer en contact avec elle au quotidien. Si cette souillure est obtenue à nouveau, le mage doit choisir un deuxième tabou. De plus, le contact avec les substances interdites lui inflige de sévères brûlures à hauteur de 1 point de dégâts par round de contact. Si ce résultat est obtenu une troisième fois, le mage doit choisir une troisième substance, dont le contact lui infligera 1d4 points de dégâts par round.",
+        "6-6": "Le mage se perd dans un monde onirique et hallucinatoire pendant 1d5 rounds, la vision envahie par la silhouette spectrale de Sezrekan. Le mage peut encore interagir avec le reste du monde, mais s’il décide de l’ignorer et de se concentrer sur l’image du Vieux Maître, il peut en retirer de précieux conseils sur les arcanes de Sezrekan. Si, par la suite, le mage consacre les 1d4 prochains jours à des recherches solitaires en laboratoire, il peut apprendre un nouveau sort de son choix. S’il n’a pas la possibilité de se retirer immédiatement pour ses études, les conseils seront perdus, à la manière du souvenir d’un rêve qui s’estompe petit à petit. Ce résultat peut être tiré jusqu’à trois fois."
+      }
+    },
+	
+    "Patron Taint: the King of Elfland": {
+      "name": "Souillure de patron: Le Roi des terres elfiques",
+      "description": "<p>Le Roi des Terres elfiques est un patron frustrant, tour à tour indifférent et exigeant. Ceux qui le servent doivent se dévouer totalement à leur suzerain et exercer sa vengeance contre ses ennemis. Peu sont capables de le contempler sans être subjugués par son incroyable vitalité.<br /><br />Lorsqu’un mage lié au Roi des Terres elfiques obtient une souillure, lancez 1d6 et consultez la table cidessous. Une fois les 6 souillures acquises à leur degré le plus élevé, il n’est plus nécessaire de tirer sur cette table.</p>",
+      "results": {
+        "1-1": "Le mage est saisi par une attirance inexplicable pour les forêts des Terres elfiques et aspire à visiter ces terres mythiques. Si ce résultat est obtenu une deuxième fois, cette attirance le submerge : dès que l’opportunité se présente, il doit accomplir un pèlerinage dans les Terres elfiques. Si cette souillure est tirée une troisième fois, l’incantateur ne peut rien faire d’autre qu’entreprendre immédiatement un voyage vers les Terres elfiques. Une fois que l’incantateur a réussi à effectuer son pèlerinage sur ces terres légendaires, il est libre de repartir après une brève visite (retrouvant le monde mortel 3d100 années plus tard).",
+        "2-2": "La puissance verdoyante et vigoureuse des Terres elfiques imprègne le mage. Sa peau prend une teinte verte, particulièrement à l’aube et au crépuscule. Si cette souillure est acquise de nouveau, il voit apparaître sur son front une petite paire de bois de cerf recouverts de velours. Si ce résultat est obtenu une troisième fois, les bois se développent et ornent son crâne, tandis que sa peau se recouvre d’une fine couche de fourrure teintée de vert.",
+        "3-3": "Le mage adopte la fougueuse indifférence de son patron. Il devient distant, facilement distrait, et voit sa valeur de Présence diminuer de 1 point. Si ce résultat est tiré une deuxième fois, le mage se sent de moins en moins concerné par les affaires mortelles, et les promesses d’or et de gloire n’ont plus autant d’attrait pour lui. Sa valeur de Présence est une nouvelle fois diminuée de 1 point. Enfin, si cette souillure est acquise une troisième fois, il se détache complètement du monde de souffrance des mortels. Sa Présence diminue encore de 1 point, et il ne trouve de motivation que pour ce qui l’implique personnellement ou pour ce qui concerne les Terres elfiques.",
+        "4-4": "Les animaux sont inexplicablement attirés par l’incantateur. Bien qu’ils n’obéissent pas à celuici (et du coup ignorent ses tentatives pour les renvoyer), les animaux domestiques de toutes sortes recherchent la présence du mage. Si ce résultat tombe une deuxième fois, ce phénomène s’étend aux petits animaux sauvages : oiseaux, rats, etc. qui l’accompagnent où qu’il aille. Si ce résultat est obtenu une troisième fois, le mage ne peut aller nulle part sans être approché par des animaux de toutes sortes.",
+        "5-5": "Le mage voit en permanence de petits êtres, farfadets et lutins, à la limite de son champ de vision. Si cette souillure est tirée une deuxième fois, le mage réalise de manière viscérale que le monde entier est rempli d’esprits. Et lorsqu’il est confronté à des difficultés, il se perd souvent dans ses pensées pour les consulter. Enfin, si le mage obtient une troisième fois ce résultat, sa perception du monde naturel des esprits devient bien plus claire que celle des royaumes mortels. Il doit maintenant faire des efforts considérables (jet de sauvegarde de Volonté DD 15) pour interagir avec les mortels en toute situation, excepté les questions de vie ou de mort.",
+        "6-6": "Le mage est facilement distrait et lutte pour maintenir sa concentration. Le Juge choisit un sort dont le temps d’incantation est de 1 round. Le mage doit réussir un jet de sauvegarde de Volonté DD 10 quand il le lance, sinon son temps d’incantation augmentera de 1d3 rounds supplémentaires. Si ce résultat est tiré une deuxième fois, le Juge choisit un autre sort. Pour celui-ci, le mage doit réussir un jet de sauvegarde de Volonté DD 15 ou augmenter son temps d’incantation de 1d3 rounds supplémentaires. Enfin, si cette souillure est acquise une troisième fois, le Juge peut choisir un troisième sort, pour lequel le mage doit maintenant réussir un jet de sauvegarde de Volonté DD 20 ou augmenter son temps d’incantation de 1d3 rounds supplémentaires."
+      }
+    },
+	
+    "Patron Taint: The Three Fates": {
+      "name": "Souillure de patron : les Trois Grées",
+      "description": "<p>« Souillure de patron » est une formulation inappropriée en ce qui concerne les adeptes des Trois Grées. En effet, le mage a tendance à croire qu’il a acquis ses souillures, qu’elles soient réelles ou imaginaires, d’une autre source de magie, généralement maléfique (comme une corruption chaotique provoquée par les sorts classiques). Ainsi, le mage cherchera toujours à s’en purifier. S’il échoue à le faire, il perd immédiatement tous les bénéfices que lui confère son patron, y compris les sorts spécifiques. Lorsqu’un mage lié aux Trois Grées obtient une souillure, lancez 1d6 et consultez la table cidessous. Une fois les 6 souillures acquises à leur degré le plus élevé, il n’est plus nécessaire de tirer sur cette table. De plus, le mage est dorénavant protégé contre toute nouvelle corruption.</p>",
+      "results": {
+        "1-1": "Le mage pense que son sang a été souillé par le Chaos. Avant la prochaine aube, il doit accomplir une saignée rituelle, diminuant sa Force, son Endurance et son Agilité de 1 point pour 1d3 jours. Si ce résultat est tiré une deuxième fois, l’incantateur doit aller plus loin et s’appliquer sur les veines des sangsues sanctifiées d’ici les prochaines 24 heures. Pour que ce rituel soit efficace, les sangsues doivent rester en place durant une semaine entière, pendant laquelle le mage perd 3 points de Force, d’Endurance et d’Agilité. Si cette souillure est acquise une troisième fois, l’incantateur doit s’infliger le rite des Crochets et des Aiguilles, réduisant sa Force, son Endurance et son Agilité de 3 points pendant un mois. Accomplir les rituels des trois niveaux de cette souillure guérit le mage d’1d3 corruptions.",
+        "2-2": "Le mage s’aperçoit avec horreur que son âme s’est corrompue au fil de son combat contre le Chaos. Il redouble alors d’efforts pour purger le monde de la corruption, accomplissant sa mission au maximum de ses capacités. Le Juge peut ainsi l’envoyer détruire une relique déchue du Chaos située à 1d4 jours de voyage. Le mage a une vision claire de l’objet en question, mais floue de sa localisation et de ce qui le protège. Si ce résultat est acquis à nouveau, le mage devra vaincre une abomination chaotique située à 1d4 semaines de voyage. Enfin, si cette souillure tombe une troisième fois, le mage devra s’aventurer dans une grande cité afin d’assassiner un dignitaire ayant secrètement vendu son âme au Chaos. Réaliser les missions des trois niveaux de cette souillure guérit le mage d’1d3 corruptions.",
+        "3-3": "L’un des membres du mage est infecté par une sombre magie chaotique. Il doit se couper le doigt (subissant 1d2 points de dégâts), espérant avoir été assez prompt pour éviter que la corruption ne se répande. Si ce résultat est tiré une deuxième fois, le mage réalise qu’il a été corrompu à force de contempler les horreurs du Chaos de ses propres yeux… et décide de se les ôter (s’infligeant 1d3 points de dégâts). Si ce résultat est obtenu une troisième fois, l’incantateur croit que l’un de ses membres est entièrement corrompu par le Chaos. Il s’inflige alors un rituel terrifiant, extirpant ses veines et ses muscles de son membre infecté et subissant 4d8 points de dégâts dans le processus. S’il survit, le mage doit réussir un jet de sauvegarde de Vigueur DD 15, sous peine de voir son membre définitivement perdu sous l’effet de la nécrose.",
+        "4-4": "Le mage réalise que son combat contre le Chaos a relâché son double maléfique sur le monde. Le Juge peut l’envoyer à 1d4 jours de voyage afin de trouver et occire son image corrompue. Le mage comme son double savent intuitivement où se trouve l’autre, et chacun souhaite ardemment la mort de son autre moi. Si le résultat est tiré une deuxième fois, le doppelgänger se situe à 1d4 semaines de voyage, possède 1d3 niveaux de plus que le mage, est protégé et accompagné d’un groupe de sbires. Si le résultat tombe une dernière fois, le double maléfique se situe à 1d3 mois de voyage, possède 1d5 niveaux de plus que l’incantateur et se terre dans une sombre citadelle défendue par une armée entière de démons.",
+        "5-5": "La vue continue des horreurs du Chaos a souillé irrémédiablement les pensées du mage. Il doit immédiatement reprendre le contrôle de son esprit à l’aide d’une méditation d’1d3 heures. S’il obtient à nouveau ce résultat, le mage doit méditer jusqu’à ce qu’il réussisse un jet de sauvegarde de Volonté DD 20 ou après un mois entier de méditation. Le mage a droit à un jet par jour. Si ce résultat tombe une troisième fois, il doit se retirer pour méditer jusqu’à ce qu’il réussisse un jet de sauvegarde de Volonté DD 25 ou après une année entière de méditation. Le mage a droit à un jet par jour. Achever les méditations des trois niveaux de cette souillure guérit le mage d’1d3 corruptions et lui octroie un bonus de +2 à tous ses futurs jets de sauvegarde de Volonté.",
+        "6-6": "Se prenant pour la main du destin, le mage abandonne toute peur de mourir, acceptant pleinement son rôle dans la danse cosmique. Si le mage meurt, il a droit à un jet de sauvegarde de Vigueur DD 15. S’il réussit, le mage survit miraculeusement pour servir les Trois Grées. Si cette souillure est obtenue une deuxième fois, le mage considère avoir un rôle majeur dans le dessein des Grées. Réussir un jet de sauvegarde de Vigueur DD 20 lui permet d’échapper une deuxième fois à la mort. Enfin, si ce résultat est tiré une troisième fois, réussir un jet de sauvegarde de Vigueur DD 25 peut lui permettre d’échapper une troisième et ultime fois à la mort."
+      }
+    },
+	
+    "Phantasm Corruption": {
+      "name": "Phantasm Corruption",
+      "description": "",
+      "results": {
+        "1-1": "the caster's left hand is transformed into a phantasm, becoming insubstantial and unable to grasp objects, although it appears real; the caster can no longer use two-handed weapons or otherwise manipulate objects with his left hand;",
+        "2-2": "the caster becomes a matter-magnet, automatically granting \"real\" solidity to any illusion he touches;",
+        "3-5": "minor corruption;",
+        "6-6": "major corruption"
+      }
+    },
+    "Phantasm Misfire": {
+      "name": "Phantasm Misfire",
+      "description": "",
+      "results": {
+        "1-1": "the caster transforms one nearby ally into a phantasm, causing that ally's image to \"loop\" on the same motions taken over the last few rounds, until the ally re-appears in [[/roll 1d6+1]] rounds with no memory of what has happened;",
+        "2-2": "the caster creates a completely unbelievable phantasm, such as a translucent man or a very poorly animated scarecrow, which proceeds to follow him around for the rest of the day;",
+        "3-3": "the caster summons into existence an extremely believable illusion of a deadly beast [such as a lion] which appears nearby and lunges at him before vanishing at the moment of impact, forcing a DC 10 Fort save or inflicting a -1 shock penalty to all rolls for the next [[/roll 1d6]] rounds;",
+        "4-4": "the caster cannot control his illusions and generates a series of fantastic images related to faeries, gnomes, and unicorns, which frolic about him for the next [[/roll 1d4]] hours, drawing attention to him in almost all circumstances"
+      }
+    },
+    "Phylactery of the Soul Manifestation": {
+      "name": "Phylactery of the Soul Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "caster’s body takes on a pallid air and his eyes glaze over as his soul is sent into the phylactery",
+        "2-2": "a crack resounds in the heavens and the air smells of copper and burnt offerings",
+        "3-3": "the caster crumples to his knees, howling in spiritual agony as his soul is torn from his mortal shell"
+      }
+    },
+    "Planar Step Corruption": {
+      "name": "Planar Step Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's appearance ages nearly 100 years, although his body does not suffer any degeneration, but he appears wrinkled, haggard, and ancient;",
+        "2-2": "caster is permanently unhinged from the material plane, such that whenever any die roll comes up as a natural 13, he flickers out of existence for [[/roll 1d4]] rounds, returning with no memory of where he has been and with a 10% chance of random wounds causing 1 point of damage;",
+        "3-3": "caster is a dimensional magnet, attracting the attention of creatures that can leap through space and time, such that he inevitably draws the attacks of demons, elementals, and other extraplanar creatures when they are present - judge's discretion -;",
+        "4-5": "major;",
+        "6-8": "greater"
+      }
+    },
+    "Planar Step Manifestation": {
+      "name": "Planar Step Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "targets simply vanish then reappear at target point",
+        "2-2": "targets explode in a cloud of smelly brimstone, then appear in a similar explosion at target point",
+        "3-3": "targets fade away, appearing to turn to mist then vanish into the air before reappearing in a similar manner"
+      }
+    },
+    "Planar Step Misfire": {
+      "name": "Planar Step Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster and all nearby allies are transported [[/roll 1d10]] miles in a random direction,",
+        "2-2": "caster and all nearby allies randomly swap positions and are physically rearranged;",
+        "3-3": "caster's clothes and possessions are transported [[/roll 1d20]] miles in a random direction, but he remains in place, naked and without equipment;",
+        "4-4": "the entire party's weapons are teleported to an unknown place"
+      }
+    },
+    "Polymorph Corruption": {
+      "name": "Polymorph Corruption",
+      "description": "",
+      "results": {
+        "1-1": "one of the caster's appendages transforms into that of another creature;",
+        "2-2": "caster's eyes become slitted like a serpent's;",
+        "3-3": "caster gains a scaly tail;",
+        "4-4": "caster's tongue becomes forked;",
+        "5-5": "caster's hair is replaced by feathers;",
+        "6-6": "caster's speech takes on an animalistic tone"
+      }
+    },
+    "Polymorph Manifestation": {
+      "name": "Polymorph Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "target’s body twists and boils like molten clay",
+        "2-2": "a puff of smoke obscures the target tempo- rarily, revealing its changed form when the smoke disperses",
+        "3-3": "the target shines with blinding light that fades away, leaving it in its new shape",
+        "4-4": "the target’s skin turns inside out, revealing its internal organs, before twisting back to take on a different shape"
+      }
+    },
+    "Polymorph Misfire": {
+      "name": "Polymorph Misfire",
+      "description": "",
+      "results": {
+        "1-1": "target is transformed into inoffensive animal or pest;",
+        "2-2": "partial transformation leaves the target with a changed head but a normal body;",
+        "3-3": "target's skin changes but that is all;",
+        "4-4": "spell attracts [[/roll 1d4]] specimens of the intended transformation type to the caster's position unless completely inappropriate for type, climate, or terrain; creatures arrive in [[/roll 1d100]] minutes, angry and hungry"
+      }
+    },
+    "Protection from Evil Manifestation": {
+      "name": "Protection contre le mal Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "symbole sacré évanescent",
+        "2-2": "douce aura protectrice",
+        "3-3": "halo scintillant"
+      }
+    },
+    "Ray of Enfeeblement Corruption": {
+      "name": "Ray of Enfeeblement Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's muscles wither, causing him to permanently lose 1 point of Strength;",
+        "2-2": "whenever the caster takes Strength damage in the future, he heals at an abnormally slow rate, requiring two days of healing to recover one lost Strength point;",
+        "3-3": "the caster is no longer able to expend Strength points in spellburn;",
+        "4-7": "minor corruption;",
+        "8-9": "major corruption;",
+        "10-10": "greater corruption"
+      }
+    },
+    "Ray of Enfeeblement Manifestation": {
+      "name": "Ray of Enfeeblement Manifestation",
+      "description": "<h1>Ray of Enfeeblement</h1><p><strong>Level:</strong> 2</p><p><strong>Range:</strong> 150'</p><p><strong>Duration:</strong> Instantaneous</p><p><strong>Casting Time:</strong> 1 action</p><p><strong>Save:</strong> Will vs. spell check</p><p><strong>Page:</strong> 190</p><br><p>This necromantic spell requires at least 1 point of spellburn. The caster issues a dangerous strength-draining ray, which destroys the physical prowess of a target. Reducing a creature to 0 Strength transforms it into a jelly-like mass, unable to support its own weight or defend itself from attacks. If a target does not have a defined Strength score, assume 10 for normal humans and man-sized creatures. Lost ability scores heal back at the normal rate.</p><br><p><strong>Spell Data:</strong> @Compendium[dcc-core-book.dcc-core-spell-journals.Ray of Enfeeblement]{Ray of Enfeeblement}</p>",
+      "results": {
+        "1-1": "black ray",
+        "2-2": "flaming ray",
+        "3-3": "wavering disruptuon of the air",
+        "4-4": "line of steam",
+        "5-5": "billowing jet of mist"
+      }
+    },
+    "Ray of Enfeeblement Misfire": {
+      "name": "Ray of Enfeeblement Misfire",
+      "description": "",
+      "results": {
+        "1-1": "one randomly determined ally within range is stricken with a ray that causes him to temporarily lose [[/roll 1d6]] Strength points [no save];",
+        "2-2": "all allies within range temporarily suffer a wave of weakness, causing them to drop weapons and shields, release their holds on ropes, and so on;",
+        "3-3": "the nearest [[/roll 1d4]] enemies receive a ray of power, which grants them a +2 Strength bonus to attacks and damage for the next turn;",
+        "4-4": "the caster shoots himself in the foot [literally] with a ray of enfeeblement, reducing the strength of his legs and cutting his movement rate in half for the next turn"
+      }
+    },
+    "Read Magic Corruption": {
+      "name": "Lecture de la magie Corruption",
+      "description": "",
+      "results": {
+        "1-2": "mineure",
+        "3-3": "la peau de l’incantateur est marquée de 1d6 tatouages brillants représentant des runes mystiques",
+        "4-4": "les yeux de l’incantateur se couvrent d’un voile jaune quand il déchiffre un écrit",
+        "5-5": "le bout des doigts de l’incantateur est en permanence taché d’encre",
+        "5-6": "majeure"
+      }
+    },
+    "Read Magic Manifestation": {
+      "name": "Lecture de la magie Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "les yeux de l’incantateur brillent",
+        "2-2": "le texte brille",
+        "3-3": "les caractères du texte se transforment pour devenir des lettres intelligibles",
+        "4-4": "aucune"
+      }
+    },
+    "Read Magic Misfire": {
+      "name": "Lecture de la magie Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’esprit de l’incantateur mélange les lettres, l’empêchant de lire pendant 1d4 jours",
+        "2-2": "l’incantateur brouille la vision de tous ses alliés à moins de 6 m, ce qui les rend incapables de lire pendant 1d3 heures",
+        "3-3": "l’incantateur enchante par inadvertance le texte le plus proche (probablement un livre qu’il transporte, mais il peut s’agir d’un écrit plus éloigné), le traduisant en texte magique qui ne peut désormais être lu qu’avec lecture de la magie",
+        "4-4": "1d6 pages imprimées à moins de 30 m sont modifiées par magie : les lettres s’effacent, se réorganisent puis se réimpriment, rendant la page totalement incompréhensible tant que les lettres ne sont pas remises dans le bon ordre",
+        "5-5": "le livre le plus proche est traduit dans une autre langue (lancez 1d100 en tant que mage sur la table de l’annexe L)",
+        "6-6": "chaque mot prononcé par le mage au cours de la journée suivante émane de sa bouche sous la forme de volutes de fumée noire formant les lettres appropriées."
+      }
+    },
+    "Reap the Whirlwind Manifestation": {
+      "name": "Reap the Whirlwind Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "caster and his equipment dissolve into whirling sand",
+        "2-2": "a howling wind erupts, reducing the caster to sand",
+        "3-3": "caster raises his head to the sky to as if to scream, and his insides pour out as sand"
+      }
+    },
+    "Remove Curse Manifestation": {
+      "name": "Remove Curse Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "sparkling water flows from the cleric’s hand to wash the target creature clean",
+        "2-2": "the target vomits up a black goop that quickly vanishes",
+        "3-3": "the cleric brushes the target with his hand, peeling away corrupt flesh to reveal unblemished skin beneath",
+        "4-4": "a divine fire burns away the curse"
+      }
+    },
+    "Replication Corruption": {
+      "name": "Replication Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's flesh becomes sentient and moves about his body uncontrollably;",
+        "2-2": "caster's face becomes featureless and his body loses all distinctive marks;",
+        "3-3": "caster is stalked by a homunculus, a twisted parody of himself standing 3' tall and harboring ill will towards its creator;",
+        "4-4": "caster's soul fragments from the casting and he loses a point of Personality permanently"
+      }
+    },
+    "Replication Manifestation": {
+      "name": "Replication Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "caster’s skeleton glows orange-blue and steps from his body",
+        "2-2": "caster emits protoplasm from his body in the form of the duplicate",
+        "3-3": "the caster vomits up the duplicate form",
+        "4-4": "the caster peels his own skin from his body to create the duplicate"
+      }
+    },
+    "Replication Misfire": {
+      "name": "Replication Misfire",
+      "description": "",
+      "results": {
+        "1-1": "duplicate is created, but it is hostile towards the caster;",
+        "2-2": "duplicate is flawed and cannot perform its normal tasks or possess typical abilities;",
+        "3-3": "caster's body becomes semi-solid for [[/roll 1d10]] minutes [cannot move or perform any action other than speech until duration ends];",
+        "4-4": "caster must make a DC 15 Will check or forget a random spell for the day;",
+        "5-5": "caster becomes confused and believes himself to be an artificial creation. Nothing can convince him otherwise, and this mania can manifest itself as overconfidence [he's not real so what difference does his safety make?] to paranoia [his creator is after him and will destroy him] to constant fear [he could revert to base materials at any moment]. This derangement lasts for 24 hours"
+      }
+    },
+    "Resist Cold or Heat Manifestation": {
+      "name": "Résistance au froid ou à la chaleur Manifestation",
+      "description": "<p>Roll [[/roll 1d3]]</p>",
+      "results": {
+        "1-1": "aura rougeoyante",
+        "2-2": "vagues de chaleur chatoyante",
+        "3-3": "teinte de peau bleutée."
+      }
+    },
+    "Restore Vitality Manifestation": {
+      "name": "Restore Vitality Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "the target is cured with no visible effect",
+        "2-2": "the target is cured and the mark of the cleric’s deity appears as birthmark or small scar in a place that was previously affected by the ability loss",
+        "3-3": "a shaft of heavenly light shines on the target, bathing him in light as his ability scores are restored."
+      }
+    },
+    "Ropework Corruption": {
+      "name": "Corde enchantée Corruption",
+      "description": "",
+      "results": {
+        "1-1": "la peau de l’incantateur prend l’apparence et la texture d’une corde",
+        "2-2": "les bras de l’incantateur s’allongent de 1d10+10 cm, et ses articulations s’assouplissent, ce qui donne un aspect tentaculaire à ses membres",
+        "3-3": "l’incantateur développe un sixième doigt à chaque main",
+        "4-4": "l’incantateur développe un sixième orteil à chaque pied."
+      }
+    },
+    "Ropework Manifestation": {
+      "name": "Corde enchantée Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "une corde normale surgit de nulle part",
+        "2-2": "la corde tombe du ciel",
+        "3-3": "la corde surgit du sol sous forme de serpent avant de prendre son apparence de corde",
+        "4-4": "des fils multicolores surgissent du sol et s’assemblent pour former une corde."
+      }
+    },
+    "Ropework Misfire": {
+      "name": "Corde enchantée Revers",
+      "description": "",
+      "results": {
+        "1-1": "au cours des 1d4 prochaines heures, l’incantateur repousse les cordes comme sous l’effet d’un champ de force magique : les cordes « sautent » pour s’éloigner de lui dès qu’il s’en approche et elles glissent de ses mains à chaque fois qu’il essaie d’en attraper une",
+        "2-2": "la corde invoquée attache immédiatement l’incantateur fermement (il faut couper la corde ou réussir un test de Force ou d’Agilité DD 15 pour parvenir à se libérer)",
+        "3-3": "l’incantateur et 1d4 de ses alliés les plus proches sont tous magiquement regroupés par la corde invoquée qui les attache ensuite avec des noeuds complexes (il faut couper la corde ou réussir un test de Force ou d’Agilité DD 15 pour parvenir à se libérer)",
+        "4-4": "1d4 cordes animées apparaissent et commencent à attaquer toutes les créatures environnantes ! (CA 8, 5 PV chacune, Att fouet +3 corps à corps, dégâts 1d3)."
+      }
+    },
+    "Runic Alphabet, Fey Corruption": {
+      "name": "Runic Alphabet, Fey Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster has a non-magical runic shape permanently seared onto one cheek;",
+        "2-2": "caster's forehead wrinkles such that it appears to house a third eye, which disappears upon close inspection;",
+        "3-3": "minor corruption;",
+        "4-4": "major corruption"
+      }
+    },
+    "Runic Alphabet, Fey Misfire": {
+      "name": "Runic Alphabet, Fey Misfire",
+      "description": "",
+      "results": {
+        "1-1": "randomly determined rune [roll d16+10 on spell table] is inscribed on the caster's hand and immediately detonated;",
+        "2-2": "rune is traced but it will not activate under any circumstances, effectively providing a costly and unsightly \"tattoo\" to the subject marked;",
+        "3-3": "caster inadvertently sears a permanent symbol that resembles a silhouette of his face;",
+        "4-4": "caster forgets how to read and write for [[/roll 1d6]] turns, during which time he cannot cast this spell or any other that is dependent on literacy for its effects"
+      }
+    },
+    "Runic Alphabet, Mortal Corruption": {
+      "name": "Runes des mortels Corruption",
+      "description": "",
+      "results": {
+        "1-1": "une rune non magique permanente apparaît sur la joue de l’incantateur, comme marquée au fer rouge",
+        "2-2": "le front de l’incantateur se ride comme s’il s’y trouvait un troisième oeil, qui disparaît toutefois si on le regarde de près",
+        "3-3": "mineure",
+        "4-4": "majeure."
+      }
+    },
+    "Runic Alphabet, Mortal Misfire": {
+      "name": "Runes des mortels Revers",
+      "description": "",
+      "results": {
+        "1-1": "une rune déterminée au hasard (lancez 1d10+10 sur la table du sort) est inscrite sur la main de l’incantateur et se déclenche immédiatement",
+        "2-2": "une rune est inscrite mais ne se déclenchera jamais, devenant de fait un simple « tatouage » coûteux sur l’objet marqué",
+        "3-3": "l’incantateur inscrit malencontreusement un symbole permanent qui ressemble à son propre visage",
+        "4-4": "l’incantateur devient analphabète pendant 1d6 tours, durant lesquels il ne peut pas lancer ce sort ou n’importe quel autre nécessitant cette maîtrise."
+      }
+    },
+    "Sanctify/Desecrate Manifestation": {
+      "name": "Sanctify/Desecrate Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "the affected area erupts in harmless, divine fire that leaves the sanctum magically cleansed",
+        "2-2": "the affected area glows with a divine radiance of a color appropriate to the cleric’s deity",
+        "3-3": "a blast of celestial music spills from the cleric’s mouth, causing the affected area to resonate with the music of the spheres",
+        "4-4": "tears of holy/unholy water flow from the cleric’s eyes, anointing the affected area"
+      }
+    },
+    "Scare Corruption": {
+      "name": "Scare Corruption",
+      "description": "",
+      "results": {
+        "1-6": "the caster develops an irrational fear related to [1] chickens, [2] horses, [3] rocks, [4] clouds, [5] apples, [6] snakes, such that he must make a DC 10 Will save whenever he sees such a creature or flee in fear;",
+        "7-7": "the caster is especially susceptible to fear, receiving a -2 penalty to saves to resist it from now on;",
+        "8-8": "caster's face changes to resemble the monster that he fears most;",
+        "9-10": "major;",
+        "11-12": "greater"
+      }
+    },
+    "Scare Manifestation": {
+      "name": "Scare Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "caster’s visage transforms into something horrible",
+        "2-2": "target’s worst nightmare appears before its eyes for a brief instant",
+        "3-3": "nothing visual occurs but unreasoning fear grips target",
+        "4-4": "an image of a terrible monster momentarily flashes into existence then disappears"
+      }
+    },
+    "Scare Misfire": {
+      "name": "Scare Misfire",
+      "description": "",
+      "results": {
+        "1-2": "nearest ally is absolutely terrified and must make DC 12 Will save or run in fear for [[/roll 1d4+1]] rounds;",
+        "3-4": "caster's visage is momentarily transformed into something absolutely horrid, frightening his familiar, which runs away for 24 hours"
+      }
+    },
+    "Scorching Ray Corruption": {
+      "name": "Scorching Ray Corruption",
+      "description": "",
+      "results": {
+        "1-1": "all hair on the caster's head is permanently burned off [including eyebrows and facial hair];",
+        "2-2": "the caster's hands and arms are blackened, as if they had been charred and burned;",
+        "3-3": "the caster's skin is permanently sunburned, causing discomfort and pain when he wears armor or rough fabrics;",
+        "4-4": "the caster's face is caught in a burst of flame, melting his flesh into a horribly grotesque appearance;",
+        "6-6": "the caster develops an extreme sensitivity to heat, automatically taking an extra +1 damage on all dice related to fire damage from now on;",
+        "7-7": "greater;",
+        "8-8": "major;",
+        "9-9": "minor"
+      }
+    },
+    "Scorching Ray Manifestation": {
+      "name": "Scorching Ray Manifestation",
+      "description": "Roll [[/roll 1d5]].",
+      "results": {
+        "1-1": "arcing ray of fire",
+        "2-2": "laser beam",
+        "3-3": "flaming bullet",
+        "4-4": "sizzling gout of flame",
+        "5-5": "burning hands followed by spray of sparks. Color of fire varies – red, yellow, blue, or green"
+      }
+    },
+    "Scorching Ray Misfire": {
+      "name": "Scorching Ray Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster explodes a ball of fire centered on himself, causing [[/roll 1d6]] damage and burning up all flammable objects on his person;",
+        "2-2": "caster sends forth an errant ray of fire that causes [[/roll 1d6]] damage to one randomly determined ally within 30';",
+        "3-3": "caster lights the nearest ally on fire briefly for [[/roll 1d4]] damage;",
+        "4-4": "caster inadvertently reverses the spell, summoning a wave of chilling cold that automatically extinguishes all flames within 100' of him"
+      }
+    },
+    "Second Sight Manifestation": {
+      "name": "Divination Manifestation",
+      "description": "<p>Roll [[/roll 1d3]].</p>",
+      "results": {
+        "1-1": "un troisième oeil apparaît sur le front du clerc",
+        "2-2": "les yeux du clerc luisent",
+        "3-3": "the les yeux du clerc sont clos, bien qu’il puisse toujours voir.eyes are fused shut but he can still see"
+      }
+    },
+    "Sequester Manifestation": {
+      "name": "Bastion Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "une brise de vent arctique jette un froid glacial sur la zone, laissant sur tout ce qui s’y trouve un éclat brillant comme la glace",
+        "2-2": "la zone ciblée luit d’un vert pâle dans la pénombre",
+        "3-3": "des sons de cadenas qui se verrouillent, de portes qui claquent et d’ouvriers impatients devisant dans des langues inconnues résonnent tandis que la sorcellerie se met en oeuvre dans la zone ciblée",
+        "4-4": "la zone prend des airs de lieu abandonné : la poussière s’accumule dans les recoins, des toiles d’araignées pendent du plafond, et l’air s’emplit de calme et d’une légère odeur de vieux."
+      }
+    },
+    "Shatter Corruption": {
+      "name": "Shatter Corruption",
+      "description": "",
+      "results": {
+        "1-3": "minor corruption;",
+        "4-5": "major corruption;",
+        "6-6": "greater corruption"
+      }
+    },
+    "Shatter Manifestation": {
+      "name": "Shatter Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "object simply shatters",
+        "2-2": "blast as if an explosion",
+        "3-3": "flash of light",
+        "4-4": "bolt of lightning from the sky strikes the object"
+      }
+    },
+    "Shatter Misfire": {
+      "name": "Shatter Misfire",
+      "description": "",
+      "results": {
+        "1-1": "one randomly determined object on the caster's person shatters;",
+        "2-2": "randomly determine one ally within 20' [or caster if no nearby ally] and all mundane possessions of that ally have risk of shattering, as follows: magical objects have 10% chance, metal and stone objects have 25% chance, wooden and crystal/gemlike objects have 50% chance, cloth and all other soft objects have 75% chance of crumbling apart;",
+        "3-3": "instead of shattering targeted object, spell infuses it with greater strength of construction, rendering it automatically resistant to the next shatter spell cast against it, but resistance wears off after one use;",
+        "4-4": "all non-magical weapons in the hands of creatures [both allies and enemies] within 25' shatter [only affects those weapons held not those in backpacks or sheaths];",
+        "5-5": "all armor within 25' ]including shields and helms] comes apart and loses armor bonus [i.e., buckles unbuckle, straps fail, armor joints collapse, etc.]"
+      }
+    },
+    "Shield Maiden Manifestation": {
+      "name": "Shield Maiden Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "a simple cloth doll grows to become a life sized shield maiden, replete with armor and wielding a spear",
+        "2-2": "a lock of blond hair is consumed in a burst of light, leaving a shield maiden standing in the dissipating smoke",
+        "3-3": "the caster draws a line across his palm with a dagger and a shield maiden emerges from the pooling blood",
+        "4-4": "the caster calls out to the sky and a shield maiden appears, stepping from between the rays of the dazzling sun"
+      }
+    },
+    "Sleep Corruption": {
+      "name": "Sommeil Corruption",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur devient insomniaque, ce qui n’a pas de conséquence immédiate évidente mais se manifeste sous forme de pénalité continue à tous les jets. À mesure que sa privation de sommeil s’installe, le malus, qui commence à -1, passe à -2 au bout d’une semaine, puis à -3 après un mois",
+        "2-2": "l’incantateur émet une odeur toxique qui provoque des vertiges dans un rayon de 6 m",
+        "3-4": "mineure",
+        "5-6": "majeure"
+      }
+    },	
+    "Sleep Manifestation": {
+      "name": "Sommeil Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "rayon de poussière scintillante",
+        "2-2": "des ailes de cygne émergent du sol pour envelopper la cible",
+        "3-3": "de doux nuages blancs recouvrent la tête de la cible",
+        "4-4": "vagues de lumière bleutée."
+      }
+    },
+    "Sleep Misfire": {
+      "name": "Sommeil Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur s’endort immédiatement d’un sommeil naturel",
+        "2-2": "l’incantateur et ses 1d4 alliés les plus proches s’endorment immédiatement d’un sommeil naturel",
+        "3-3": "l’incantateur plonge dans le coma, duquel il ne peut émerger que par des soins médicaux ou des moyens magiques",
+        "4-4": "l’incantateur plonge toutes les créatures à moins de 15 m dans un état de parfaite vigilance, annulant tout sommeil (magique ou autre), ainsi que les étourdissements, les hallucinations et autres distractions."
+      }
+    },
+    "Slow Corruption": {
+      "name": "Slow Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster is returned to an age of [[/roll 1d10+5]] years, quite possibly reducing him to a child-like state; he retains all mental attributes but receives a -2 penalty to Strength, and +1 bonus to Stamina and Agility; he is treated as a child by all who encounter him;",
+        "2-2": "caster makes himself and all within 20' younger by a factor of -[[/roll 2d10]] years, possibly reducing already-young PCs to a child-like state;",
+        "3-3": "caster's speech patterns slow significantly, such that it takes him twice as long as normal to communicate, and any time he casts a spell he must take twice the normal casting time or receive a -1 penalty to the spell check as he stutters and stumbles on his slurred, slow words;",
+        "4-4": "the caster acquires a ponderous gait that permanently reduces his speed by -5';",
+        "5-6": "major;",
+        "7-8": "greater"
+      }
+    },
+    "Slow Manifestation": {
+      "name": "Slow Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "target appears elongated and stretched in several directions",
+        "2-2": "target is surrounded by a gray mist that partially obscures it",
+        "3-3": "target seems to droop toward the ground, moving with difficulty"
+      }
+    },
+    "Slow Misfire": {
+      "name": "Slow Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster slows time for himself, causing him to miss his next activation;",
+        "2-2": "caster slows times for himself and [[/roll 1d4]] allies within 20', causing all of them to miss their next activation;",
+        "3-3": "caster ages himself by [[/roll 1d10+10]] years;",
+        "4-4": "caster grants slow to a nearby bug, which buzzes about somnolently before flying off into the distance"
+      }
+    },
+    "Snake Charm Manifestation": {
+      "name": "Snake Charm Manifestation",
+      "description": "Roll [[/roll 1d4]]. Affected snakes:",
+      "results": {
+        "1-1": "are surrounded in a shimmering blue aura, which also surrounds the cleric",
+        "2-2": "seem to have their faces change shape to resemble that of the cleric",
+        "3-3": "have their scales change into a colorful pattern reminiscent of the cleric’s clothes or hair color/style",
+        "4-4": "turn pitch black"
+      }
+    },
+    "Snake Trick Manifestation": {
+      "name": "Malédiction serpentine Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "les doigts du mage se changent en serpents ondulants",
+        "2-2": "le mage est recouvert d’ombres serpentines",
+        "3-3": "le sifflement de plusieurs centaines de serpents résonne dans les airs",
+        "4-4": "le regard du mage devient aussi froid et « métallique » que celui d’un serpent."
+      }
+    },
+    "Speak With The Dead Manifestation": {
+      "name": "Speak With The Dead Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "corpse miraculously “heals” such that it rises and talks conversationally with the cleric until returning to its rotting state at the end of the duration",
+        "2-2": "corpse glows in a soft light and its lips or jaws move to answer any questions",
+        "3-3": "the corpse’s spirit appears as a ghostly apparition, floating above the corpse to answer any questions",
+        "4-4": "the corpse animates such that it writes answers to questions, such as by scratching the answers in the dirt or using its clotted blood to write on the walls"
+      }
+    },
+    "Spider Climb Corruption": {
+      "name": "Pattes d’araignée Corruption",
+      "description": "",
+      "results": {
+        "1-1": "quatre membres arachnéens poussent sur le dos de l’incantateur",
+        "2-2": "l’incantateur peut générer de petites toiles comme une araignée et les projeter jusqu’à 9 m sous forme de pâte gluante (jet d’attaque à distance, test de Force ou d’Agilité DD 12 pour se désengluer)",
+        "3-3": "des poils courts semblables à ceux d’une araignée poussent sur la peau de l’incantateur",
+        "4-4": "six yeux supplémentaires poussent sur le visage de l’incantateur, disposés autour de ses yeux « normaux », à la manière des yeux d’une araignée",
+        "5-5": "les mains et les pieds de l’incantateur excrètent une substance huileuse et collante qui adhère à tous les petits objets",
+        "6-6": "mineure"
+      }
+    },
+    "Spider Climb Manifestation": {
+      "name": "Pattes d’araignée Manifestation",
+      "description": "",
+      "results": {
+        "1-1": "quatre membres arachnéens surgissent du torse de l’incantateur",
+        "2-2": "une substance gluante suinte des mains et des pieds de l’incantateur",
+        "3-3": "les doigts et les orteils de l’incantateur brillent d’une étrange lumière orangée",
+        "4-4": "six yeux supplémentaires apparaissent sur le visage de l’incantateur."
+      }
+    },
+    "Spider Climb Misfire": {
+      "name": "Pattes d’araignée Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur se colle au sol et ne peut plus bouger les pieds tant qu’il ne réussit pas un test de Force DD 16",
+        "2-2": "les extrémités de l’incantateur deviennent incroyablement visqueuses pendant 1d6 rounds, ce qui risque de le faire chuter à moins qu’il ne réussisse un test d’Agilité DD 12 à chaque round",
+        "3-3": "l’incantateur projette un globe de fibres de toile sur son plus proche allié, l’empêtrant jusqu’à ce qu’il réussisse un test de Force ou d’Agilité DD 12 et parvienne à se libérer",
+        "4-4": "l’incantateur invoque une nuée d’araignées venimeuses qui surgissent au round suivant et recouvrent toutes les créatures environnantes, infligeant de multiples morsures. Toutes les créatures situées à moins de 15 m doivent réussir un jet de sauvegarde de Vigueur DD 8 ou être légèrement empoisonnées (1 point de dégâts et une pénalité de -1 à tous les jets pendant 1 h)",
+        "5-5": "l’incantateur et 1d4 créatures proches se retrouvent la tête en bas dans le vide, marchant à l’envers à 2,5 m au-dessus du sol, et bien qu’ils puissent se déplacer normalement, ils restent la tête en bas pendant 1d6 heures."
+      }
+    },
+    "Spider Web Corruption": {
+      "name": "Spider Web Corruption",
+      "description": "",
+      "results": {
+        "1-1": "cobwebs form permanently between the caster's fingers;",
+        "2-2": "as the caster speaks, a dribble of webby mass forms at the corners of his mouth;",
+        "3-3": "the caster's hair becomes sticky like a web, and small objects [leaves, twigs, dust, bird feathers, etc.] are constantly becoming stuck;",
+        "4-4": "caster grows six extra eyes, like those of a spider, at the crown of his head;",
+        "5-5": "caster's mouth forms fangs like those of a spider;",
+        "6-6": "caster's skin emits an oily, friction-resistant residue, which makes him immune to tangling in spider webs [both magical or mundane] but also gives him a 10% chance of slipping off any rope, ledge, wall, or other climbing surface that relies on friction for success;",
+        "7-7": "minor,",
+        "8-8": "major"
+      }
+    },
+    "Spider Web Misfire": {
+      "name": "Spider Web Misfire",
+      "description": "",
+      "results": {
+        "1-1": "globular mass of webbing plops from the caster's hand and explodes at his feet, entangling him and everything within 10' of him for [[/roll 1d6]] minutes [DC 20 Strength or Agility to escape];",
+        "2-2": "the caster inadvertently summons not a spider web but instead the poisonous spider that lives in it, which immediately attacks him before scurrying away [[/roll 1d4+1]] rounds later [Atk bite +3 melee, dmg [[/roll 1d3]] + poison [DC 20 Fort or [[/roll 2d4]] Stamina], AC 8, HP 6];",
+        "3-3": "the demon queen of the spider pits tires of her servants being misused by mortals and takes notice of the caster, who finds himself beset by arachnid opponents at all turns  -judge's discretion - for the next [[/roll 1d7+1]] days  these spiders, both mundane and demonic, attack exclusively the caster and clearly seek to punish him;",
+        "4-4": "the caster misfires a jet of spider web into the sky, which descends in clumpy strands; all creatures within 25' [including the caster] must make a DC 10 Ref save or be entangled in a small bit of web, which causes a -2 penalty to all actions for [[/roll 1d4]] rounds as the target untangles himself"
+      }
+    },
+    "Strength Corruption": {
+      "name": "Strength Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's muscles wither and age, permanently reducing his Strength by 1 point;",
+        "2-2": "caster has great difficulty summoning any kind of supernatural strength, such that from now on all spellburn of Strength requires 2 points of spellburn for every +1 to a spell check;",
+        "3-3": "caster permanently gains +[[/roll 1d4]] points of Strength but at the cost of the same number of points of Intelligence;",
+        "4-4": "caster's muscles bulge disproportionately and chaotically, giving him a lopsided, hunchbacked appearance;",
+        "5-6": "minor corruption;",
+        "7-7": "major corruption;",
+        "8-8": "greater corruption"
+      }
+    },
+    "Strength Manifestation": {
+      "name": "Strength Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "biceps and muscles physically enlarge, potentially bursting clothing",
+        "2-2": "muscles glow with infernal light",
+        "3-3": "fierce aura surrounds target",
+        "4-4": "no change"
+      }
+    },
+    "Strength Misfire": {
+      "name": "Strength Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster inadvertently weakens himself, losing [[/roll 1d4+1]] points of Strength temporarily;",
+        "2-2": "caster saps the strength of those around him, reducing the Strength of everyone within 20' [allies and enemies alike] by [[/roll 1d4+1]] points;",
+        "3-3": "caster channels his allies' strength of will to his enemies' strength, such that the highest allied Willpower save within 20' becomes the total Strength modifier of all enemies within the same range; i.e., a party of 10 adventurers whose greatest Will save is +4 would suddenly grant a +4 Strength modifier to all nearby enemies;",
+        "4-4": "caster drops to the ground with the strength of an infant, completely unable to move [Str 0], and all of his Strength points flow to the nearest ally of his choice, whose Strength suddenly increases by the amount of the caster's decrease, with the lost Strength returning from target to caster at the end of [[/roll 1d4]] turns"
+      }
+    },
+    "Sword Magic Corruption": {
+      "name": "Sword Magic Corruption",
+      "description": "",
+      "results": {
+        "1-3": "Minor Corruption",
+        "4-6": "Major Corruption",
+        "7-8": "Greater Corruption"
+      }
+    },
+    "Sword Magic Misfire": {
+      "name": "Sword Magic Misfire",
+      "description": "",
+      "results": {
+        "1-1": "N/A"
+      }
+    },
+    "The Dreaming Manifestation": {
+      "name": "The Dreaming Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "glowing mist settles over the area",
+        "2-2": "scintillating dust and the peal of tinkling of bells fill the air",
+        "3-3": "a strange air settles over the caster, as if lit by the fading light of dusk"
+      }
+    },
+    "Transference Corruption": {
+      "name": "Transference Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster ages 1 year;",
+        "2-2": "caster's eyes take on a horrifically hypnotic cast, making others loath to meet his gaze;",
+        "3-3": "caster occasionally speaks in tongues without being aware of it;",
+        "4-4": "caster's reflection is that of another person"
+      }
+    },
+    "Transference Manifestation": {
+      "name": "Transference Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "caster’s body collapsed like an empty skin, leaving flaccid flesh behind",
+        "2-2": "target’s features shift and bubble for a moment before returning to normal",
+        "3-3": "ectoplasm erupts from the caster’s mouth and forces its way into the target’s head",
+        "4-4": "ghostly doppelgangers of the caster and target wrestle briefly in the air between them before subsiding into the target’s body"
+      }
+    },
+    "Transference Misfire": {
+      "name": "Transference Misfire",
+      "description": "",
+      "results": {
+        "1-1": "all reflective surfaces within a 15' radius shatter [magic items allowed a DC 5 save to remain intact];",
+        "2-2": "caster temporarily swaps souls with that of an inoffensive animal nearby [rat, louse, bird, etc]; swap lasts [[/roll 1d3]] rounds;",
+        "3-3": "spell targets the wrong victim; make a new spell check against a random target;",
+        "4-4": "caster falls into a coma for [[/roll 1d4]] rounds;",
+        "5-5": "psychic backlash allows all within 15' radius to read the caster's mind for [[/roll 1d4]] hours"
+      }
+    },
+    "Transmute Earth Corruption": {
+      "name": "Transmute Earth Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's skin turns slate-colored;",
+        "2-2": "caster's hands become rock-like [+1 to damage in unarmed combats];",
+        "3-3": "caster's body riddled with striations of quartz;",
+        "4-4": "caster needs to eat 1 lb. of dirt each day;",
+        "5-5": "caster must sleep on a bed of stone to gain a restful night's sleep;",
+        "6-6": "caster cries tears of stone"
+      }
+    },
+    "Transmute Earth Manifestation": {
+      "name": "Transmute Earth Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "caster’s skin resembles rough-hewn rock",
+        "2-2": "caster’s voice becomes gravelly",
+        "3-3": "earth rumbles at the caster’s feet",
+        "4-4": "small, odd-colored crystals erupt from the ground around the caster"
+      }
+    },
+    "Transmute Earth Misfire": {
+      "name": "Transmute Earth Misfire",
+      "description": "",
+      "results": {
+        "1-1": "minor tremor knocks all in a 30' diameter to the ground unless a DC 10 Reflex save is made;",
+        "2-2": "the ground beneath the caster turns to mud and he sinks up to his waist in the morass;",
+        "3-3": "a hail of stones falls from the sky doing [[/roll 1d3]] damage to the caster and anyone else within 10' of him;",
+        "4-4": "the forces of Earth rebel against the caster: caster must make a DC 10 Fort save or turn to stone for [[/roll 1d4]] rounds. There is a 50% chance that the petrification is permanent, and the caster is transformed into a creature of living stone. Composed of rocky matter, living stone creatures have their movement rate reduced to 20', have an Agility of 6, cannot swim [they sink automatically], and make a loud, grinding sound when moving. They do enjoy a +2 bonus to AC and gain a natural Strength of 18. Casting transmutation again with a spell check of 34 or greater restores the caster to his fleshy form"
+      }
+    },
+    "True Name Manifestation": {
+      "name": "True Name Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "a divine servant of the cleric’s deity appears and whispers the target’s true name into his ear",
+        "2-2": "the true name appears in the air before the cleric, written in celestial fire and visible only to him",
+        "3-3": "the cleric is subject to a brief hallucination of the target’s naming at birth;",
+        "4-4": "a nearby animal croaks the target’s true name in a harsh, unearthly voice"
+      }
+    },
+    "Turn to Stone Corruption": {
+      "name": "Turn to Stone Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's hair become tiny, non-venomous serpents;",
+        "2-2": "caster's hands become crude and rocklike;",
+        "3-3": "the sound of grinding stone accompanies the caster when he walks;",
+        "4-4": "the caster's voice becomes unnaturally gravelly like stone grinding together"
+      }
+    },
+    "Turn to Stone Manifestation": {
+      "name": "Turn to Stone Manifestation",
+      "description": "<h1>Turn to Stone</h1><p><strong>Level:</strong> 3</p><p><strong>Range:</strong> 30' plus 10' per caster level</p><p><strong>Duration:</strong> Various</p><p><strong>Casting Time:</strong> 1 round</p><p><strong>Save:</strong> Fortitude to avoid</p><p><strong>Page:</strong> 233</p><br><p>The caster turns other living beings to stone. A reverse version of this spell, turn to flesh, may be learned and can be used to cancel its effects. Note that casting this spell successfully against a creature of the water (such as a water elemental) automatically inflicts an extra [[/roll 1d4]] damage per caster level.</p><br><p><strong>Spell Data:</strong> @Compendium[dcc-core-book.dcc-core-spell-journals.Turn to Stone]{Turn to Stone}</p>",
+      "results": {
+        "1-1": "caster’s head turns medusa-like (horrible visage, snakes for hair, etc.)",
+        "2-2": "caster’s eyes be- come orbs of polished marble",
+        "3-3": "tendrils of stone rise from the ground to wrap around the target and burrow into its flesh",
+        "4-4": "the target sweats beads of quartz that accumulate to form a shell around it"
+      }
+    },
+    "Turn to Stone Misfire": {
+      "name": "Turn to Stone Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster turns himself to stone for [[/roll 1d6]] rounds;",
+        "2-2": "caster's body turns rocky and ungainly for [[/roll 1d6]] hours;",
+        "3-3": "caster attracts loose stones and rubble to his position, inflicting anywhere from [[/roll 1d3]] to [[/roll 1d30]] points of damage at the judge's discretion depending on size and amount of available stones;",
+        "4-4": "caster becomes stone deaf for [[/roll 1d3]] hours and suffers a -2 penalty to spell checks during that time;",
+        "5-5": "caster inadvertently targets another creature; make a new spell check and apply the results to a random creature within range. If no other creature is within the area of the spell's power, the caster is afflicted by his own magic"
+      }
+    },
+    "Ventriloquism Corruption": {
+      "name": "Ventriloquie Corruption",
+      "description": "",
+      "results": {
+        "1-6": "l’incantateur peut toujours employer des langues courantes, mais le son de sa voix se transforme de manière permanente pour ressembler (1) au hennissement d’un cheval (2) au bourdonnement d’une abeille (3) au bêlement d’un bouc (4) au couinement d’un cochon (5) au rugissement d’un lion (6) à l’aboiement d’un chien",
+        "7-12": "la voix de l’incantateur se déporte pour sembler désormais émaner (7) de ses pieds (8) de sa main gauche (9) de son dos (ce qui le rend souvent difficile à entendre) (10) d’un point situé à 6 m au-dessus de lui (11) du bout de l’arme qu’il porte (12) de la personne du sexe opposé la plus proche."
+      }
+    },
+    "Ventriloquism Manifestation": {
+      "name": "Ventriloquie Manifestation",
+      "description": "<p>En fonction du test (voir plus bas). Soit le sort ne provoque aucune manifestation visuelle, soit lancez 1d4 :</p>",
+      "results": {
+        "1-1": "« vague de chaleur » dans la zone du son",
+        "2-2": "bouffées d’air et déplacement de poussière comme si quelqu’un parlait depuis cet endroit",
+        "3-3": "air vivifiant",
+        "4-4": "écho ou réverbération."
+      }
+    },
+    "Ventriloquism Misfire": {
+      "name": "Ventriloquie Revers",
+      "description": "",
+      "results": {
+        "1-1": "l’incantateur produit un énorme grondement, ce qui attire l’attention sur lui",
+        "2-2": "l’incantateur sème la confusion dans toutes les paroles prononcées à moins de 30 m pendant les 1d4+1 prochaines heures, donnant le sentiment à chaque personne que sa voix provient d’un autre individu situé à proximité, ce qui ne manque pas de créer une grande confusion sur l’identité de la personne qui s’exprime",
+        "3-3": "la voix de l’incantateur se transforme pour devenir un couinement aigu venant de ses pieds, ce qui fait que tout ce qu’il dit au cours des 1d4 prochaines heures donne l’impression de provenir d’une souris qui se faufile entre ses jambes",
+        "4-4": "l’incantateur projette sa voix dans un autre plan dont il n’a pas connaissance, ce qui fait qu’à chaque fois qu’il parle, aucun son ne sort, mais qu’un démon déterminé aléatoirement est constamment dérangé par ce babillage. L’incantateur est, de fait, muet pendant 1d4 heures, et il y a 25 % de chances que le démon agacé le retrouve pour le faire taire."
+      }
+    },
+    "Vermin Blight Manifestation": {
+      "name": "Vermin Blight Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "cleric emits a susurration of wings and the swarms appear",
+        "2-2": "insects pour from the cleric’s open hands",
+        "3-3": "insects boil up from the ground at the targets’ feet",
+        "4-4": "chrysalises sprout from the cleric’s body and then open to release the swarm"
+      }
+    },
+    "War Horn of Elfland Manifestation": {
+      "name": "War Horn of Elfland Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "hints of soldiers emerge from the shadows, coalescing into solid forms",
+        "2-2": "an emerald mist passes over the land leaving warriors in its wake",
+        "3-3": "a searing rainbow bridge arcs from over the horizon, bringing with it fierce warriors"
+      }
+    },
+    "Ward Portal Corruption": {
+      "name": "Portail enchanté Corruption",
+      "description": "",
+      "results": {
+        "1-3": "mineure",
+        "4-5": "majeure",
+        "6-6": "supérieure."
+      }
+    },
+    "Ward Portal Manifestation": {
+      "name": "Portail enchanté Manifestation",
+      "description": "<p>Roll [[/roll 1d6]].</p>",
+      "results": {
+        "1-1": "un signe est gravé sur le portail",
+        "2-2": "le portail est enveloppé d’une ombre surnaturelle",
+        "3-3": "le portail se transforme en pierre/fer/acier/roche",
+        "4-4": "un cercle magique entoure le portail",
+        "5-5": "une masse de chaînes et de cordes enserre le portail",
+        "6-6": "pas d’effet visible."
+      }
+    },
+    "Ward Portal Misfire": {
+      "name": "Portail enchanté Revers",
+      "description": "",
+      "results": {
+        "1-1": "au cours des 1d6 prochaines heures, toutes les portes dont s’approche l’incantateur claquent et se verrouillent automatiquement",
+        "2-2": "toutes les portes à moins de 30 m claquent et se verrouillent automatiquement",
+        "3-3": "toutes les portes à moins de 30 m se déverrouillent et s’ouvrent automatiquement",
+        "4-4": "1d4 portes illusoires apparaissent sur le mur à côté de la porte la plus proche."
+      }
+    },
+    "Warp and Weft Manifestation": {
+      "name": "Warp and Weft Manifestation",
+      "description": "Roll [[/roll 1d3]].",
+      "results": {
+        "1-1": "caster freezes for the duration of the casting time, perceiving the strands and threads of fate that make up the universe",
+        "2-2": "large, pale, interdimensional spiders descend through rifts in reality, drawing threads of fate-silk behind them",
+        "3-3": "a dusky hue passes over the caster’s vision and all living creatures within his sight appear as corpses, as he witnesses the inevitable end to all living things"
+      }
+    },
+    "Water Breathing Corruption": {
+      "name": "Water Breathing Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster must immerse himself in water for 10 minutes each day or suffer great pain [manifested as -2 to all rolls];",
+        "2-2": "caster's voice takes on a bubbling, distorted quality as if speaking underwater;",
+        "3-3": "caster's flesh becomes permanently discolored and scaly;",
+        "4-4": "caster's nose and ears vanish and are replaced with flaps of fishy flesh"
+      }
+    },
+    "Water Breathing Manifestation": {
+      "name": "Water Breathing Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "target grows gill slits on the neck",
+        "2-2": "target’s body becomes scaly and assumes a greenish- blue or silver hue",
+        "3-3": "target’s eyes bulge fishlike in their sockets and its mouth puckers",
+        "4-4": "target’s nose and mouth transform into thin slits"
+      }
+    },
+    "Water Breathing Misfire": {
+      "name": "Water Breathing Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster gasps for breath and passes out for [[/roll 1d10]] minutes;",
+        "2-2": "caster's skin becomes dry and cracked, and if not immersed in water for 1 hour immediately, he temporarily loses 1 point of Stamina;",
+        "3-3": "caster and all within 10' of him are buffeted by a rain of fish that do [[/roll 1d4]] points of damage;",
+        "4-4": "caster loses the ability to speak for [[/roll 1d6]] hours;",
+        "5-5": "caster's skin becomes covered in slick mucus for [[/roll 1d6]] hours, reducing movement by 10 feet per round and inflicting a -2 penalty to attacks, spell checks, skill checks involving a firm grip, and initiative, but the slime does grant a +2 bonus to escape restraints"
+      }
+    },
+    "Weather Control Manifestation": {
+      "name": "Weather Control Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "flashes of lighting appear in the cleric’s eyes",
+        "2-2": "the cleric’s chest swells unnaturally before he exhales a gust of wind",
+        "3-3": "strange colored and shaped clouds form over the cleric’s position",
+        "4-4": "the air grows completely still and animals quiet as the weather begins to change"
+      }
+    },
+    "Wizard Sense Corruption": {
+      "name": "Wizard Sense Corruption",
+      "description": "",
+      "results": {
+        "1-1": "caster's eyes permanently vanish [sight is unaffected];",
+        "2-2": "caster gains a permanent third eye;",
+        "3-3": "caster's ears become bat-like;",
+        "4-4": "caster's eyes never close, even in sleep;",
+        "5-5": "caster sees meaningless visions from time to time that may interrupt his concentration - judge's discretion -;",
+        "6-6": "strange events from distant lands can be seen in the caster's eyes"
+      }
+    },
+    "Wizard Sense Manifestation": {
+      "name": "Wizard Sense Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "caster’s eyes turn dead white",
+        "2-2": "a third eye opens in the caster’s forehead",
+        "3-3": "fleshy antennae extend from the top of the caster’s head",
+        "4-4": "caster’s eyes vanish completely from their sockets"
+      }
+    },
+    "Wizard Sense Misfire": {
+      "name": "Wizard Sense Misfire",
+      "description": "",
+      "results": {
+        "1-1": "caster observes false events, believing them to be true;",
+        "2-2": "caster struck blind and deaf for [[/roll 1d4]] hours;",
+        "3-3": "caster broadcasts embarrassing or dangerous secrets to those under observation;",
+        "4-4": "caster's eyes literally fall out of his head and roll away, blinding him until they are placed back in their sockets"
+      }
+    },
+    "Wizard Staff Corruption": {
+      "name": "Wizard Staff Corruption",
+      "description": "",
+      "results": {
+        "1-4": "minor corruption;",
+        "5-6": "major corruption;",
+        "7-8": "greater corruption"
+      }
+    },
+    "Wood Wyrding Manifestation": {
+      "name": "Wood Wyrding Manifestation",
+      "description": "Roll [[/roll 1d4]].",
+      "results": {
+        "1-1": "the target object(s) is limned with colored radiance appropriate to the cleric’s deity",
+        "2-2": "the cleric’s fingers temporarily become stick-like and leafed",
+        "3-3": "the smell of fresh-cut wood and fallen leaves fills the air around the cleric;",
+        "4-4": "protoplasmic vines coil around the target object(s)"
+      }
+    },
+    "Word of Command Manifestation": {
+      "name": "Injonction Manifestation",
+      "description": "<p>Roll [[/roll 1d4]].</p>",
+      "results": {
+        "1-1": "le mot est déclamé d’une voix tonitruante",
+        "2-2": "le mot produit de nombreux échos",
+        "3-3": "le mot semble venir de partout, y compris de l’air et du sol",
+        "4-4": "le mot apparaît dans le ciel en lettres de feu avant de disparaître."
+      }
+    },
+    "Write Magic Corruption": {
+      "name": "Write Magic Corruption",
+      "description": "",
+      "results": {
+        "1-4": "minor,",
+        "5-6": "major,",
+        "7-8": "greater"
+      }
+    },
+    "Write Magic Misfire": {
+      "name": "Write Magic Misfire",
+      "description": "",
+      "results": {
+        "1-1": "one of the spells the caster is attempting to inscribe is accidentally activated through the inscription process, causing the spell to take effect immediately;",
+        "2-2": "the caster copies down the spell and in the process forgets it, such that he cannot cast it for the remainder of the day;",
+        "3-3": "the caster has a terrible memory loss and forgets all spells for the rest of the day;",
+        "4-4": "one of the spells the caster attempts to inscribe is gone from his memory for [[/roll 1d4+1]] days, and he simply cannot remember it under any circumstances"
+      }
+    }
+  }
+}

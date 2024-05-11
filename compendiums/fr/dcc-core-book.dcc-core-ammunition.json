@@ -1,0 +1,21 @@
+{
+	"label": "Munitions",
+	"entries": {
+		"Arrows": {
+			"name": "Flèches",
+			"description": ""
+		},
+		"Arrows, silver-tipped": {
+			"name": "Flèches, pointes argent",
+			"description": ""
+		},
+		"Quarrels": {
+			"name": "Carreaux",
+			"description": ""
+		},
+		"Sling stones": {
+			"name": "Pierres de fronde",
+			"description": ""
+		}
+	}
+}

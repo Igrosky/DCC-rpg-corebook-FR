@@ -1,0 +1,129 @@
+{
+  "label": "Armes",
+  "mapping": {
+    "range": "system.range"
+	  },
+	  
+	"entries": {
+		"Battleaxe": {
+			"name": "Hache de bataille",
+			"description": ""
+		},
+		"Blackjack": {
+			"name": "Matraque",
+			"description": ""
+		},
+		"Blowgun": {
+			"name": "Sarbacane",
+			"description": "",
+			"range": "6/12/18"
+		},
+		
+		"Club": {
+			"name": "Gourdin",
+			"description": ""
+		},
+		"Crossbow": {
+      "name": "Arbalète",
+      "range": "20/50/75",
+	  "description": ""
+	  
+		},
+		"Dagger": {
+			"name": "Dague",
+			"description": "",
+			"range": "3/6/9"
+		},
+		
+		"Dagger (Ranged)": {
+			"name": "Dague (Distance)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Dart": {
+			"name": "Fléchette",
+			"description": "",
+			"range": "6/12/18"
+		},
+		
+		"Flail": {
+			"name": "Fléau",
+			"description": ""
+		},
+		"Garrote": {
+			"name": "Garrot",
+			"description": ""
+		},
+		"Handaxe": {
+			"name": "Hachette",
+			"description": "",
+			"range": "3/6/9"
+		},
+		
+		"Handaxe (Ranged)": {
+			"name": "Hachette (Distance)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Javelin": {
+			"name": "Javelot",
+			"description": "",
+			"range": "10/20/30"
+		},
+		
+		"Lance": {
+			"name": "Lance d’arçon",
+			"description": ""
+		},
+		"Longbow": {
+			"name": "Arc long",
+			"description": "",
+			"range": "20/40/60"
+		},
+		
+		"Longsword": {
+			"name": "Épée longue",
+			"description": ""
+		},
+		"Mace": {
+			"name": "Masse",
+			"description": ""
+		},
+		"Polearm": {
+			"name": "Hallebarde",
+			"description": ""
+		},
+		"Short sword": {
+			"name": "Épée courte",
+			"description": ""
+		},
+		"Shortbow": {
+      "name": "Arc court",
+      "range": "15/30/45",
+	  "description": ""
+	  
+		},
+		"Sling": {
+			"name": "Fronde",
+			"description": "",
+			"range": "12/24/48"
+		},
+		
+		"Spear": {
+			"name": "Lance",
+			"description": ""
+		},
+		"Staff": {
+			"name": "Bâton",
+			"description": ""
+		},
+		"Two-handed sword": {
+			"name": "Épée à deux mains",
+			"description": ""
+		},
+		"Warhammer": {
+			"name": "Marteau de guerre",
+			"description": ""
+		}
+	}
+}

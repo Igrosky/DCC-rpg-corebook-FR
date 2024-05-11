@@ -1,0 +1,200 @@
+{
+  "label": "Sorts de Mage Lvl 3",
+  "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value",
+	"level": "system.level"
+	  },
+	  
+  "entries": {
+	  
+    "Binding (Wizard Casting)": {
+      "name": "Soumission (Mage)",
+      "range": "9 m ou plus",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": " 281",
+	  "level": "3",
+      "description": "<p>* Comme le sort de clerc du m&ecirc;me nom, mais &eacute;tant donn&eacute; que la version du mage est d&rsquo;un niveau diff&eacute;rent, le mage subit une p&eacute;nalit&eacute; de -2 au test d&rsquo;incantation quand il le lance. Par exemple, soumission est un sort de clerc niveau 2, mais un sort de mage niveau 3. Donc, le mage applique une p&eacute;nalit&eacute; de -2 quand il lance sur la table du sort. En cas de 1 naturel, le mage a 50 % de risques de subir une corruption majeure ou un revers arcanique et devra faire un jet sur les tables appropri&eacute;es.</p>\n<p><br>Au moyen de ce sort, le clerc peut soumettre une cr&eacute;ature surnaturelle et l&rsquo;obliger &agrave; lui ob&eacute;ir. Ce sort est plus facile &agrave; lancer si la cr&eacute;ature a d&eacute;j&agrave; &eacute;t&eacute; invoqu&eacute;e au moyen d&rsquo;un autre sort, mais il peut &ecirc;tre utilis&eacute; pour tenter de contr&ocirc;ler les cr&eacute;atures rencontr&eacute;es sur leur plan d&rsquo;origine. Le clerc peut cibler une cr&eacute;ature se trouvant d&eacute;j&agrave; sous le contr&ocirc;le d&rsquo;un autre incantateur et invoqu&eacute;e via un autre sort (comme par exemple invocation d&rsquo;animaux, convocation de monstre ou compagnon invisible) ou une cr&eacute;ature native d&rsquo;un plan immat&eacute;riel (comme un d&eacute;mon, un diable, un &eacute;l&eacute;mentaire, un esprit, un fant&ocirc;me, etc.).</p>\n<p>Le clerc force la cr&eacute;ature &agrave; lui ob&eacute;ir au lieu d&rsquo;ob&eacute;ir &agrave; son ma&icirc;tre actuel. Un jet de sauvegarde de Volont&eacute; est autoris&eacute; pour r&eacute;sister, mais il est effectu&eacute; par l&rsquo;autre incantateur, pas par la cr&eacute;ature, qui est d&eacute;j&agrave; soumise. Si le clerc remporte l&rsquo;opposition, le contr&ocirc;le de la cr&eacute;ature lui est transf&eacute;r&eacute; pendant un certain temps, au bout duquel il revient &agrave; l&rsquo;incantateur initial (si le sort d&rsquo;invocation ou de contr&ocirc;le initial n&rsquo;a pas d&eacute;j&agrave; pris fin). Ce sort ne peut affecter les familiers ou les autres cr&eacute;atures ob&eacute;issant de mani&egrave;re consentante &agrave; leur ma&icirc;tre. Seules les cr&eacute;atures domin&eacute;es peuvent &ecirc;tre affect&eacute;es.</p>\n<p>Dans certaines circonstances, d&eacute;taill&eacute;es ci-dessous, le clerc peut affecter d&rsquo;autres types de cibles.</p>\n<p>Le clerc peut obliger une cr&eacute;ature sous son contr&ocirc;le &agrave; effectuer n&rsquo;importe quelle action dans la mesure de ses capacit&eacute;s, &agrave; la mani&egrave;re du sort invocation d&rsquo;animaux. La cr&eacute;ature doit &ecirc;tre capable d&rsquo;entendre le clerc et ex&eacute;cutera les ordres de son mieux. Les ordres suicidaires ou contradictoires donnent &agrave; la cible le droit d&rsquo;effectuer un nouveau jet de sauvegarde de Volont&eacute; pour r&eacute;sister.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.GudOnnV5ndQAX8WD]{Soumission (Mage)}</p>"
+    },
+	
+    "Breathe Life": {
+      "name": "Souffle de vie",
+      "range": "Contact",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 tour",
+      "save": " Aucun",
+      "page": "233",
+      "description": "<p>En exhalant un souffle enchant&eacute;, l&rsquo;incantateur insuffle la vie &agrave; un objet inanim&eacute;. Ce sort peut faire bouger des statues, transformer des figurines d&rsquo;argile en homoncules ob&eacute;issants, permettre &agrave; des livres de sorts de se d&eacute;fendre contre des intrus ou transformer des portes de donjons en vaillantes sentinelles. Le sort n&eacute;cessite un court rituel et un ensemble d&rsquo;ingr&eacute;dients particuliers qui varient en fonction de l&rsquo;objet &agrave; animer. Le sort ne fonctionne pas sur les cadavres de cr&eacute;atures et ne peut servir de substitut &agrave; animation des morts.</p>\n<p>Les objets se d&eacute;placent en fonction de leur nature, en g&eacute;n&eacute;ral avec un Mouvement de 6 m ou moins : un livre peut ramper comme un asticot, une statuette d&rsquo;argile avancera en fonction des jambes ou des ailes dont elle dispose, une porte pourra se dandiner sur ses gonds, etc. Si d&rsquo;autres sorts venaient &agrave; &ecirc;tre associ&eacute;s au rituel d&rsquo;incantation, la cr&eacute;ature anim&eacute;e pourrait parler (par exemple, bouche magique), voler (par exemple, vol) ou disposer d&rsquo;autres capacit&eacute;s (par exemple, invisibilit&eacute;, r&eacute;sistance au feu, etc.). L&rsquo;incantateur peut combiner un effet magique suppl&eacute;mentaire par NI et doit r&eacute;ussir le test d&rsquo;incantation de ce sort avec un minimum de 1 point de br&ucirc;lesort pour qu&rsquo;il prenne effet.</p>\n<p>La cr&eacute;ature anim&eacute;e n&rsquo;ob&eacute;it pas toujours aux desiderata de son cr&eacute;ateur. &Agrave; l&rsquo;exception des cas mentionn&eacute;s cidessous, le cr&eacute;ateur doit r&eacute;ussir un test de Pr&eacute;sence DD 5 pour s&rsquo;assurer de l&rsquo;ob&eacute;issance &agrave; un ordre sp&eacute;cifique qui met l&rsquo;objet en danger ou est contraire &agrave; sa nature (par exemple, ordonner &agrave; une statue d&rsquo;argile de plonger dans l&rsquo;eau ou demander &agrave; un livre de sauter par-dessus des flammes).</p>\n<p>La cr&eacute;ature anim&eacute;e poss&egrave;de les caract&eacute;ristiques indiqu&eacute;es plus bas. Sa CA varie en fonction de son mat&eacute;riau : le papier a une CA de 4, le tissu ou la paille une CA de 6, le cuir ou la peau une CA de 10, la pierre une CA de 12 et le fer ou l&rsquo;acier une CA de 14. Les points de vie sont pr&eacute;cis&eacute;s ci-dessous mais sont plus importants pour des mat&eacute;riaux particuli&egrave;rement r&eacute;sistants : le bois ou l&rsquo;argile ont un bonus de +1 par d&eacute;, la pierre +2 par d&eacute; et le fer ou l&rsquo;acier +3 par d&eacute;. Des mat&eacute;riaux uniques ou sp&eacute;cifiques peuvent avoir d&rsquo;autres propri&eacute;t&eacute;s et avantages au gr&eacute; du Juge.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.4whPcfTFNdpCCkTe]{Souffle de vie}</p>"
+    },
+	
+    "Consult Spirit": {
+         "name": "Consulter les esprits",
+      "range": "Personnelle",
+      "duration": "1 question ou plus",
+      "castingTime": "1 heure",
+      "save": "Aucun",
+      "page": "211",
+      "description": "<p>L&rsquo;incantateur entre en contact avec un esprit extradimensionnel pour obtenir des renseignements ou faire passer des informations. L&rsquo;esprit peut &ecirc;tre le fant&ocirc;me d&rsquo;une personne d&eacute;c&eacute;d&eacute;e, un d&eacute;mon r&eacute;sidant sur un autre plan, un esprit de la nature occupant un lac ou un arbre, le propre patron surnaturel de l&rsquo;incantateur ou m&ecirc;me un dieu.</p>\n<p>Ce sort est particuli&egrave;rement efficace quand l&rsquo;incantateur consulte un esprit qu&rsquo;il conna&icirc;t d&eacute;j&agrave;. Si l&rsquo;incantateur consulte son patron (avec qui il s&rsquo;est li&eacute; au pr&eacute;alable) ou l&rsquo;un des serviteurs du patron, ajoutez +1 au test d&rsquo;incantation. Si l&rsquo;incantateur consulte un esprit en particulier qu&rsquo;il conna&icirc;t par un pr&eacute;c&eacute;dent contact, une l&eacute;gende, une d&eacute;duction logique (par exemple, si l&rsquo;incantateur voit un cadavre et souhaite trouver son fant&ocirc;me), ou des recherches (par exemple, si l&rsquo;incantateur a visit&eacute; son autel ou lu des r&eacute;cits de ses exploits), il n&rsquo;y a pas de modificateur. Si l&rsquo;incantateur ne dispose d&rsquo;aucune information sur l&rsquo;esprit consult&eacute; et souhaite simplement contacter n&rsquo;importe quel esprit pr&ecirc;t &agrave; lui r&eacute;pondre, ou qu&rsquo;il contacte d&eacute;lib&eacute;r&eacute;ment un esprit d&rsquo;alignement oppos&eacute; ou aux objectifs contraires, soustrayez -1 au test d&rsquo;incantation.</p>\n<p>Si l&rsquo;incantateur conna&icirc;t l&rsquo;esprit, lancez 1d100 pour d&eacute;terminer son attitude : (01-20) amical (21-80) neutre (81-00) hostile. Un esprit amical ou neutre r&eacute;pond honn&ecirc;tement au mieux de ses capacit&eacute;s et dispose d&rsquo;une base de 50 % de chances de conna&icirc;tre la r&eacute;ponse &agrave; une question en rapport avec son domaine de connaissances, ajust&eacute;e au gr&eacute; du Juge et en fonction de l&rsquo;obscurit&eacute; de la question. Si l&rsquo;esprit interrog&eacute; est hostile, lancez 1d100 : il (01-50) fournit une information trompeuse (51-80) refuse de r&eacute;pondre (81-95) essaie de sonder l&rsquo;esprit de l&rsquo;incantateur (jet de sauvegarde de Volont&eacute; DD 4d6 ou perte temporaire de 1d4 points d&rsquo;Intelligence) (96-00) se sert de cette connexion pour p&eacute;n&eacute;trer dans le plan mat&eacute;riel.</p>\n<p>&Eacute;tablir un tel contact permet &agrave; l&rsquo;esprit de faire de m&ecirc;me en retour (en lan&ccedil;ant le m&ecirc;me sort s&rsquo;il en est capable, ou par d&rsquo;autres moyens). D&rsquo;autre part, tous les esprits ne sont pas enchant&eacute;s d&rsquo;&ecirc;tre d&eacute;rang&eacute;s par un mortel curieux. Le fant&ocirc;me d&rsquo;une cr&eacute;ature r&eacute;cemment tu&eacute;e, par exemple, sera probablement encore en col&egrave;re suite &agrave; sa mort, et le r&eacute;veiller pourrait avoir quelques funestes cons&eacute;quences.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.5r5T6WVpsM5xW4ci]{Consulter les esprits}</p>"
+    },
+	
+    "Demon Summoning": {
+      "name": "Convocation de Démon",
+      "range": "6 m",
+      "duration": "Variable",
+      "castingTime": "1 tour",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "213",
+      "description": "<p data-pm-slice=\"1 1 []\">Voir @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.mu47YHDh8PUEG0Ho]{Convocation de Démon - Patron}, @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.fS5VnxJVQvlipkWM]{Convocation de Démon - Sans patron}, et @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.eiiu8tWsDr3g1SS9]{Convocation de Démon - Vrai nom} en fonction des circonstances. </p>\n<p>&nbsp;</p>\n<p>Ce sort invoque un d&eacute;mon et le force &agrave; ob&eacute;ir aux ordres de l&rsquo;incantateur. Les d&eacute;mons sont intelligents, capricieux, ambitieux, &eacute;motifs et ils ne sont pas toujours ravis d&rsquo;&ecirc;tre invoqu&eacute;s. Ce sort n&eacute;cessite un rituel obscur et au moins un point de br&ucirc;lesort. L&rsquo;effet du sort varie en fonction du rituel qui est accompli. L&rsquo;incantateur peut faire appel &agrave; son patron s&rsquo;il en a un, invoquer un d&eacute;mon sp&eacute;cifique dont il conna&icirc;t le vrai nom ou juste tenter d&rsquo;invoquer n&rsquo;importe quel d&eacute;mon. Utilisez la colonne appropri&eacute;e ci-dessous en fonction du r&eacute;sultat recherch&eacute;.</p>\n<p>Le d&eacute;mon invoqu&eacute; n&rsquo;est pas n&eacute;cessairement sous le contr&ocirc;le de l&rsquo;incantateur. Sauf exception pr&eacute;cis&eacute;e ci-dessous, il dispose d&rsquo;un jet de sauvegarde de Volont&eacute; (DD &eacute;gal au r&eacute;sultat du test d&rsquo;incantation) pour r&eacute;sister &agrave; la prise de contr&ocirc;le. Si le d&eacute;mon r&eacute;ussit son jet, il se d&eacute;cha&icirc;ne une fois apparu. Il y a 50 % de chances qu&rsquo;il attaque l&rsquo;incantateur, diminu&eacute; de -20 % si l&rsquo;incantateur a invoqu&eacute; un d&eacute;mon au service de son patron, et encore -20 % si l&rsquo;incantateur conna&icirc;t le vrai nom du d&eacute;mon. Si le d&eacute;mon n&rsquo;attaque pas l&rsquo;incantateur, il attaque une autre cr&eacute;ature se trouvant &agrave; proximit&eacute;.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.PCmAm21lecY64bXm]{Convocation de D&eacute;mon}</p>"
+    },
+	
+    "Demon Summoning - No Patron": {
+      "name": "Convocation de Démon - Sans patron",
+      "range": "6 m",
+      "duration": "Variable",
+      "castingTime": "1 tour",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "213",
+      "description": "<p>Ce sort invoque un d&eacute;mon et le force &agrave; ob&eacute;ir aux ordres de l&rsquo;incantateur. Les d&eacute;mons sont intelligents, capricieux, ambitieux, &eacute;motifs et ils ne sont pas toujours ravis d&rsquo;&ecirc;tre invoqu&eacute;s. Ce sort n&eacute;cessite un rituel obscur et au moins un point de br&ucirc;lesort. L&rsquo;effet du sort varie en fonction du rituel qui est accompli. L&rsquo;incantateur peut faire appel &agrave; son patron s&rsquo;il en a un, invoquer un d&eacute;mon sp&eacute;cifique dont il conna&icirc;t le vrai nom ou juste tenter d&rsquo;invoquer n&rsquo;importe quel d&eacute;mon. Utilisez la colonne appropri&eacute;e ci-dessous en fonction du r&eacute;sultat recherch&eacute;.</p>\n<p>Le d&eacute;mon invoqu&eacute; n&rsquo;est pas n&eacute;cessairement sous le contr&ocirc;le de l&rsquo;incantateur. Sauf exception pr&eacute;cis&eacute;e ci-dessous, il dispose d&rsquo;un jet de sauvegarde de Volont&eacute; (DD &eacute;gal au r&eacute;sultat du test d&rsquo;incantation) pour r&eacute;sister &agrave; la prise de contr&ocirc;le. Si le d&eacute;mon r&eacute;ussit son jet, il se d&eacute;cha&icirc;ne une fois apparu. Il y a 50 % de chances qu&rsquo;il attaque l&rsquo;incantateur, diminu&eacute; de -20 % si l&rsquo;incantateur a invoqu&eacute; un d&eacute;mon au service de son patron, et encore -20 % si l&rsquo;incantateur conna&icirc;t le vrai nom du d&eacute;mon. Si le d&eacute;mon n&rsquo;attaque pas l&rsquo;incantateur, il attaque une autre cr&eacute;ature se trouvant &agrave; proximit&eacute;.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.fS5VnxJVQvlipkWM]{Convocation de D&eacute;mon - Sans patron}</p>"
+    },
+	
+    "Demon Summoning - Patron": {
+      "name": "Convocation de Démon - Patron",
+      "range": "6 m",
+      "duration": "Variable",
+      "castingTime": "1 tour",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "213",
+      "description": "<p>Ce sort invoque un d&eacute;mon et le force &agrave; ob&eacute;ir aux ordres de l&rsquo;incantateur. Les d&eacute;mons sont intelligents, capricieux, ambitieux, &eacute;motifs et ils ne sont pas toujours ravis d&rsquo;&ecirc;tre invoqu&eacute;s. Ce sort n&eacute;cessite un rituel obscur et au moins un point de br&ucirc;lesort. L&rsquo;effet du sort varie en fonction du rituel qui est accompli. L&rsquo;incantateur peut faire appel &agrave; son patron s&rsquo;il en a un, invoquer un d&eacute;mon sp&eacute;cifique dont il conna&icirc;t le vrai nom ou juste tenter d&rsquo;invoquer n&rsquo;importe quel d&eacute;mon. Utilisez la colonne appropri&eacute;e ci-dessous en fonction du r&eacute;sultat recherch&eacute;.</p>\n<p>Le d&eacute;mon invoqu&eacute; n&rsquo;est pas n&eacute;cessairement sous le contr&ocirc;le de l&rsquo;incantateur. Sauf exception pr&eacute;cis&eacute;e ci-dessous, il dispose d&rsquo;un jet de sauvegarde de Volont&eacute; (DD &eacute;gal au r&eacute;sultat du test d&rsquo;incantation) pour r&eacute;sister &agrave; la prise de contr&ocirc;le. Si le d&eacute;mon r&eacute;ussit son jet, il se d&eacute;cha&icirc;ne une fois apparu. Il y a 50 % de chances qu&rsquo;il attaque l&rsquo;incantateur, diminu&eacute; de -20 % si l&rsquo;incantateur a invoqu&eacute; un d&eacute;mon au service de son patron, et encore -20 % si l&rsquo;incantateur conna&icirc;t le vrai nom du d&eacute;mon. Si le d&eacute;mon n&rsquo;attaque pas l&rsquo;incantateur, il attaque une autre cr&eacute;ature se trouvant &agrave; proximit&eacute;.</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.mu47YHDh8PUEG0Ho]{Convocation de D&eacute;mon - Patron}</p>"
+    },
+	
+    "Demon Summoning - True Name": {
+      "name": "Convocation de Démon - Vrai nom",
+      "range": "6 m",
+      "duration": "Variable",
+      "castingTime": "1 tour",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "213",
+      "description": "<p>Ce sort invoque un d&eacute;mon et le force &agrave; ob&eacute;ir aux ordres de l&rsquo;incantateur. Les d&eacute;mons sont intelligents, capricieux, ambitieux, &eacute;motifs et ils ne sont pas toujours ravis d&rsquo;&ecirc;tre invoqu&eacute;s. Ce sort n&eacute;cessite un rituel obscur et au moins un point de br&ucirc;lesort. L&rsquo;effet du sort varie en fonction du rituel qui est accompli. L&rsquo;incantateur peut faire appel &agrave; son patron s&rsquo;il en a un, invoquer un d&eacute;mon sp&eacute;cifique dont il conna&icirc;t le vrai nom ou juste tenter d&rsquo;invoquer n&rsquo;importe quel d&eacute;mon. Utilisez la colonne appropri&eacute;e ci-dessous en fonction du r&eacute;sultat recherch&eacute;.</p>\n<p>Le d&eacute;mon invoqu&eacute; n&rsquo;est pas n&eacute;cessairement sous le contr&ocirc;le de l&rsquo;incantateur. Sauf exception pr&eacute;cis&eacute;e ci-dessous, il dispose d&rsquo;un jet de sauvegarde de Volont&eacute; (DD &eacute;gal au r&eacute;sultat du test d&rsquo;incantation) pour r&eacute;sister &agrave; la prise de contr&ocirc;le. Si le d&eacute;mon r&eacute;ussit son jet, il se d&eacute;cha&icirc;ne une fois apparu. Il y a 50 % de chances qu&rsquo;il attaque l&rsquo;incantateur, diminu&eacute; de -20 % si l&rsquo;incantateur a invoqu&eacute; un d&eacute;mon au service de son patron, et encore -20 % si l&rsquo;incantateur conna&icirc;t le vrai nom du d&eacute;mon. Si le d&eacute;mon n&rsquo;attaque pas l&rsquo;incantateur, il attaque une autre cr&eacute;ature se trouvant &agrave; proximit&eacute;.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.eiiu8tWsDr3g1SS9]{Convocation de D&eacute;mon - Vrai nom}</p>"
+    },
+	
+    "Dispel Magic": {
+      "name": "Dissipation de la magie",
+      "range": "Contact ou plus",
+      "duration": "D’instantané à permanent",
+      "castingTime": "1 round ou plus",
+      "save": "Parfois (Volonté vs DD test d’incantation)",
+      "page": "215",
+      "description": "<p>Avec ce sort, l&rsquo;incantateur disloque les &eacute;nergies arcaniques. Il peut briser un pentagramme, bannir un d&eacute;mon invoqu&eacute;, neutraliser une potion magique ou annuler un autre sort. Ce sort est en r&eacute;alit&eacute; une opposition de volont&eacute;s : l&rsquo;incantateur essaie de prendre le contr&ocirc;le et de briser les &eacute;nergies magiques d&eacute;j&agrave; assembl&eacute;es par un mage rival. Si l&rsquo;incantateur est plus puissant, il dissipe la magie de son ennemi. Sinon, la magie perdure.</p>\n<p>Dans la plupart des cas, la concentration est un facteur crucial pour ce sort. Une simple dissipation de la magie peut &ecirc;tre lanc&eacute;e en 1 round, mais le r&eacute;sultat maximal du test d&rsquo;incantation est alors plafonn&eacute; &agrave; 21, sans tenir compte du jet de d&eacute;s. Pour chaque round de concentration lors de l&rsquo;incantation, le plafond du test est relev&eacute;, comme indiqu&eacute; ci-dessous. Un temps d&rsquo;incantation plus long ne garantit pas forc&eacute;ment un meilleur r&eacute;sultat, mais celui-ci est plafonn&eacute; en fonction du temps d&rsquo;incantation.</p>\n<p>Ce sort peut &eacute;galement &ecirc;tre utilis&eacute; comme contresort lors des duels arcaniques. Utilis&eacute; dans ce but, il peut atteindre n&rsquo;importe quel niveau d&rsquo;effet sans tenir compte du temps pass&eacute; &agrave; incanter.</p>\n<p>Quand ce sort est lanc&eacute;, l&rsquo;effet dissip&eacute; doit avoir &eacute;t&eacute; obtenu avec un test d&rsquo;incantation &eacute;gal ou inf&eacute;rieur &agrave; celui de l&rsquo;incantateur, et le mage adverse b&eacute;n&eacute;ficie d&rsquo;un jet de sauvegarde de Volont&eacute;. Par exemple, si l&rsquo;incantateur a obtenu 16 au test d&rsquo;incantation de dissipation de la magie, il peut annuler le sort image miroir d&rsquo;un ennemi lanc&eacute; avec un r&eacute;sultat de 15 ou moins au test d&rsquo;incantation. Si le r&eacute;sultat du test adverse n&rsquo;est pas connu, le Juge devra l&rsquo;effectuer sur le moment. L&rsquo;incantateur ne conna&icirc;t pas forc&eacute;ment la puissance du sort ou de l&rsquo;effet qu&rsquo;il cherche &agrave; dissiper.</p>\n<p>Dans certains cas indiqu&eacute;s plus bas, l&rsquo;incantateur adverse peut emp&ecirc;cher qu&rsquo;un sort soit dissip&eacute; en effectuant un jet de sauvegarde de Volont&eacute; (DD &eacute;gal au r&eacute;sultat du test d&rsquo;incantation du mage). Par exemple, l&rsquo;initiateur du sort image miroir pourrait tenter de maintenir ses effets en obtenant un r&eacute;sultat &agrave; son jet de sauvegarde sup&eacute;rieur ou &eacute;gal au test d&rsquo;incantation de l&rsquo;incantateur.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.1ZS5UtkuzKuriea3]{Dissipation de la magie}</p>"
+    },
+	
+    "Eldritch Hound": {
+      "name": "Limier occulte",
+      "range": "Variable",
+      "duration": "Variable",
+      "castingTime": "1 tour",
+      "save": "Aucun",
+      "page": "221",
+      "description": "<p>L’incantateur invoque un limier surnaturel afin de traquer quelque chose ou quelqu’un. Ce chasseur occulte est une vile créature des abysses aux intentions malveillantes. Ce sort nécessite au minimum 1 point de brûlesort qui ne guérit pas tant que le limier occulte n’est pas retourné d’où il vient. Il n’a pas de forme permanente sur le plan matériel et apparaît souvent comme une ombre ou un brouillard. L’incantateur doit faire connaître au limier l’objet ou la personne qu’il cherche en termes clairs et directs. Toute ambiguïté pourrait orienter la recherche vers une mauvaise cible. Un élément matériel, comme un bout de vêtement, des cheveux ou une fiole de sang, est préférable, tandis qu’une peinture, une description, un nom (ou un vrai nom) sont plus secondaires. Le limier dispose d’un odorat exceptionnel ainsi que des capacités sommaires de PES et de voyance. Si on lui confie assez d’éléments et une piste à suivre, il a de très grandes chances de retrouver sa cible. Il va rechercher et ramener la personne ou l’objet en question, mort ou vif, à l’endroit où il a été invoqué au départ. Il n’a aucune préférence entre « mort » ou « vif » et choisit généralement la méthode la plus rapide. Bien sûr, si l’objet se trouve sur un continent lointain ou dans un dangereux labyrinthe, le limier occulte peut se retrouver face à un très long voyage pas forcément couronné de succès. Un incantateur qui tenterait d’imposer des conditions au limier (comme ramener une personne en vie ou accomplir sa mission dans un délai donné ou à un moment précis) peut parfois y parvenir, en fonction du résultat du test d’incantation. Sauf précision contraire, le limier vole avec un mouvement de 30 m, a des valeurs de caractéristiques de 14 et peut accomplir n’importe quelle action qu’un homme pourrait effectuer. Il écoute mais ne parle jamais. Il possède une CA de 18, 4d12 PV, attaque à +8 (dégâts 2d6) et effectue ses jets de sauvegarde comme l’incantateur. Il ne combattra pas de manière arbitraire ou même pour protéger l’incantateur. Il se battra seulement pour récupérer la personne ou l’objet recherché, et seulement si c’est absolument inévitable. Il est patient et préférera attendre que combattre. S’il dispose d’assez d’informations, le limier a un certain pourcentage de chances de trouver la piste de sa cible (comme indiqué dans les résultats de test d’incantation ci-dessous), mais il ne peut pas se déplacer entre les plans (sauf indication contraire), et la localisation réussie de l’objet ne signifie pas qu’il réussit à le ramener dans le temps imparti. Le Juge peut modifier les chances de retrouver la piste de manière opportune.</p><br><p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.f65Jf2ucuQOyrw6c]{Limier occulte}</p>"
+    },
+	
+    "Emirikol's Entropic Maelstrom": {
+      "name": "Maelström entropique d’Emirikol",
+      "range": "15 m+3 m par NI ",
+      "duration": "1 round/NI",
+      "castingTime": "1 action",
+      "save": "Vigueur",
+      "page": "223",
+      "description": "<p data-pm-slice=\"1 1 []\">Ce sort produit une temp&ecirc;te entropique qui emplit un carr&eacute; de 12 m de c&ocirc;t&eacute;. Celles et ceux qui sont pris dans le maelstr&ouml;m sont assaillis par les forces &eacute;l&eacute;mentaires du Chaos, ce qui provoque vieillissement, d&eacute;cr&eacute;pitude et autres transformations. Toutes les cr&eacute;atures d&rsquo;alignement loyal subissent une p&eacute;nalit&eacute; de -1 au jet de sauvegarde pour r&eacute;sister au sort, tandis que les cr&eacute;atures chaotiques b&eacute;n&eacute;ficient pour leur part d&rsquo;un bonus de +1 &agrave; leur jet.</p>\n<p>&nbsp;</p>\n<p><strong>Manifestation :</strong> Une nappe de brouillard pourpre et noir rempli d&rsquo;&eacute;clairs appara&icirc;t, r&eacute;sonnant du hurlement des damn&eacute;s.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.aHYjrRoxQfGpdfQV]{Maelström entropique d’Emirikol}</p>"
+    },
+	
+    "Eternal Champion": {
+      "name": "Champion éternel",
+      "range": "1,5 km",
+      "duration": "Jusqu’au crépuscule",
+      "castingTime": "Une nuit passée à rêver",
+      "save": "Aucun",
+      "page": "207",
+      "description": "<p data-pm-slice=\"1 1 []\">Par le biais de breuvages mystiques consomm&eacute;s avant de s&rsquo;endormir, l&rsquo;incantateur s&rsquo;entretient en r&ecirc;ve avec les grands guerriers des temps pass&eacute;s et futurs. L&rsquo;un d&rsquo;eux est invoqu&eacute; afin de se battre pour la cause du mage. Quand celui-ci se r&eacute;veille, le guerrier prend corps au lever du soleil pour dispara&icirc;tre corps et biens au cr&eacute;puscule.</p>\n<p>Le guerrier se croit en plein r&ecirc;ve, mais pour autant, agit comme il le ferait dans des circonstances normales. Le guerrier invoqu&eacute; par ce sort est naturellement enclin, par son alignement et ses pr&eacute;dispositions, &agrave; combattre pour la cause de l&rsquo;incantateur et agit dans ce sens s&rsquo;il n&rsquo;est pas offens&eacute; ou dissuad&eacute; d&rsquo;une quelconque mani&egrave;re. S&rsquo;il vient &agrave; &ecirc;tre tu&eacute;, son corps et son &eacute;quipement disparaissent en fum&eacute;e. Il y a 10 % de chances que le guerrier dispose de savoirs antiques pouvant imm&eacute;diatement servir &agrave; l&rsquo;incantateur, si tant est que ce dernier lui pose les bonnes questions.</p>\n<p>L&rsquo;incantateur ne peut avoir qu&rsquo;un seul champion &eacute;ternel &agrave; son service &agrave; tout moment. Incanter ce sort alors qu&rsquo;un champion &eacute;ternel existe d&eacute;j&agrave; suite &agrave; une pr&eacute;c&eacute;dente incantation fait &eacute;chouer le sort.</p>\n<p>Le profil du guerrier invoqu&eacute; est d&eacute;taill&eacute; ci-dessous, en fonction du r&eacute;sultat du test d&rsquo;incantation.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.QvoMKjE0GRdaWQwo]{Champion éternel}</p>"
+    },
+	
+    "Fireball": {
+      "name": "Boule de feu",
+      "range": "15 m ou plus, explosant en sphère de 6 m de rayon ou plus",
+      "duration": "Instantanée",
+      "castingTime": "1 round",
+      "save": "Réflexes vs DD test d’incantation",
+      "page": "204",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur pointe le doigt vers une cible, prononce un mot magique et projette un jet de flammes qui explose sur le point d&eacute;sign&eacute;. Une boule de feu explose en sph&egrave;re de 6 m de rayon, affectant toutes les cr&eacute;atures &agrave; l&rsquo;int&eacute;rieur de la zone cibl&eacute;e. Toutes les cr&eacute;atures subissent des d&eacute;g&acirc;ts sauf si elles r&eacute;ussissent un jet de sauvegarde de R&eacute;flexes dont le DD est &eacute;gal au r&eacute;sultat du test d&rsquo;incantation, auquel cas elles ne subissent que la moiti&eacute; des d&eacute;g&acirc;ts. La boule de feu produit une explosion aussi br&egrave;ve qu&rsquo;instantan&eacute;e, et si les humains ne prennent g&eacute;n&eacute;ralement pas feu, il y a 50 % de chances que des objets hautement inflammables (comme du tissu sec ou du papier) situ&eacute;s dans la zone s&rsquo;enflamment</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.cQJwt55HWaAKzgE5]{Boule de feu}</p>"
+    },
+	
+    "Fly": {
+      "name": "Vol",
+      "range": "Personnelle ou contact",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "236",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur se conf&egrave;re &agrave; lui-m&ecirc;me ou une autre cr&eacute;ature la capacit&eacute; de voler. La vitesse et la dur&eacute;e varient en fonction du r&eacute;sultat du test d&rsquo;incantation. Elle est divis&eacute;e par deux en phase d&rsquo;ascension et doubl&eacute;e en descente verticale. Les cr&eacute;atures lourdement encombr&eacute;es volent &agrave; une vitesse diminu&eacute;e de moiti&eacute;. La manoeuvrabilit&eacute; est g&eacute;n&eacute;ralement bonne, &eacute;quivalente &agrave; celle d&rsquo;un oiseau de proie (comme un aigle ou un faucon). La dur&eacute;e est toujours d&eacute;termin&eacute;e en secret par le Juge, et le sujet ne sait jamais quand le sort va prendre fin jusqu&rsquo;&agrave; ce qu&rsquo;il se mette &agrave; chuter.</p>\n<p data-pm-slice=\"1 1 []\">&nbsp;</p>\n<p data-pm-slice=\"1 1 []\"><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.WaEQk1BidqTphabF]{Vol}</p>"
+    },
+	
+    "Gust of Wind": {
+      "name": "Bourrasque",
+      "range": "3 m ou plus",
+      "duration": "Instantanée ou plus",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "205",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur exhale un souffle qui se transforme en puissante bourrasque. Le vent est suffisant pour &eacute;teindre de petites flammes comme les bougies ou les torches et peut repousser des cr&eacute;atures volantes ou m&ecirc;me marchant en direction de l&rsquo;incantateur. Ce vent attise de grands feux qui deviennent encore plus imposants et fait s&rsquo;envoler des objets isol&eacute;s.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.v8gZXcw8QPk7IQl0]{Bourrasque}</p>"
+    },
+	
+    "Haste": {
+      "name": "Hâte",
+      "range": "Incantateur ou 6 m de rayon autour de l’incantateur",
+      "duration": "1d4 rounds ou plus",
+      "castingTime": "2 rounds",
+      "save": "Aucun",
+      "page": "219",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur acquiert une grande rapidit&eacute; de mouvement. Sa vitesse d&rsquo;action est amplifi&eacute;e au point qu&rsquo;il peut se d&eacute;placer deux fois plus vite qu&rsquo;un homme normal, voire plus. &Agrave; haut niveau, le sort affecte des cr&eacute;atures situ&eacute;es dans un rayon de 6 m autour de l&rsquo;incantateur. Toutefois, les cr&eacute;atures affect&eacute;es par ce sort vieillissent &agrave; un rythme anormal en &eacute;tant sous son influence. Les actions suppl&eacute;mentaires suivantes sont permises :</p>\n<p><strong>Mouvement:</strong> les cr&eacute;atures sous l&rsquo;effet de h&acirc;te doublent leur mouvement. Il peut m&ecirc;me &ecirc;tre tripl&eacute; comme indiqu&eacute; ci-dessous.</p>\n<p><strong>D&eacute;s d&rsquo;action :</strong> les cr&eacute;atures sous l&rsquo;effet de h&acirc;te b&eacute;n&eacute;ficient de d&eacute;s d&rsquo;action suppl&eacute;mentaires. En fonction de leur classe, ces d&eacute;s d&rsquo;action peuvent &ecirc;tre employ&eacute;s pour attaquer, incanter des sorts, repousser, imposer les mains ou effectuer des tests de comp&eacute;tence. Si le personnage dispose normalement d&rsquo;un d&eacute; d&rsquo;action, le d&eacute; d&rsquo;action suppl&eacute;mentaire est du m&ecirc;me type (en g&eacute;n&eacute;ral un d20). Si le personnage a plusieurs d&eacute;s d&rsquo;action (dus &agrave; son haut niveau de classe ou &agrave; d&rsquo;autres facteurs), le d&eacute; d&rsquo;action suppl&eacute;mentaire est &eacute;quivalent &agrave; son d&eacute; d&rsquo;action le plus faible. Si, par exemple, les d&eacute;s d&rsquo;action du personnage sont 1d20+1d14, il obtient 1d14 suppl&eacute;mentaire entroisi&egrave;me action.</p>\n<p>&nbsp;</p>\n<p>Ce sort peut aussi &ecirc;tre lanc&eacute; pour contrer le sort lenteur.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.soTVGW2jGcG8DdD1]{Hâte}</p>"
+    },
+	
+    "Lightning Bolt": {
+      "name": "Lightning Bolt"
+    },
+    "Make Potion": {
+      "name": "Make Potion"
+    },
+    "Paralysis (Wizard Casting)": {
+      "name": "Paralysis (Wizard Casting)"
+    },
+    "Planar Step": {
+      "name": "Planar Step"
+    },
+    "Runic Alphabet, Fey": {
+      "name": "Runic Alphabet, Fey"
+    },
+    "Slow": {
+      "name": "Slow"
+    },
+    "Sword Magic": {
+      "name": "Sword Magic"
+    },
+    "Transference": {
+      "name": "Transference"
+    },
+    "Turn to Stone": {
+      "name": "Turn to Stone"
+    },
+    "Water Breathing": {
+      "name": "Water Breathing"
+    },
+    "Write Magic": {
+      "name": "Write Magic"
+    }
+  }
+}

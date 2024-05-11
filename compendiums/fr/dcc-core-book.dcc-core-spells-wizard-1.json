@@ -1,0 +1,292 @@
+{
+  "label": "Sorts de Mage Lvl 1",
+  "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+  },
+  "entries": {
+    "Cantrip": {
+      "name": "Tour de magie",
+      "range": "Variable",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation le cas échéant",
+      "page": "160",
+      "description": "<p>Au cours de l&rsquo;apprentissage de leur art, les mages ont souvent recours &agrave; des incantations mineures produisant des effets visuels ou auditifs simples. Ce sort peut justement &ecirc;tre employ&eacute; &agrave; canaliser l&rsquo;&eacute;nergie magique pour effectuer diverses petites t&acirc;ches. Connaissant les risques inh&eacute;rents aux incantations, peu de mages prendront le risque d&rsquo;utiliser fr&eacute;quemment tour de magie, mais il peut &ecirc;tre fort utile d&rsquo;avoir ce sort &agrave; disposition. Le sort tour de magie peut servir &agrave; g&eacute;n&eacute;rer tout effet &eacute;nonc&eacute; par l&rsquo;incantateur en lan&ccedil;ant le sort, dans les limites indiqu&eacute;es sur la table ci-dessous.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.KqSNYa8iayou3lDK]{Tour de magie}</p>"
+    },
+	
+    "Charm Person": {
+      "name": "Charme-Personne",
+      "range": "36 m",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "133",
+      "description": "<p>L&rsquo;incantateur charme un ennemi pour en faire son ami. Tout humano&iuml;de vivant ordinaire peut &ecirc;tre affect&eacute;. Les druides peuvent aussi utiliser ce sort sur les animaux. Les mages peuvent l&rsquo;utiliser sur des monstres et des mortsvivants avec une p&eacute;nalit&eacute; de -2 au test et sur des cr&eacute;atures extraplanaires et des d&eacute;mons avec une p&eacute;nalit&eacute; de -4.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.IKQ0NPpPaLQxmAmE]{Charme-Personne}</p>"
+    },
+	
+    "Chill Touch": {
+      "name": "Contact glacial",
+      "range": "Contact",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "136",
+      "description": "<p>Ce sort n&eacute;cromantique conf&egrave;re le toucher glacial des morts. L&rsquo;incantateur doit br&ucirc;ler au moins 1 point de caract&eacute;ristique quand il lance ce sort.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.DJklwnntxcE7hHZb]{Contact glacial}</p>"
+    },
+	
+    "Choking Cloud": {
+      "name": "Nuage étouffant",
+      "range": "15 m ou plus",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Aucune",
+      "page": "151",
+      "description": "<p>L&rsquo;incantateur fait appara&icirc;tre un nuage acide et caustique qui &eacute;touffe la cible.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.iPTP5ZJa7LZouEI6]{Nuage &eacute;touffant}</p>"
+    },
+	
+    "Color Spray": {
+      "name": "Couleurs Dansantes",
+      "range": "12 m",
+      "duration": "Instantanée",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "139",
+      "description": "<p>L&rsquo;incantateur projette des couleurs &eacute;blouissantes qui aveuglent et &eacute;tourdissent la cible.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.1P1mJXZK90qUKSUy]{Couleurs Dansantes}</p>"
+    },
+	
+    "Comprehend Languages": {
+      "name": "Compréhension des langues",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 tour",
+      "save": "Aucun",
+      "page": "135",
+      "description": "<p>L&rsquo;incantateur peut comprendre des mots ou illustrations non magiques (comme des cartes au tr&eacute;sor) qui lui seraient normalement incompr&eacute;hensibles.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.jKNwSzFF96z0XWTq]{Compr&eacute;hension des langues}</p>"
+    },
+	
+    "Detect Magic (Wizard Casting)": {
+      "name": "Détection de la magie (Mage)",
+      "range": "9 m ou plus",
+      "duration": "2 tours",
+      "castingTime": "2 actions",
+      "save": "Volonté vs DD test d’incantation (le cas échéant)",
+      "page": "259",
+      "description": "<p data-pm-slice=\"1 1 []\">Le clerc sait si un lieu, un objet ou une personne a &eacute;t&eacute; enchant&eacute;. Ce sort se manifeste sous la forme d&rsquo;un c&ocirc;ne de 9 m de long et 9 m de large &agrave; son extr&eacute;mit&eacute;, partant du symbole sacr&eacute; du clerc.</p>\n<p>&nbsp;</p>\n<p><strong>Manifestation</strong> Voir ci-dessous.</p>\n<p>&nbsp;</p>\n<p><strong>Note:</strong>&nbsp;Ceci est la version Mage d'un sort de Clerc <a class=\"entity-link\" draggable=\"true\" data-pack=\"dcc-core-book.dcc-core-journals\" data-id=\"LxWvwON9h9JWpI6c\">Table 5-8: Wizard Spells</a>. La difficult&eacute; &agrave; &eacute;t&eacute; augment&eacute;e et un revers a &eacute;t&eacute; ajout&eacute; sur un r&eacute;sultat de 1</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.pvmgg9qtNigm0rSc]{Détection de la magie (Mage)}</p>"
+    },
+	
+    "Ekim's Mystical Mask": {
+      "name": "Masque mystique d’Ekim",
+      "range": "Personnelle",
+      "duration": "1 round par NI",
+      "castingTime": "1 action",
+      "save": "Voir ci-dessous",
+      "page": "149",
+      "description": "<p>L&rsquo;incantateur fait appara&icirc;tre un masque mystique qui lui recouvre le visage et lui offre une protection contre les attaques, les sorts et autres conditions. Si l&rsquo;incantation r&eacute;ussit, le mage peut choisir d&rsquo;utiliser un effet de moindre puissance que celui g&eacute;n&eacute;r&eacute; par son test mais potentiellement plus adapt&eacute; &agrave; sa situation.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.L4nEb8sbuCzbpDti]{Masque mystique d’Ekim}</p>"
+    },
+	
+    "Enlarge": {
+      "name": "Agrandissement",
+      "range": "Contact",
+      "duration": "1 tour par niveau d’incantateur",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "130",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur augmente la taille d&rsquo;une cible en la touchant, qu&rsquo;il s&rsquo;agisse d&rsquo;une cr&eacute;ature, d&rsquo;un objet ou de luim&ecirc;me. De cette mani&egrave;re, les cordes s&rsquo;allongent, les portes s&rsquo;&eacute;paississent, les tables s&rsquo;alourdissent, les &eacute;p&eacute;es s&rsquo;agrandissent, etc. Les objets magiques ainsi agrandis gardent leurs propri&eacute;t&eacute;s magiques. Une &eacute;p&eacute;e +1 ne devient pas une &eacute;p&eacute;e +2, elle devient juste une &eacute;p&eacute;e magique plus grande. L&rsquo;incantateur peut apprendre l&rsquo;inverse de ce sort, r&eacute;tr&eacute;cissement, pour rendre les choses plus petites. Des incantations r&eacute;p&eacute;t&eacute;es de ce sort ne s&rsquo;additionnent pas, mais r&eacute;tr&eacute;cissement peut &ecirc;tre utilis&eacute; pour annuler agrandissement.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.L47vJQUUoTGmnXBT]{Agrandissement}</p>"
+    },
+	
+    "Feather Fall": {
+      "name": "Feuille morte",
+      "range": "7,5 m",
+      "duration": "1 round/NI ou jusqu’à l’atterrissage",
+      "castingTime": "instantané",
+      "save": "Volonté pour l’éviter",
+      "page": "140",
+      "description": "<p>L&rsquo;incantateur ralentit sa vitesse ou celle d&rsquo;une autre personne lors d&rsquo;une chute. En planant ainsi dans les airs, la&nbsp;cible &eacute;vite une blessure voire une mort certaine. Il est important de noter que ce sort peut &ecirc;tre lanc&eacute; instantan&eacute;ment,&nbsp;en dehors de l&rsquo;ordre d&rsquo;initiative, si l&rsquo;incantateur ou une autre cible &agrave; port&eacute;e est en train de tomber.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.uG7UdO68pNUnxUen]{Feuille morte}</p>"
+    },
+	
+    "Find Familiar": {
+      "name": "Appel de familier",
+      "range": "Personnelle",
+      "duration": "À vie",
+      "castingTime": "1 semaine",
+      "save": "Aucun",
+      "page": "132",
+      "description": "<p>Ce long rituel pr&eacute;pare l&rsquo;incantateur &agrave; se lier &agrave; un familier. Le familier se pr&eacute;sente durant la c&eacute;r&eacute;monie dans 50 % des cas, sans quoi l&rsquo;incantateur fait sa rencontre &agrave; un moment donn&eacute; durant la semaine suivant le rituel. Le test d&rsquo;incantation est effectu&eacute; &agrave; la fin du rituel et n&eacute;cessite un br&ucirc;lesort de 10 points pour que le sort puisse &ecirc;tre lanc&eacute;.</p>\n<p>L&rsquo;incantateur gagne l&rsquo;&eacute;quivalent des points de vie du familier ainsi que d&rsquo;autres pouvoirs, en fonction de la cr&eacute;ature invoqu&eacute;e. Une fois que l&rsquo;incantateur a invoqu&eacute; le familier (qu&rsquo;il soit d&eacute;j&agrave; apparu ou non), il ne peut pas en invoquer un autre avant la mort de ce dernier et le passage d&rsquo;une pleine lune.</p>\n<p>Si son familier meurt, l&rsquo;incantateur s&rsquo;effondre sous l&rsquo;effet d&rsquo;une douleur intense, perd le double des points de vie du familier de fa&ccedil;on permanente et subit une p&eacute;nalit&eacute; de -5 &agrave; tous les tests d&rsquo;incantation jusqu&rsquo;&agrave; la prochaine pleine lune.</p>\n<p>Le Juge fournira plus d&rsquo;informations (voir page 316).</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.QIR3Ym3VnbLZEOG2]{Appel de familier}</p>"
+    },
+	
+    "Flaming Hands": {
+      "name": "Mains brûlantes",
+      "range": "4,5 m",
+      "duration": "Instantanée",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "148",
+      "description": "<p data-pm-slice=\"1 1 []\">Le lanceur de sort fait jaillir des gerbes de flammes de ses mains nues pour br&ucirc;ler ses adversaires.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.iB4KxX8A4XhShgOj]{Mains brûlantes}</p>"
+    },
+	
+    "Force Manipulation": {
+      "name": "Mur de force",
+      "range": "7,5 m",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "150",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur invoque et mod&egrave;le une &eacute;nergie invisible sous forme d&rsquo;objets utiles ou de murs solides. Si l&rsquo;incantation est r&eacute;ussie, le mage peut d&eacute;cider d&rsquo;utiliser n&rsquo;importe quel effet &eacute;gal ou inf&eacute;rieur &agrave; son jet d&rsquo;incantation sur la table ci-dessous, lui offrant ainsi l&rsquo;option d&rsquo;utiliser un r&eacute;sultat plus faible mais potentiellement plus utile.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.cKiJ4RyuFVGoesoL]{Mur de force}</p>"
+    },
+	
+    "Animal Summoning": {
+      "name": "Invocation d'animaux",
+      "range": " 6 m",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "129",
+      "description": "<p>Le lanceur de sort fait appel &agrave; des esprits animaux pour invoquer un animal commun. L&rsquo;invocateur doit &ecirc;tre familier du type d&rsquo;animal et disposer d&rsquo;un &eacute;l&eacute;ment physique lui appartenant qui sera consacr&eacute; &agrave; lancer le sort (par exemple, du poil, de la fourrure, une patte, une dent, un cr&acirc;ne, etc.)</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.3UaZ84qlnTVjXcYj]{Invocation d'animaux}</p>"
+    },
+	
+    "Invoke Patron": {
+      "name": "Invoquer un Patron",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "1 round, le sort ne peut être lancé qu’un nombre de fois limité selon le résultat du test pour lier un patron",
+      "save": "Aucun",
+      "page": "142",
+      "description": "<p>Pour pouvoir lancer ce sort, l&rsquo;incantateur doit d&rsquo;abord incanter lier un patron. Les sp&eacute;cificit&eacute;s de ce sort d&eacute;pendent des conditions impos&eacute;es par le patron. Le mage invoque le nom d&rsquo;un patron surnaturel pour solliciter son aide.</p>\n<p>Le sort requiert un minimum de 1 point de br&ucirc;lesort. Le patron r&eacute;pond en envoyant une aide qui d&eacute;pend &agrave; la fois de sa nature et de ses adeptes. Le Juge en pr&eacute;cisera les d&eacute;tails. Attention, une utilisation r&eacute;p&eacute;t&eacute;e de ce sort peut avoir de graves cons&eacute;quences physiques et spirituelles sur le mage.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.ebEESrYj0sTiIpc3]{Invoquer un Patron}</p>"
+    },
+	
+    "Magic Missile": {
+      "name": "Projectile magique",
+      "range": "45 m ou plus",
+      "duration": "Instantanée",
+      "castingTime": "1 action ou 1 tour (voir ci-dessous)",
+      "save": "Aucun",
+      "page": "155",
+      "description": "<p>L&rsquo;incantateur envoie un projectile magique qui touche automatiquement son adversaire.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.R7n0LXQF1lNOktgN]{Projectile magique}</p>"
+    },
+	
+    "Magic Shield": {
+      "name": "Bouclier magique",
+      "range": "Contact",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "132",
+      "description": "<p>L&rsquo;incantateur invoque un bouclier magique qui le prot&egrave;ge de ses adversaires.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.zwAMxBXjwpyvzicJ]{Bouclier magique}</p>"
+    },
+	
+    "Mending": {
+      "name": "Réparer",
+      "range": "1,5 m",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "157",
+      "description": "<p>L&rsquo;incantateur peut r&eacute;parer des objets simples, usuels, ayant &eacute;t&eacute; endommag&eacute;s. L&rsquo;inverse du sort, endommager, peut provoquer des d&eacute;fauts mineurs (l&rsquo;objet en question peut effectuer un jet de sauvegarde de Vigueur).</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.0hmPDYaEnSnaraSI]{Réparer}</p>"
+    },
+	
+    "Patron Bond": {
+      "name": "Lier un Patron",
+      "range": "Personnelle ou contact (voir ci-dessous)",
+      "duration": "À vie",
+      "castingTime": "1 semaine+quêtes à accomplir",
+      "save": "Aucun",
+      "page": "144",
+      "description": "<p>L&rsquo;incantateur s&rsquo;engage au service d&rsquo;un seigneur surnaturel, &eacute;tablissant un pacte lui garantissant son soutien en tant que patron dans la mesure o&ugrave; ce dernier est satisfait de ses services. Ce patron peut &ecirc;tre un d&eacute;mon, un diable, un fant&ocirc;me, un esprit, un ange, un seigneur du Chaos ou tout autre entit&eacute; surnaturelle qui accepte l&rsquo;incantateur comme adepte. La c&eacute;r&eacute;monie initiale dure une semaine. Une fois le pacte &eacute;tabli, l&rsquo;incantateur peut requ&eacute;rir l&rsquo;aide du patron avec le sort invoquer un patron, et ce dernier peut choisir de r&eacute;pondre ou non &agrave; son gr&eacute;. En retour, le patron peut demander &agrave; l&rsquo;incantateur d&rsquo;accomplir certaines t&acirc;ches. Celui-ci se doit de fid&egrave;lement r&eacute;pondre aux attentes de son patron, sous peine d&rsquo;&ecirc;tre reni&eacute;. L&rsquo;incantateur peut accomplir plusieurs c&eacute;r&eacute;monies pour servir plusieurs ma&icirc;tres, mais, ce faisant, il risque de soulever quelques doutes sur sa v&eacute;ritable loyaut&eacute;. C&rsquo;est une magie dangereuse : un patron surnaturel n&rsquo;est pas l&rsquo;&eacute;quivalent d&rsquo;un dieu v&eacute;n&eacute;r&eacute; par un clerc. L&rsquo;incantateur doit comprendre qu&rsquo;il entre en communion avec des esprits tout-puissants.</p>\n<p>Une fois que l&rsquo;incantateur a &eacute;tabli le lien avec son patron, ce sort peut &ecirc;tre utilis&eacute; pour en cr&eacute;er un entre un autre mortel et le patron du mage. Ce mortel n&rsquo;est pas n&eacute;cessairement un lanceur de sort, d&rsquo;ailleurs ce n&rsquo;est g&eacute;n&eacute;ralement pas le cas. Dans ce cas, tous deux doivent passer une semaine &agrave; effectuer la c&eacute;r&eacute;monie, qui requiert un puissant serment afin de pr&ecirc;ter all&eacute;geance au patron. Des cr&eacute;atures extr&ecirc;mement puissantes ont plus de chances de se lier avec des patrons (qui aiment avoir des fid&egrave;les puissants). En g&eacute;n&eacute;ral, l&rsquo;incantation de lier un patron au b&eacute;n&eacute;fice de quelqu&rsquo;un d&rsquo;autre se voit octroyer un bonus de +2 si le sujet est de niveau 5 (5 DV) ou plus et de +4 s&rsquo;il est de niveau 9 (9 DV) ou plus. &Agrave; la fin de la c&eacute;r&eacute;monie, le lancement du sort scelle le lien. Recruter de nouveaux fid&egrave;les pour son patron attire la faveur sur l&rsquo;incantateur et peut conf&eacute;rer des avantages aux autres fid&egrave;les, m&ecirc;me si leur patron exigera leur all&eacute;geance en retour.</p>\n<p>Attention, une utilisation r&eacute;p&eacute;t&eacute;e de ce sort peut avoir de graves cons&eacute;quences physiques et spirituelles sur le mage.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.O8PLJvL1QjO1PrWS]{Lier un Patron}</p>"
+    },
+	
+    "Patron Bond (Other)": {
+      "name": "Lier un Patron (sur autrui)",
+      "range": "Personnelle ou contact (voir ci-dessous)",
+      "duration": "À vie",
+      "castingTime": "1 semaine+quêtes à accomplir",
+      "save": "Aucun",
+      "page": "144",
+      "description": "<p>L&rsquo;incantateur s&rsquo;engage au service d&rsquo;un seigneur surnaturel, &eacute;tablissant un pacte lui garantissant son soutien en tant que patron dans la mesure o&ugrave; ce dernier est satisfait de ses services. Ce patron peut &ecirc;tre un d&eacute;mon, un diable, un fant&ocirc;me, un esprit, un ange, un seigneur du Chaos ou tout autre entit&eacute; surnaturelle qui accepte l&rsquo;incantateur comme adepte. La c&eacute;r&eacute;monie initiale dure une semaine. Une fois le pacte &eacute;tabli, l&rsquo;incantateur peut requ&eacute;rir l&rsquo;aide du patron avec le sort invoquer un patron, et ce dernier peut choisir de r&eacute;pondre ou non &agrave; son gr&eacute;. En retour, le patron peut demander &agrave; l&rsquo;incantateur d&rsquo;accomplir certaines t&acirc;ches. Celui-ci se doit de fid&egrave;lement r&eacute;pondre aux attentes de son patron, sous peine d&rsquo;&ecirc;tre reni&eacute;. L&rsquo;incantateur peut accomplir plusieurs c&eacute;r&eacute;monies pour servir plusieurs ma&icirc;tres, mais, ce faisant, il risque de soulever quelques doutes sur sa v&eacute;ritable loyaut&eacute;. C&rsquo;est une magie dangereuse : un patron surnaturel n&rsquo;est pas l&rsquo;&eacute;quivalent d&rsquo;un dieu v&eacute;n&eacute;r&eacute; par un clerc. L&rsquo;incantateur doit comprendre qu&rsquo;il entre en communion avec des esprits tout-puissants.</p>\n<p>Une fois que l&rsquo;incantateur a &eacute;tabli le lien avec son patron, ce sort peut &ecirc;tre utilis&eacute; pour en cr&eacute;er un entre un autre mortel et le patron du mage. Ce mortel n&rsquo;est pas n&eacute;cessairement un lanceur de sort, d&rsquo;ailleurs ce n&rsquo;est g&eacute;n&eacute;ralement pas le cas. Dans ce cas, tous deux doivent passer une semaine &agrave; effectuer la c&eacute;r&eacute;monie, qui requiert un puissant serment afin de pr&ecirc;ter all&eacute;geance au patron. Des cr&eacute;atures extr&ecirc;mement puissantes ont plus de chances de se lier avec des patrons (qui aiment avoir des fid&egrave;les puissants). En g&eacute;n&eacute;ral, l&rsquo;incantation de lier un patron au b&eacute;n&eacute;fice de quelqu&rsquo;un d&rsquo;autre se voit octroyer un bonus de +2 si le sujet est de niveau 5 (5 DV) ou plus et de +4 s&rsquo;il est de niveau 9 (9 DV) ou plus. &Agrave; la fin de la c&eacute;r&eacute;monie, le lancement du sort scelle le lien. Recruter de nouveaux fid&egrave;les pour son patron attire la faveur sur l&rsquo;incantateur et peut conf&eacute;rer des avantages aux autres fid&egrave;les, m&ecirc;me si leur patron exigera leur all&eacute;geance en retour.</p>\n<p>Attention, une utilisation r&eacute;p&eacute;t&eacute;e de ce sort peut avoir de graves cons&eacute;quences physiques et spirituelles sur le mage.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.16L8zIYkg3Fvy7ce]{Lier un Patron (sur autrui)}</p>"
+    },
+	
+    "Patron Bond (Self)": {
+      "name": "Lier un Patron (sur soi)",
+      "range": "Personnelle ou contact (voir ci-dessous)",
+      "duration": "À vie",
+      "castingTime": "1 semaine+quêtes à accomplir",
+      "save": "Aucun",
+      "page": "144",
+      "description": "<p>L&rsquo;incantateur s&rsquo;engage au service d&rsquo;un seigneur surnaturel, &eacute;tablissant un pacte lui garantissant son soutien en tant que patron dans la mesure o&ugrave; ce dernier est satisfait de ses services. Ce patron peut &ecirc;tre un d&eacute;mon, un diable, un fant&ocirc;me, un esprit, un ange, un seigneur du Chaos ou tout autre entit&eacute; surnaturelle qui accepte l&rsquo;incantateur comme adepte. La c&eacute;r&eacute;monie initiale dure une semaine. Une fois le pacte &eacute;tabli, l&rsquo;incantateur peut requ&eacute;rir l&rsquo;aide du patron avec le sort invoquer un patron, et ce dernier peut choisir de r&eacute;pondre ou non &agrave; son gr&eacute;. En retour, le patron peut demander &agrave; l&rsquo;incantateur d&rsquo;accomplir certaines t&acirc;ches. Celui-ci se doit de fid&egrave;lement r&eacute;pondre aux attentes de son patron, sous peine d&rsquo;&ecirc;tre reni&eacute;. L&rsquo;incantateur peut accomplir plusieurs c&eacute;r&eacute;monies pour servir plusieurs ma&icirc;tres, mais, ce faisant, il risque de soulever quelques doutes sur sa v&eacute;ritable loyaut&eacute;. C&rsquo;est une magie dangereuse : un patron surnaturel n&rsquo;est pas l&rsquo;&eacute;quivalent d&rsquo;un dieu v&eacute;n&eacute;r&eacute; par un clerc. L&rsquo;incantateur doit comprendre qu&rsquo;il entre en communion avec des esprits tout-puissants.</p>\n<p>Une fois que l&rsquo;incantateur a &eacute;tabli le lien avec son patron, ce sort peut &ecirc;tre utilis&eacute; pour en cr&eacute;er un entre un autre mortel et le patron du mage. Ce mortel n&rsquo;est pas n&eacute;cessairement un lanceur de sort, d&rsquo;ailleurs ce n&rsquo;est g&eacute;n&eacute;ralement pas le cas. Dans ce cas, tous deux doivent passer une semaine &agrave; effectuer la c&eacute;r&eacute;monie, qui requiert un puissant serment afin de pr&ecirc;ter all&eacute;geance au patron. Des cr&eacute;atures extr&ecirc;mement puissantes ont plus de chances de se lier avec des patrons (qui aiment avoir des fid&egrave;les puissants). En g&eacute;n&eacute;ral, l&rsquo;incantation de lier un patron au b&eacute;n&eacute;fice de quelqu&rsquo;un d&rsquo;autre se voit octroyer un bonus de +2 si le sujet est de niveau 5 (5 DV) ou plus et de +4 s&rsquo;il est de niveau 9 (9 DV) ou plus. &Agrave; la fin de la c&eacute;r&eacute;monie, le lancement du sort scelle le lien. Recruter de nouveaux fid&egrave;les pour son patron attire la faveur sur l&rsquo;incantateur et peut conf&eacute;rer des avantages aux autres fid&egrave;les, m&ecirc;me si leur patron exigera leur all&eacute;geance en retour.</p>\n<p>Attention, une utilisation r&eacute;p&eacute;t&eacute;e de ce sort peut avoir de graves cons&eacute;quences physiques et spirituelles sur le mage.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.SPTFgUVblsz6z62r]{Lier un Patron (sur soi)}</p>"
+    },
+	
+    "Read Magic": {
+      "name": "Lecture de la magie",
+      "range": "1,5 m",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "143",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur peut lire des &eacute;crits magiques comme les parchemins, les livres et autres ouvrages magiques ainsi que les inscriptions magiques grav&eacute;es sur les &eacute;p&eacute;es, les arches et autres supports. Le mage comprend les inscriptions mais n&rsquo;active cependant pas le sort. L&rsquo;incantateur peut apprendre l&rsquo;inverse du sort, appel&eacute; brouiller la magie, qui rend les textes magiques inintelligibles (m&ecirc;me avec l&rsquo;aide de ce sort).</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.aAWNRt0tPIntalHt]{Lecture de la magie}</p>"
+    },
+	
+    "Ropework": {
+      "name": "Corde enchantée",
+      "range": "9 m ou plus",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "138",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur fait appara&icirc;tre de nulle part une corde et lui ordonne de suivre ses instructions. La corde peut &ecirc;tre utilis&eacute;e pour entraver des adversaires, grimper des parois, franchir des gouffres, soulever des amis ou des ennemis, prendre la forme d&rsquo;une &eacute;criture ou faire d&rsquo;autres choses &eacute;tonnantes. Contrairement aux autres sorts, lancer corde enchant&eacute;e permet &agrave; l&rsquo;incantateur de choisir n&rsquo;importe quel r&eacute;sultat correspondant &agrave; son test d&rsquo;incantation ou inf&eacute;rieur.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.15mci5WGLpEUmAz4]{Corde enchantée}</p>"
+    },
+	
+    "Runic Alphabet, Mortal": {
+      "name": "Runes des mortels",
+      "range": "Une rune inscrite",
+      "duration": "Jusqu’à déclenchement",
+      "castingTime": "1 tour",
+      "save": "Volonté vs DD test d’incantation, pénalité de -1 si la cible est d’alignement opposé",
+      "page": "158",
+      "description": "<p>Les mages apprennent un ensemble de symboles magiques qui, une fois retranscrits, provoquent des ph&eacute;nom&egrave;nes incroyables. Il existe diff&eacute;rents ensembles runiques : les runes des nains, les signes des anciens, les hi&eacute;roglyphes des sphinx et les symboles particuliers &agrave; certains mages. L&rsquo;incantateur peut, au moyen de ce sort, cr&eacute;er les runes les plus simples, celles qui sont compr&eacute;hensibles pour les mortels. L&rsquo;alignement de l&rsquo;incantateur est impr&eacute;gn&eacute; dans la rune transcrite, et une cr&eacute;ature d&rsquo;alignement oppos&eacute; d&eacute;clenchant la rune subira des effets plus graves. L&rsquo;incantateur inscrit la rune au moyen de materiaux rares et co&ucirc;teux qui doivent &ecirc;tre achet&eacute;s en amont pour une valeur de 50 po par rune. Le test d&rsquo;incantation d&eacute;termine de quelle &eacute;nergie peut &ecirc;tre impr&eacute;gn&eacute;e la rune : l&rsquo;incantateur peut choisir une rune correspondant au r&eacute;sultat de son test d&rsquo;incantation ou celle d&rsquo;un r&eacute;sultat inf&eacute;rieur, le choix se faisant au moment de l&rsquo;inscription. La rune peut &ecirc;tre inscrite sur n&rsquo;importe quel objet : broche, livre, pierre tombale, arche, porte, sol, dessus de table, etc. Soustrayez 2 au r&eacute;sultat du test si la rune est trac&eacute;e dans l&rsquo;air, 4 si elle est invisible ou 8 si elle est permanente (elle ne s&rsquo;efface pas apr&egrave;s d&eacute;clenchement). L&rsquo;effet se d&eacute;clenche en fonction d&rsquo;&eacute;v&eacute;nements sp&eacute;cifiques comme d&eacute;crit ci-dessous (au contact, en passant devant, en la regardant, etc.). En cas d&rsquo;&eacute;chec lors du test d&rsquo;incantation, le signe cr&eacute;pite puis dispara&icirc;t, et les mat&eacute;riaux utilis&eacute;s sont perdus. En cas de succ&egrave;s, le r&eacute;sultat du test d&rsquo;incantation devient le DD du jet de sauvegarde correspondant.</p>\n<p>Vous pouvez identifier une rune inconnue avec lecture de la magie ou avec runes des mortels si tant est que vous obtenez un r&eacute;sultat au test d&rsquo;incantation sup&eacute;rieur &agrave; celui de l&rsquo;incantateur qui a inscrit la rune.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.Ps49b0Ox17OXljwj]{Runes des mortels}</p>"
+    },
+	
+    "Sleep": {
+      "name": "Sommeil",
+      "range": "18 m",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "159",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur berce la cible et la plonge dans un sommeil profond.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.4T2Egu1qVBk3yFwO]{Sommeil}</p>"
+    },
+	
+    "Spider Climb": {
+      "name": "Pattes d’araignée",
+      "range": "Personnelle ou contact (voir ci-dessous)",
+      "duration": "1 tour par NI",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "152",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur acquiert la capacit&eacute; &agrave; grimper les parois verticales, comme les araign&eacute;es.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.5NTfv0b0CFB74tc5]{Pattes d’araignée}</p>"
+    },
+	
+    "Ventriloquism": {
+      "name": "Ventriloquie",
+      "range": "9 m ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 action",
+      "save": "Parfois (Volonté, voir ci-dessous)",
+      "page": "161",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur projette le son de sa voix depuis un autre endroit comme une pi&egrave;ce voisine, un animal ou une statue, le bout d&rsquo;un couloir, etc.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.gjL8jpMOpDKmfoD5]{Ventriloquie}</p>"
+    },
+	
+    "Ward Portal": {
+      "name": "Portail enchanté",
+      "range": "3 m",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "aucun",
+      "page": "153",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur enchante un portail pour emp&ecirc;cher tout passage. Ce sort peut cibler n&rsquo;importe quelle porte, trappe, barri&egrave;re, herse, grille ou autre type de portail.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.nABXoMHiNoN6q8Ow]{Portail enchanté}"
+    }
+  }
+}

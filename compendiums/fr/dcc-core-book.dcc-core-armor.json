@@ -1,0 +1,49 @@
+{
+	"label": "Armures",
+	"entries": {
+		"Banded Mail": {
+			"name": "Clibanion",
+			"description": "Mouvement -1,5m"
+		},
+		"Chainmail": {
+			"name": "Cotte de mailles",
+			"description": "Mouvement -1,5m"
+		},
+		"Full Plate": {
+			"name": "Harnois",
+			"description": "Mouvement -3m"
+		},
+		"Half-Plate": {
+			"name": "Armure de plates",
+			"description": "Mouvement -3m"
+		},
+		"Hide": {
+			"name": "Peau",
+			"description": ""
+		},
+		"Leather": {
+			"name": "Cuir",
+			"description": ""
+		},
+		"Padded": {
+			"name": "Matelassée",
+			"description": ""
+		},
+		"Scale Mail": {
+			"name": "Écailles",
+			"description": "Mouvement -1,5m"
+		},
+		"Shield": {
+			"name": "Bouclier",
+			"description": ""
+		},
+		"Studded Leather": {
+			"name": "Cuir clouté",
+			"description": ""
+		},
+		"Unarmored": {
+			"name": "Sans armure",
+			"description": ""
+		}
+	}
+}

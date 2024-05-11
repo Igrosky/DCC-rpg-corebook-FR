@@ -1,0 +1,101 @@
+{
+	"label": "Équipement",
+	"entries": {
+		"Backpack": {
+			"name": "Sac à dos",
+			"description": ""
+		},
+		"Candle": {
+			"name": "Bougie",
+			"description": ""
+		},
+		"Chain, 10’": {
+			"name": "Chaîne, 3m",
+			"description": ""
+		},
+		"Chalk, 1 piece": {
+			"name": "Craie, 1 morceau",
+			"description": ""
+		},
+		"Chest, empty": {
+			"name": "Coffre, vide",
+			"description": ""
+		},
+		"Crowbar": {
+			"name": "Pied-de-biche",
+			"description": ""
+		},
+		"Flask, empty": {
+			"name": "Flasque, vide",
+			"description": ""
+		},
+		"Flint & steel": {
+			"name": "Silex & amadou",
+			"description": ""
+		},
+		"Grappling hook": {
+			"name": "Grappin",
+			"description": ""
+		},
+		"Hammer, small": {
+			"name": "Marteau, petit",
+			"description": ""
+		},
+		"Holy symbol": {
+			"name": "Symbole sacré",
+			"description": ""
+		},
+		"Holy water, 1 vial**": {
+			"name": "Eau bénite, 1 fiole**",
+			"description": "<p>** Une fiole d’une demi-pinte d’eau bénite inflige 1d4 points de dégâts à toute créature morte-vivante, ainsi qu’à certains démons et diables.</p>"
+		},
+		"Iron spikes, each": {
+			"name": "Pointe en fer, unité",
+			"description": ""
+		},
+		"Lantern": {
+			"name": "Lanterne",
+			"description": ""
+		},
+		"Mirror, hand-sized": {
+			"name": "Miroir de poche",
+			"description": ""
+		},
+		"Oil, 1 flask***": {
+			"name": "Huile, 1 flasque***",
+			"description": "<p>*** When ignited and thrown, oil causes [[/roll 1d6]] damage plus fire (DC 10 save vs. Reflex to put out or suffer additional [[/roll 1d6]] damage each round). One flask of oil burns for 6 hours in a lantern.</p>"
+		},
+		"Pole, 10-foot": {
+			"name": "Perche, 3 m",
+			"description": ""
+		},
+		"Rations, per day": {
+			"name": "Rations, par jour",
+			"description": ""
+		},
+		"Rope, 50’": {
+			"name": "Corde, 15 m",
+			"description": ""
+		},
+		"Sack, large": {
+			"name": "Sac, grand",
+			"description": ""
+		},
+		"Sack, small": {
+			"name": "Sac, petit",
+			"description": ""
+		},
+		"Thieves’ tools": {
+			"name": "Outils de voleur",
+			"description": ""
+		},
+		"Torch, each": {
+			"name": "Torche, unité",
+			"description": ""
+		},
+		"Waterskin": {
+			"name": "Gourde",
+			"description": ""
+		}
+	}
+}

@@ -1,0 +1,153 @@
+{
+  "label": "Sorts de Clerc lvl 1",
+      "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+	  },
+	  
+  "entries": {
+    "Blessing": {
+      "name": "Bénédiction",
+      "range": "Personnelle ou contact",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 action ou plus (voir ci-dessous)",
+      "save": "Aucun",
+      "page": "256",
+      "description": "<p>Voir:&nbsp;</p>\n<p data-pm-slice=\"1 1 []\">@UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.IZTeagpAY1Ny3woT]{B&eacute;n&eacute;diction sur soi}</p>\n<p data-pm-slice=\"1 1 []\">@UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.Gu1XZqMKtlc8jjdT]{B&eacute;n&eacute;diction sur un alli&eacute;}</p>\n<p>@UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.LUFULGnhnxMhLAkW]{B&eacute;n&eacute;diction sur un Objet}</p>\n<p>Le clerc implore la b&eacute;n&eacute;diction de son dieu. Si celle-ci lui est accord&eacute;e, elle peut lui &ecirc;tre d&rsquo;une aide consid&eacute;rable. Il peut lancer ce sort sur lui-m&ecirc;me, sur un objet ou sur l&rsquo;un de ses alli&eacute;s, et il s&rsquo;av&egrave;re particuli&egrave;rement efficace sur les alli&eacute;s de m&ecirc;me alignement. Le test d&rsquo;incantation subira un malus de -1 si l&rsquo;alli&eacute; cibl&eacute; est d&rsquo;un alignement diff&eacute;rent de celui du clerc. Si son alignement est oppos&eacute; ou si l&rsquo;alli&eacute; a pr&ecirc;t&eacute; ,all&eacute;geance &agrave; une divinit&eacute; ennemie, le malus passe &agrave; -2.</p>\n<p>Le temps d&rsquo;incantation comprend diverses pri&egrave;res, m&eacute;ditations, et requiert l&rsquo;usage du symbole sacr&eacute; du clerc pour effectuer le rituel de b&eacute;n&eacute;diction. Des b&eacute;n&eacute;dictions lanc&eacute;es sous de bons auspices peuvent b&eacute;n&eacute;ficier d&rsquo;un bonus allant de +1 &agrave; +4, &agrave; la discr&eacute;tion du Juge. Accomplir le rituel dans le temple du dieu du clerc, le lancer un jour consid&eacute;r&eacute; comme sacr&eacute; par sa religion ou le fait d&rsquo;utiliser une sainte relique sont autant d&rsquo;exemples de ,circonstances favorables. De la m&ecirc;me mani&egrave;re, lancer ce sort sous de mauvais auspices, par exemple en se tenant dans un temple ennemi, peut infliger un malus allant de -1 &agrave; -4.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.1DJ9Dup5Z8kbuPmx]{B&eacute;n&eacute;diction}</p>"
+    },
+	
+    "Blessing Ally": {
+      "name": "Bénédiction sur un allié",
+      "range": "Personnelle ou contact",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 action ou plus (voir ci-dessous)",
+      "save": "Aucun",
+      "page": "256",
+      "description": "<p>Le clerc implore la b&eacute;n&eacute;diction de son dieu. Si celle-ci lui est accord&eacute;e, elle peut lui &ecirc;tre d&rsquo;une aide consid&eacute;rable. Il peut lancer ce sort sur lui-m&ecirc;me, sur un objet ou sur l&rsquo;un de ses alli&eacute;s, et il s&rsquo;av&egrave;re particuli&egrave;rement efficace sur les alli&eacute;s de m&ecirc;me alignement. Le test d&rsquo;incantation subira un malus de -1 si l&rsquo;alli&eacute; cibl&eacute; est d&rsquo;un alignement diff&eacute;rent de celui du clerc. Si son alignement est oppos&eacute; ou si l&rsquo;alli&eacute; a pr&ecirc;t&eacute; ,all&eacute;geance &agrave; une divinit&eacute; ennemie, le malus passe &agrave; -2.</p>\n<p>Le temps d&rsquo;incantation comprend diverses pri&egrave;res, m&eacute;ditations, et requiert l&rsquo;usage du symbole sacr&eacute; du clerc pour effectuer le rituel de b&eacute;n&eacute;diction. Des b&eacute;n&eacute;dictions lanc&eacute;es sous de bons auspices peuvent b&eacute;n&eacute;ficier d&rsquo;un bonus allant de +1 &agrave; +4, &agrave; la discr&eacute;tion du Juge. Accomplir le rituel dans le temple du dieu du clerc, le lancer un jour consid&eacute;r&eacute; comme sacr&eacute; par sa religion ou le fait d&rsquo;utiliser une sainte relique sont autant d&rsquo;exemples de ,circonstances favorables. De la m&ecirc;me mani&egrave;re, lancer ce sort sous de mauvais auspices, par exemple en se tenant dans un temple ennemi, peut infliger un malus allant de -1 &agrave; -4.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.Gu1XZqMKtlc8jjdT]{B&eacute;n&eacute;diction sur un alli&eacute;}</p>"
+    },
+	
+    "Blessing Object": {
+      "name": "Bénédiction sur un Objet",
+      "range": "Personnelle ou contact",
+      "duration": "1 tour ou plus",
+      "castingTime": " 1 action ou plus (voir ci-dessous)",
+      "save": "Aucun",
+      "page": "256",
+      "description": "<p>Le clerc implore la b&eacute;n&eacute;diction de son dieu. Si celle-ci lui est accord&eacute;e, elle peut lui &ecirc;tre d&rsquo;une aide consid&eacute;rable. Il peut lancer ce sort sur lui-m&ecirc;me, sur un objet ou sur l&rsquo;un de ses alli&eacute;s, et il s&rsquo;av&egrave;re particuli&egrave;rement efficace sur les alli&eacute;s de m&ecirc;me alignement. Le test d&rsquo;incantation subira un malus de -1 si l&rsquo;alli&eacute; cibl&eacute; est d&rsquo;un alignement diff&eacute;rent de celui du clerc. Si son alignement est oppos&eacute; ou si l&rsquo;alli&eacute; a pr&ecirc;t&eacute; ,all&eacute;geance &agrave; une divinit&eacute; ennemie, le malus passe &agrave; -2.</p>\n<p>Le temps d&rsquo;incantation comprend diverses pri&egrave;res, m&eacute;ditations, et requiert l&rsquo;usage du symbole sacr&eacute; du clerc pour effectuer le rituel de b&eacute;n&eacute;diction. Des b&eacute;n&eacute;dictions lanc&eacute;es sous de bons auspices peuvent b&eacute;n&eacute;ficier d&rsquo;un bonus allant de +1 &agrave; +4, &agrave; la discr&eacute;tion du Juge. Accomplir le rituel dans le temple du dieu du clerc, le lancer un jour consid&eacute;r&eacute; comme sacr&eacute; par sa religion ou le fait d&rsquo;utiliser une sainte relique sont autant d&rsquo;exemples de ,circonstances favorables. De la m&ecirc;me mani&egrave;re, lancer ce sort sous de mauvais auspices, par exemple en se tenant dans un temple ennemi, peut infliger un malus allant de -1 &agrave; -4.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.LUFULGnhnxMhLAkW]{B&eacute;n&eacute;diction sur un Objet}</p>"
+    },
+	
+    "Blessing Self": {
+      "name": "Bénédiction sur soi",
+      "range": "Personnelle ou contact",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 action ou plus (voir ci-dessous)",
+      "save": "Aucun",
+      "page": "256",
+      "description": "<p>Le clerc implore la b&eacute;n&eacute;diction de son dieu. Si celle-ci lui est accord&eacute;e, elle peut lui &ecirc;tre d&rsquo;une aide consid&eacute;rable. Il peut lancer ce sort sur lui-m&ecirc;me, sur un objet ou sur l&rsquo;un de ses alli&eacute;s, et il s&rsquo;av&egrave;re particuli&egrave;rement efficace sur les alli&eacute;s de m&ecirc;me alignement. Le test d&rsquo;incantation subira un malus de -1 si l&rsquo;alli&eacute; cibl&eacute; est d&rsquo;un alignement diff&eacute;rent de celui du clerc. Si son alignement est oppos&eacute; ou si l&rsquo;alli&eacute; a pr&ecirc;t&eacute; ,all&eacute;geance &agrave; une divinit&eacute; ennemie, le malus passe &agrave; -2.</p>\n<p>Le temps d&rsquo;incantation comprend diverses pri&egrave;res, m&eacute;ditations, et requiert l&rsquo;usage du symbole sacr&eacute; du clerc pour effectuer le rituel de b&eacute;n&eacute;diction. Des b&eacute;n&eacute;dictions lanc&eacute;es sous de bons auspices peuvent b&eacute;n&eacute;ficier d&rsquo;un bonus allant de +1 &agrave; +4, &agrave; la discr&eacute;tion du Juge. Accomplir le rituel dans le temple du dieu du clerc, le lancer un jour consid&eacute;r&eacute; comme sacr&eacute; par sa religion ou le fait d&rsquo;utiliser une sainte relique sont autant d&rsquo;exemples de ,circonstances favorables. De la m&ecirc;me mani&egrave;re, lancer ce sort sous de mauvais auspices, par exemple en se tenant dans un temple ennemi, peut infliger un malus allant de -1 &agrave; -4.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.IZTeagpAY1Ny3woT]{B&eacute;n&eacute;diction sur soi}</p>"
+    },
+	
+    "Darkness": {
+     "name": "Ténèbres",
+      "range": "6 m de rayon ou plus",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 action ou plus",
+      "save": "Aucun",
+      "page": "269",
+      "description": "<p>Le clerc occulte la lumi&egrave;re du soleil, d&eacute;montrant ainsi la puissance de son dieu. Au loin, ces t&eacute;n&egrave;bres apparaissent comme une zone de nuit profonde. Aucune lumi&egrave;re ne peut y p&eacute;n&eacute;trer. Les cr&eacute;atures qui sont &agrave; l&rsquo;int&eacute;rieur sont aveugl&eacute;es.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.QmGiNZuYAq2YPAib]{T&eacute;n&egrave;bres}</p>"
+    },
+	
+    "Detect Evil": {
+      "name": "Détection du mal",
+      "range": "Rayon de 18 m autour du clerc ou plus (voir ci-dessous)",
+      "duration": "6 tours",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation (le cas échéant)",
+      "page": "261",
+      "description": "<p>Le clerc brandit son symbole sacr&eacute; afin de d&eacute;tecter les &eacute;manations mal&eacute;fiques en projetant un rayon d&rsquo;une largeur de 1,5 m et d&rsquo;une longueur de 18 m (voire plus) &agrave; partir de son symbole sacr&eacute;. La d&eacute;finition de &laquo; mal&eacute;fique &raquo; d&eacute;pend du clerc : il d&eacute;tecte g&eacute;n&eacute;ralement les cr&eacute;atures d&rsquo;alignement oppos&eacute; au sien, les cr&eacute;atures consid&eacute;r&eacute;es comme impies par sa divinit&eacute;, ainsi que celles ayant clairement l&rsquo;intention de lui nuire. En fonction de sa puissance, le sort peut m&ecirc;me d&eacute;tecter des dangers plus subtils. S&rsquo;il ne r&eacute;v&egrave;le pas les cr&eacute;atures cach&eacute;es, il informe cependant le clerc qu&rsquo;une intention mal&eacute;fique &eacute;mane d&rsquo;un endroit pr&eacute;cis. Ce sort peut &ecirc;tre invers&eacute; pour d&eacute;tecter le bien, et ainsi les cr&eacute;atures d&rsquo;un m&ecirc;me alignement, qui v&eacute;n&egrave;rent la m&ecirc;me divinit&eacute; ou ayant des buts sacr&eacute;s semblables.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.hrEkyd6G80Bdyh98]{Détection du mal}</p>"
+    },
+	
+    "Detect Magic": {
+      "name": "Détection de la magie",
+      "range": "9 m ou plus",
+      "duration": "2 tours",
+      "castingTime": "2 actions",
+      "save": "Volonté vs DD test d’incantation (le cas échéant)",
+      "page": "259",
+      "description": "<p>Le clerc sait si un lieu, un objet ou une personne a &eacute;t&eacute; enchant&eacute;. Ce sort se manifeste sous la forme d&rsquo;un c&ocirc;ne de 9 m de long et 9 m de large &agrave; son extr&eacute;mit&eacute;, partant du symbole sacr&eacute; du clerc.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.My4NPefKqh8wsALZ]{Détection de la magie}</p>"
+    },
+	
+    "Food of the Gods": {
+      "name": "Nourriture divine",
+      "range": "9 m",
+      "duration": " 24 heures (voir ci-dessous)",
+      "castingTime": "1 tour",
+      "save": "Aucun",
+      "page": "262",
+      "description": "<p>Le clerc en appelle au pouvoir de son dieu pour nourrir une foule. Ce sort peut soit rendre comestible une nourriture qui ne l&rsquo;&eacute;tait plus, soit cr&eacute;er des aliments par magie lorsqu&rsquo;aucune nourriture ou boisson n&rsquo;est disponible. La nourriture magique est spongieuse, gris&acirc;tre, de go&ucirc;t neutre et se g&acirc;te au bout de 24 h. L&rsquo;eau magique ainsi cr&eacute;&eacute;e est une eau de pluie saine qui reste potable tant qu&rsquo;elle est stock&eacute;e convenablement.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.fcMSbUbxKyEcV5EC]{Nourriture divine}</p>"
+    },
+	
+    "Holy Sanctuary": {
+      "name": "Sanctuaire",
+      "range": "Personnelle ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "268",
+      "description": "<p>Le clerc invoque un lieu sanctuaris&eacute; o&ugrave; ses alli&eacute;s et lui sont en s&eacute;curit&eacute;.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.J6bS56SKm9trOsZx]{Sanctuaire}</p>"
+    },
+	
+    "Paralysis": {
+      "name": "Paralysie",
+      "range": "Contact ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "265",
+      "description": "<p data-pm-slice=\"1 1 []\">La lumi&egrave;re de la divinit&eacute; du clerc emp&ecirc;che ses ennemis de lever la main pour commettre des actes malveillants.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.0rLaH4RP48VNFjxK]{Paralysie}</p>"
+    },
+	
+    "Protection from Evil": {
+      "name": "Protection contre le mal",
+      "range": "Personnelle ou plus",
+      "duration": "1 tour par NI",
+      "castingTime": "1 action",
+      "save": "Variable",
+      "page": "266",
+      "description": "<p data-pm-slice=\"1 1 []\">Le clerc implore son dieu de le prot&eacute;ger de tout ce qui pourrait lui nuire. Cette protection lui est accord&eacute;e m&ecirc;me s&rsquo;il n&rsquo;est pas conscient du danger. La d&eacute;finition du &laquo; mal &raquo; d&eacute;pend du clerc : cela d&eacute;signe g&eacute;n&eacute;ralement les cr&eacute;atures d&rsquo;alignement oppos&eacute; au sien, celles consid&eacute;r&eacute;es comme impies aux yeux de sa divinit&eacute; ou celles ayant l&rsquo;intention de s&rsquo;en prendre &agrave; lui. Selon sa puissance, le sort peut m&ecirc;me d&eacute;tecter des dangers plus subtils. Enfin, ce sort peut &ecirc;tre invers&eacute; pour prot&eacute;ger contre le bien.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.6ryIjINVf9y5wFbW]{Protection contre le mal}</p>"
+    },
+	
+    "Resist Cold or Heat": {
+      "name": "Résistance au froid ou à la chaleur",
+      "range": "Personnelle ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "267",
+      "description": "<p data-pm-slice=\"1 1 []\">Le clerc repousse les effets d&eacute;l&eacute;t&egrave;res du froid intense ou des fortes chaleurs, se prot&eacute;geant lui et ses alli&eacute;s. Il peut ainsi supporter des conditions difficiles sans aucune g&ecirc;ne. Lorsqu&rsquo;il lance ce sort, le clerc choisit &agrave; quel effet il r&eacute;siste (froid ou chaud). Il est possible de lancer ce sort deux fois afin de b&eacute;n&eacute;ficier des deux r&eacute;sistances.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.8doMTgM9m9D8FSqs]{Résistance au froid ou à la chaleur}</p>"
+    },
+	
+    "Second Sight": {
+      "name": "Divination",
+      "range": "Personnelle",
+      "duration": "1 round ou plus",
+      "castingTime": "1 tour",
+      "save": "Aucun",
+      "page": "262",
+      "description": "<p data-pm-slice=\"1 1 []\">Usant de cl&eacute;romancie, d&rsquo;haruspicine ou de toute autre m&eacute;thode qu&rsquo;il juge appropri&eacute;e, le clerc peut pr&eacute;dire l&rsquo;avenir. Ce faisant, il peut se faire une id&eacute;e des cons&eacute;quences des actions qu&rsquo;il compte entreprendre.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.Xcfh08G9c5517sJf]{Divination}</p>"
+    },
+	
+    "Word of Command": {
+      "name": "Injonction",
+      "range": "9 m ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "263",
+      "description": "<p data-pm-slice=\"1 1 []\">Le clerc prononce un mot de pouvoir portant la volont&eacute; de sa divinit&eacute;. Les cr&eacute;atures qui entendent ce mot sont contraintes d&rsquo;ob&eacute;ir. Ce mot doit &ecirc;tre unique et d&eacute;crire une action. Par exemple, &laquo; va &raquo;, &laquo; attaque &raquo;, &laquo; fuis &raquo;, &laquo; parle &raquo;, &laquo; nage &raquo;, &laquo; rampe &raquo;, &laquo; silence &raquo;, etc. Le mot doit &ecirc;tre adress&eacute; &agrave; une seule cr&eacute;ature intelligente situ&eacute;e &agrave; port&eacute;e. La cible b&eacute;n&eacute;ficie d&rsquo;un jet de sauvegarde de Volont&eacute; pour r&eacute;sister ; si elle &eacute;choue, elle doit ob&eacute;ir &agrave; l&rsquo;injonction au cours de son prochain round. L&rsquo;injonction est interpr&eacute;t&eacute;e par le processus de r&eacute;flexion naturel de la cr&eacute;ature. Par exemple, dire &agrave; un herbivore &laquo; attaque &raquo; peut produire une r&eacute;ponse diff&eacute;rente de celle d&rsquo;un carnivore. L&rsquo;injonction ne doit jamais d&eacute;passer un seul mot et peut &ecirc;tre sujette &agrave; une interpr&eacute;tation erron&eacute;e. Si l&rsquo;injonction est en totale opposition avec la nature profonde de la cr&eacute;ature, celle-ci b&eacute;n&eacute;ficie d&rsquo;un bonus de +4 &agrave; son jet de sauvegarde de Volont&eacute;. Par exemple, demander &agrave; un l&eacute;zard du d&eacute;sert de &laquo; nager &raquo; ou toute injonction suicidaire.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.RCyhus7z0tXO92AS]{Injonction}</p>"
+    }
+  }
+}

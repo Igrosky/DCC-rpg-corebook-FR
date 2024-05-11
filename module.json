@@ -1,0 +1,41 @@
+{
+  "id": "dcc-traduction-babele-fr",
+  "title": "DCC Traduction babele fr",
+  "version": "0.5.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Traduction du système DCC en FR avec Babele.",
+  "author": "Igrosky",
+  "relationships.requires": [
+    {
+      "id": "dcc",
+      "type": "system",
+      "manifest": "https://github.com/foundryvtt-dcc/dcc/releases/download/v0.36.0/system.json",
+      "version": "0.36.0"
+    },
+    {
+      "id": "babele",
+      "type": "module",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.28"
+    }
+  ],
+  "esmodules": [
+      "register-babele.js"
+    ],
+  "scripts": [ ],
+  "styles": [],
+  "packs": [],
+  "languages": [{
+    "lang": "fr",
+    "id": "Français",
+	"path": "lang/fr.json"
+  }],
+  "relationships.systems": "dcc",
+  "systemVersion": "0.36.0",
+  "url": "https://github.com/Igrosky/DCC-Babel-FR",
+  "manifest":[],
+  "download": []
+}

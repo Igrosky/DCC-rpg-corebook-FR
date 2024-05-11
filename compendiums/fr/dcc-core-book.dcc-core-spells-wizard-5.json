@@ -1,0 +1,36 @@
+{
+  "label": "Sorts de Mage lvl 5",
+        "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+		  },
+		  
+  "entries": {
+    "Hepsoj's Fecund Fungi": {
+      "name": "Champignons féconds d’Hepsoj",
+      "range": "30 m + 6 m par NI",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Variable",
+      "page": "248",
+      "description": "<p>The caster draws upon and amplifies the ever-present spores of fungi and mold to produce spectacular effects, including choking clouds, ablative armor, restraining bonds, and spontaneous fungus generation.</p>\n<p>On a successful casting, the caster may choose to invoke an effect of lesser power than his spell check roll to produce a weaker but potentially more useful result.</p><br><p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.qTV5jIwEfk5F1FNf]{Champignons féconds d’Hepsoj}</p>"
+    },
+	
+    "Lokerimon's Unerring Hunter": {
+      "name": "Lokerimon's Unerring Hunter"
+    },
+    "Magic Bulwark": {
+      "name": "Magic Bulwark"
+    },
+    "Mind Purge": {
+      "name": "Mind Purge"
+    },
+    "Replication": {
+      "name": "Replication"
+    }
+  }
+}

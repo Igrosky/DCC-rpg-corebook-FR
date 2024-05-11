@@ -1,0 +1,56 @@
+{
+  "label": "Sorts de Clerc lvl 3",
+    "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+	  },
+	  
+  "entries": {
+    "Animate Dead": {
+	  "name": "Animation des morts",
+      "range": "Contact",
+      "duration": "Variable",
+      "castingTime": "1 action",
+      "save": "Aucun",
+      "page": "285",
+      "description": "<p>Le clerc invoque la puissance de son dieu pour animer la chair d&eacute;compos&eacute;e et les os fragiles de cr&eacute;atures mortes afin de cr&eacute;er des sbires soumis &agrave; sa volont&eacute; pour harceler ses ennemis.</p>\n<p>Le nombre et le type de morts-vivants cr&eacute;&eacute;s d&eacute;pendent du r&eacute;sultat du test d&rsquo;incantation, ainsi que des cr&eacute;atures mortes disponibles : un clerc peut cr&eacute;er des squelettes &agrave; partir de simples ossements mais aura besoin d&rsquo;un corps complet pour animer un zombie. Il ne peut pas non plus cr&eacute;er plus d&rsquo;exemplaires d&rsquo;un type de mort-vivant que ce qu&rsquo;il a comme &laquo; mat&eacute;riel &raquo; sous la main (il ne peut pas cr&eacute;er cinq squelettes &agrave; partir de seulement trois d&eacute;pouilles).</p>\n<p>Les morts-vivants restent anim&eacute;s et sous le contr&ocirc;le du clerc pendant une heure, voire plus, selon le r&eacute;sultat du test d&rsquo;incantation. &Agrave; la fin de la dur&eacute;e du sort, la cr&eacute;ature s&rsquo;effondre, retrouvant son &eacute;tat normal de chair et d&rsquo;os inanim&eacute;s.</p>\n<p>Un clerc ne peut pas contr&ocirc;ler plus de 4 fois son NI en DV de morts-vivants au m&ecirc;me moment, mais il peut en &laquo; lib&eacute;rer &raquo; certains pour en diriger d&rsquo;autres, potentiellement plus puissants. Les morts-vivants hors de contr&ocirc;le tendent cependant &agrave; se retourner contre leur invocateur, et le clerc doit &ecirc;tre prudent lorsqu&rsquo;il d&eacute;cide d&rsquo;en lib&eacute;rer.</p>\n<p>Il est conseill&eacute; au joueur de noter les profils des diff&eacute;rents morts-vivants pr&eacute;sent&eacute;s plus loin dans ce livre, en fonction de ce qu&rsquo;il pourra invoquer. N&eacute;anmoins, n&rsquo;oubliez pas que ces profils ne sont que des bases &agrave; adapter.</p>\n<p>Une d&eacute;pouille humano&iuml;de permet de cr&eacute;er un squelette de 1 DV ou un zombie de 3 DV. Des squelettes plus puissants peuvent &ecirc;tre cr&eacute;&eacute;s en utilisant par exemple des os de g&eacute;ants. Vous trouverez les profils des mortsvivants suivants, mais un clerc un peu cr&eacute;atif pourra imaginer des morts-vivants originaux : fant&ocirc;me (page 408), goule (page 412), momie (page 420), ombre (page 421), squelette (page 427) et zombie (page 431).</p>\n<p>&nbsp;</p>\n<p><strong>Manifestation :</strong> L&rsquo;atmosph&egrave;re se remplit de relents de corruption tandis que les morts se l&egrave;vent au contact du clerc.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.O5NbiEyK1SYLyqXc]{Animation des morts}</p>"
+    },
+	
+    "Bolt from the Blue": {
+      "name": "Éclair Divin",
+      "range": "30 m",
+      "duration": "1 round",
+      "castingTime": "1 action",
+      "save": "Voir ci-dessous",
+      "page": "290",
+      "description": "<p>Le clerc invoque le ch&acirc;timent de son dieu qui s&rsquo;abat sur ceux qui s&rsquo;opposent &agrave; ses projets divins, leur infligeant souffrance physique et mentale, perte de points de caract&eacute;ristiques et autres effets d&eacute;bilitants.</p>\n<p><strong>Manifestation</strong> Un trait de flammes divines s&rsquo;abat sur les ennemis de la foi du clerc.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.zPL1pEcESvWHZrNC]{&Eacute;clair Divin}</p>"
+    },
+	
+    "Exorcise": {
+      "name": "Exorcisme",
+      "range": " 1,5 km par NI (voir ci-dessous)",
+      "duration": "Instantanée",
+      "castingTime": "1 heure",
+      "save": "Voir ci-dessous",
+      "page": "292",
+      "description": "<p data-pm-slice=\"1 1 []\">Le clerc invoque la puissance de son dieu pour rompre le lien entre un mortel et son patron surnaturel au risque d&rsquo;attirer l&rsquo;attention de celui-ci par m&eacute;garde. Ce sort est &eacute;reintant &agrave; lancer, au point qu&rsquo;il ne peut l&rsquo;&ecirc;tre qu&rsquo;une fois tous les sept jours, apr&egrave;s une p&eacute;riode de je&ucirc;ne, de pri&egrave;re et de pr&eacute;paration mentale. Un objet appartenant &agrave; la cible ou un &eacute;l&eacute;ment physique de celle-ci (comme une m&egrave;che de cheveux, du sang, un ongle, etc.) est n&eacute;cessaire pour l&rsquo;incanter. Sans cela, le clerc subit un malus de -4 au test d&rsquo;incantation et voit la port&eacute;e du sort r&eacute;duite &agrave; 30 m par NI.</p>\n<p>Lorsqu&rsquo;il lance ce sort, le clerc effectue normalement son test d&rsquo;incantation. Si le r&eacute;sultat de celui-ci est sup&eacute;rieur au r&eacute;sultat du test d&rsquo;incantation effectu&eacute; pour lier un patron, le lien est alors rompu, et la cible perd imm&eacute;diatement tous les b&eacute;n&eacute;fices octroy&eacute;s par celui-ci. Cela inclut les sorts de patron qu&rsquo;elle aura pu apprendre. La victime ne peut pas retenter d&rsquo;incanter lier un patron avant un mois entier, sauf si une puissante magie vient dissiper l&rsquo;exorcisme. De plus, la cible peut aussi subir des effets secondaires (voir ci-dessous).</p>\n<p>Si le r&eacute;sultat du test du clerc n&rsquo;est pas assez &eacute;lev&eacute; pour rompre le lien, il peut arriver que le patron impliqu&eacute; veuille ch&acirc;tier celui-ci pour son ing&eacute;rence. Le clerc doit alors r&eacute;ussir un test de Chance pour &eacute;viter d&rsquo;attirer</p>\n<p>l&rsquo;attention sur lui et faire face au courroux de la cr&eacute;ature surnaturelle. Si le test &eacute;choue, le clerc peut s&rsquo;attendre &agrave; affronter les sbires du patron, voire &agrave; haut niveau, le patron lui-m&ecirc;me !</p>\n<p>Si la description de ce sort se r&eacute;f&egrave;re au sort lier un patron, notez que l&rsquo;exorcisme peut aussi &ecirc;tre utilis&eacute; pour rompre d&rsquo;autres types de pactes similaires, le cas &eacute;ch&eacute;ant</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.bWOU2mCSPgXPAYe6]{Exorcisme}</p>"
+    },
+	
+    "Remove Curse": {
+      "name": "Remove Curse"
+    },
+    "Speak With The Dead": {
+      "name": "Speak With The Dead"
+    },
+    "Spiritual Weapon": {
+      "name": "Spiritual Weapon"
+    },
+    "True Name": {
+      "name": "True Name"
+    }
+  }
+}

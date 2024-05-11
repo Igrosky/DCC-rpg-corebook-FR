@@ -1,0 +1,41 @@
+{
+	"label": "DCC Compendium Index",
+	"entries": {
+		"Ammunition": {
+			"name": "Munitions"
+		},
+		"Armor": {
+			"name": "Armures"
+		},
+		"Classes": {
+			"name": "Classes"
+		},
+		"Cleric Spells": {
+			"name": "Sorts de Clerc"
+		},
+		"Crit Tables": {
+			"name": "Tables Critiques"
+		},
+		"Equipment": {
+			"name": "Equipment"
+		},
+		"Index": {
+			"name": "Index"
+		},
+		"Monsters": {
+			"name": "Monstres"
+		},
+		"Mounts": {
+			"name": "Mountures"
+		},
+		"Patrons": {
+			"name": "Patrons"
+		},
+		"Tables": {
+			"name": "Tables"
+		},
+		"Wizard Spells": {
+			"name": "Sorts de Mage"
+		}
+	}
+}

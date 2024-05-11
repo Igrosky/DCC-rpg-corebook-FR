@@ -1,0 +1,125 @@
+{
+  "label": "Sorts de Mage Lvl 2",
+    "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+	  },
+	  
+  "entries": {
+    "Arcane Affinity": {
+      "name": "Affinité arcanique",
+      "range": "Personnelle",
+      "duration": "Variable",
+      "castingTime": "Variable",
+      "save": "Aucun",
+      "page": "163",
+"description": "<p>Certains mages font le choix de se sp&eacute;cialiser dans un type de magie. Il peut s&rsquo;agir de n&eacute;cromants &eacute;tudiant les morts-vivants ou de pyromanciens manipulant le feu. On peut aussi penser aux &eacute;l&eacute;mentalistes, qui parviennent &agrave; contr&ocirc;ler des &eacute;l&eacute;mentaires autonomes, ou des invocateurs, qui font appara&icirc;tre des objets de nulle part. Ces mages sp&eacute;cialis&eacute;s surpassent les autres magiciens en &eacute;tudiant, m&eacute;ditant et en finissant par se connecter corps et &acirc;me &agrave; l&rsquo;&eacute;cole de magie arcanique qu&rsquo;ils ont choisie. Un n&eacute;cromant peut vivre avec des morts-vivants pour parfaitement les comprendre, un pyromancien demeurer dans un volcan, un &eacute;l&eacute;mentaliste vivre sur l&rsquo;un des quatre plans &eacute;l&eacute;mentaires et un invocateur &eacute;tudier la structure atomique de la mati&egrave;re.</p>\n<p>Ce sort est l&rsquo;unique moyen par lequel il est possible pour un mage de se sp&eacute;cialiser. Il cr&eacute;e une affinit&eacute; entre l&rsquo;incantateur et un type de magie. Cette affinit&eacute; s&rsquo;obtient avec beaucoup de temps, de travail, et elle a un co&ucirc;t : le sort occupera toujours cet emplacement de sort, et l&rsquo;incantateur est li&eacute; pour toujours &agrave; l&rsquo;&eacute;l&eacute;ment arcanique choisi. Mais ce sort conf&egrave;re &eacute;galement un avantage : il augmente la puissance du mage dans une &eacute;cole de magie bien pr&eacute;cise.</p>\n<p>Bien que ce sort soit list&eacute; dans le grimoire de l&rsquo;incantateur sous le nom affinit&eacute; arcanique, il se d&eacute;cline en r&eacute;alit&eacute; selon l&rsquo;objectif propre &agrave; chaque mage. Il repr&eacute;sente le temps et les efforts n&eacute;cessaires au d&eacute;veloppement d&rsquo;une affinit&eacute; pour une &eacute;cole de magie particuli&egrave;re. Le &laquo; temps d&rsquo;incantation &raquo; recouvre un ensemble de rituels et d&rsquo;actions n&eacute;cessaires pour cr&eacute;er cette affinit&eacute;. Il s&rsquo;agit d&rsquo;un sort de niveau 2 parce qu&rsquo;un incantateur doit comprendre les principes de base de la magie avant de pouvoir d&eacute;velopper une affinit&eacute;. Les affinit&eacute;s traditionnelles et leur &laquo; temps d&rsquo;incantation &raquo; respectifs sont les suivants. Il faut noter que le &laquo; temps d&rsquo;incantation &raquo; peut, en termes de jeu, se superposer avec une aventure ou se jouer pendant une accalmie entre des aventures.</p>\n<p>&nbsp;</p>\n<p>&bull;&nbsp;<strong>Illusionniste :</strong>&nbsp;Un sp&eacute;cialiste des sorts alt&eacute;rant la perception ou cr&eacute;ant des simulacres de sons et d&rsquo;images. Un illusionniste doit passer au moins un an &agrave; comprendre comment le corps humain traite les stimuli sensoriels et comment les sens peuvent &ecirc;tre tromp&eacute;s.</p>\n<p>&bull;&nbsp;<strong>Invocateur</strong>&nbsp;: Un sp&eacute;cialiste des sorts qui invoque des animaux, monstres et autres cr&eacute;atures pour l&rsquo;aider, y compris des &eacute;l&eacute;mentaires et des d&eacute;mons. Un invocateur peut ensuite se sp&eacute;cialiser dans un type de cr&eacute;atures (par exemple, les &eacute;l&eacute;mentaires). Les invocateurs peuvent aussi se sp&eacute;cialiser dans l&rsquo;invocation d&rsquo;objets au lieu de cr&eacute;atures. Un invocateur doit au moins passer une ann&eacute;e &agrave; &eacute;tudier les cr&eacute;atures qu&rsquo;il souhaite invoquer, que ce soit en captivit&eacute; ou dans leur milieu naturel.</p>\n<p>&bull;&nbsp;<strong>N&eacute;cromant</strong>&nbsp;: Un sp&eacute;cialiste des morts-vivants, de leur cr&eacute;ation, de leur contr&ocirc;le et de leurs limites. Un n&eacute;cromant peut chercher &agrave; atteindre la vie &eacute;ternelle en se transformant lui-m&ecirc;me en mort-vivant. Il doit passer au moins un an en compagnie de morts-vivants.</p>\n<p>&bull;&nbsp;<strong>Transmutateur</strong>&nbsp;: Un sp&eacute;cialiste de la transformation de la mati&egrave;re, que ce soit la chair en pierre, le fer en or ou quelque chose d&rsquo;interm&eacute;diaire. Un transmutateur doit passer au moins un an dans un laboratoire &agrave; &eacute;tudier les propri&eacute;t&eacute;s des diff&eacute;rents mat&eacute;riaux.</p>\n<p>&bull;&nbsp;<strong>Pyromancien</strong>&nbsp;: Un sp&eacute;cialiste de l&rsquo;&eacute;tude du feu. Les pyromanciens doivent passer au moins un an en pr&eacute;sence de grands feux, comme ceux d&rsquo;un volcan actif ou sur le plan &eacute;l&eacute;mentaire du feu. Les pyromanciens finissent par apprendre &agrave; cr&eacute;er, contr&ocirc;ler et &eacute;teindre des flammes &agrave; volont&eacute;. Il existe d&rsquo;autres sp&eacute;cialistes qui &eacute;tudient des pouvoirs magiques similaires mais contr&ocirc;lent d&rsquo;autres &eacute;l&eacute;ments, par exemple, les fulminateurs qui &eacute;tudient l&rsquo;&eacute;lectricit&eacute;, les cryomanciens qui &eacute;tudient le froid et les a&eacute;romanciens qui &eacute;tudient l&rsquo;air.</p>\n<p>&bull;&nbsp;<strong>D&eacute;moniste</strong>&nbsp;: Un sp&eacute;cialiste de l&rsquo;invocation, du contr&ocirc;le, de l&rsquo;exorcisme, de la destruction et des savoirs sur les d&eacute;mons. C&rsquo;est une sp&eacute;cialit&eacute; dangereuse, car les d&eacute;mons ne divulguent jamais volontairement d&rsquo;informations sur les moyens existants pour les contr&ocirc;ler. Un d&eacute;moniste doit passer au moins trois ans &agrave; compulser d&rsquo;anciens grimoires, s&rsquo;entretenir avec des entit&eacute;s surnaturelles et &agrave; voyager sur des plans distants pour apprendre ce dont il a besoin pour contr&ocirc;ler des d&eacute;mons.</p>\n<p>&nbsp;</p>\n<p>Apr&egrave;s avoir pass&eacute; le &laquo; temps d&rsquo;incantation &raquo; n&eacute;cessaire pour se sp&eacute;cialiser dans un domaine, le sp&eacute;cialiste effectue son test d&rsquo;incantation. Celui-ci d&eacute;termine quel sera le b&eacute;n&eacute;fice de la sp&eacute;cialisation comme d&eacute;taill&eacute; cidessous. De nombreux sp&eacute;cialistes ont alors recours au br&ucirc;lesort pour s&rsquo;assurer d&rsquo;un r&eacute;sultat favorable. Certains peuvent m&ecirc;me utiliser des versions rituelles de ce sort en l&rsquo;incantant dans un lieu de puissance, de concert avec d&rsquo;autres mages ou en effectuant un sacrifice appropri&eacute;. Les r&egrave;gles de rituels au d&eacute;but de ce chapitre, associ&eacute;es &agrave; l&rsquo;interpr&eacute;tation du Juge, d&eacute;terminent la nature du rituel.</p>\n<p>L&rsquo;incantateur peut choisir de se sp&eacute;cialiser dans plus d&rsquo;un domaine, du moment qu&rsquo;il se conforme aux contraintes indiqu&eacute;es ici et dans les r&eacute;sultats du sort. Comme la sp&eacute;cialisation r&eacute;sulte g&eacute;n&eacute;ralement en une am&eacute;lioration des capacit&eacute;s d&rsquo;incantation pour certains sorts et une d&eacute;gradation pour d&rsquo;autres, un mage avec de multiples sp&eacute;cialisations peut s&rsquo;apercevoir qu&rsquo;elles se compensent l&rsquo;une l&rsquo;autre.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.j6x4K7x33atnm08y]{Affinit&eacute; arcanique}</p>"
+    },
+	
+    "Detect Evil (Wizard Casting)": {
+      "name": "Détection du mal (Mage)",
+      "range": "Rayon de 18 m autour du clerc ou plus (voir ci-dessous)",
+      "duration": "6 tours",
+      "castingTime": "1 action",
+      "save": "Volonté vs DD test d’incantation (le cas échéant)",
+      "page": "261",
+      "description": "<p data-pm-slice=\"1 1 []\">Le clerc brandit son symbole sacr&eacute; afin de d&eacute;tecter les &eacute;manations mal&eacute;fiques en projetant un rayon d&rsquo;une largeur de 1,5 m et d&rsquo;une longueur de 18 m (voire plus) &agrave; partir de son symbole sacr&eacute;. La d&eacute;finition de &laquo; mal&eacute;fique &raquo; d&eacute;pend du clerc : il d&eacute;tecte g&eacute;n&eacute;ralement les cr&eacute;atures d&rsquo;alignement oppos&eacute; au sien, les cr&eacute;atures consid&eacute;r&eacute;es comme impies par sa divinit&eacute;, ainsi que celles ayant clairement l&rsquo;intention de lui nuire. En fonction de sa puissance, le sort peut m&ecirc;me d&eacute;tecter des dangers plus subtils. S&rsquo;il ne r&eacute;v&egrave;le pas les cr&eacute;atures cach&eacute;es, il informe cependant le clerc qu&rsquo;une intention mal&eacute;fique &eacute;mane d&rsquo;un endroit pr&eacute;cis. Ce sort peut &ecirc;tre invers&eacute; pour d&eacute;tecter le bien, et ainsi les cr&eacute;atures d&rsquo;un m&ecirc;me alignement, qui v&eacute;n&egrave;rent la m&ecirc;me divinit&eacute; ou ayant des buts sacr&eacute;s semblables.</p>\n<p>&nbsp;</p>\n<p><strong>Note:</strong> Ceci est la version Mage d'un sort de Clerc @Compendium[dcc-core-book.dcc-core-journals.LxWvwON9h9JWpI6c]{Table 5-8: Sorts de Mage}. La difficult&eacute; &agrave; &eacute;t&eacute; augment&eacute;e et un revers a &eacute;t&eacute; ajout&eacute; sur un r&eacute;sultat de 1</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong>@UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.kNtgAxOuEpfJ0jXH]{Détection du mal (Mage)}</p>"
+    },
+	
+    "Detect Invisible": {
+      "name": "Voir l’invisible",
+      "range": "18 m ou plus",
+      "duration": "Variable",
+      "castingTime": "1 Action",
+      "save": "Volonté vs DD test d’incantation (le cas échéant)",
+      "page": "203",
+      "description": "<p>L&rsquo;incantateur active sa vision int&eacute;rieure afin de percevoir la vraie nature des choses. Ce faisant, il est capable de voir les cr&eacute;atures et les objets invisibles. Si la cible ou l&rsquo;objet vis&eacute; est prot&eacute;g&eacute; par un bouclier d&rsquo;invisibilit&eacute; (voir le sort d&rsquo;invisibilit&eacute;), le r&eacute;sultat du test d&rsquo;incantation du mage correspond au DD du jet de sauvegarde de Volont&eacute; de la cible.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.ithVzw1jF5P6Tok7]{Voir l’invisible}</p>"
+    },
+	
+    "ESP": {
+      "name": "Perception Extrasensorielle - PES",
+      "range": "30 m ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 Round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "192",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur peut percevoir les pens&eacute;es d&rsquo;autres cr&eacute;atures. Un r&eacute;sultat peu &eacute;lev&eacute; permet uniquement &agrave; l&rsquo;incantateur de lire les pens&eacute;es superficielles. Avec des r&eacute;sultats plus &eacute;lev&eacute;s, il peut se concentrer et lire des pens&eacute;es de plus en plus profondes &agrave; chaque round de concentration continue comme indiqu&eacute; ci-apr&egrave;s. Deviner la r&eacute;ponse &agrave; une question sp&eacute;cifique en fonction des &eacute;l&eacute;ments d&eacute;crits ci-dessous prend g&eacute;n&eacute;ralement 1d4 rounds en plus du nombre de rounds de concentration requis. Par exemple, trouver l&rsquo;endroit o&ugrave; le n&eacute;cromant mal&eacute;fique a cach&eacute; son anneau magique prend 1d4 rounds apr&egrave;s le 4e round de concentration (souvenirs r&eacute;cents), et comprendre pourquoi le n&eacute;cromant voue une haine irrationnelle envers le roi prend 1d4 rounds apr&egrave;s le 6e round de concentration (motivations subconscientes).</p>\n<p><strong>Round 2</strong>: L&rsquo;incantateur comprend tous les objectifs et motivations &agrave; long terme associ&eacute;s aux pens&eacute;es et actions actuelles de la cr&eacute;ature.</p>\n<p><strong>Round 3</strong>: L&rsquo;incantateur comprend les relations de la cr&eacute;ature avec ses amis et ennemis.</p>\n<p><strong>Round 4:</strong> L&rsquo;incantateur peut lire les souvenirs r&eacute;cents de la cr&eacute;ature. Il faut n&eacute;anmoins du temps pour faire le tri dans les pens&eacute;es (environ un round par jour de souvenirs)..</p>\n<p><strong>Round 5</strong>: L&rsquo;incantateur peut lire la m&eacute;moire compl&egrave;te de la cr&eacute;ature aussi loin qu&rsquo;elle puisse se souvenir.</p>\n<p><strong>Round 6</strong>: L&rsquo;incantateur comprend les pens&eacute;es inconscientes de la cr&eacute;ature, ses motivations et les comportements sous-jacents dont elle peut ne pas &ecirc;tre elle-m&ecirc;me consciente.</p>\n<p>Certains r&eacute;sultats &eacute;lev&eacute;s peuvent permettre &agrave; l&rsquo;incantateur de changer de cible. Changer de cible octroie un jet de sauvegarde &agrave; la nouvelle cible et remet &agrave; z&eacute;ro le &laquo; compteur de rounds &raquo; en ce qui concerne la lecture des pens&eacute;es profondes. Par exemple, si l&rsquo;incantateur se concentre pendant trois rounds sur une cible, puis bascule sur une autre, avant de revenir sur la premi&egrave;re, c&rsquo;est comme s&rsquo;il recommen&ccedil;ait du d&eacute;but &agrave; un round de concentration.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.UzdoWFpNOpfeSvXZ]{Perception Extrasensorielle - PES}</p>"
+    },
+	
+    "Fire Resistance": {
+      "name": "Résistance au feu",
+      "range": "Personnelle ou plus",
+      "duration": "1 tour ou plus",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "200",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur am&eacute;liore sa r&eacute;sistance &agrave; la chaleur et au feu.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.l027ZF2PrZmx9lrc]{Résistance au feu}</p>"
+    },
+	
+    "Forget": {
+      "name": "Oubli",
+      "range": "Contact ou plus",
+      "duration": "1 round ou plus",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "188",
+      "description": "<p data-pm-slice=\"1 1 []\">L&rsquo;incantateur efface une partie de la m&eacute;moire d&rsquo;une cr&eacute;ature.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.SKNdz2Gzi8g5IlLZ]{Oubli}</p>"
+    },
+	
+    "Invisibility": {
+      "name": "Invisibility"
+    },
+    "Invisible Companion": {
+      "name": "Invisible Companion"
+    },
+    "Knock": {
+      "name": "Knock"
+    },
+    "Levitate": {
+      "name": "Levitate"
+    },
+    "Locate Object": {
+      "name": "Locate Object"
+    },
+    "Magic Mouth": {
+      "name": "Magic Mouth"
+    },
+    "Mirror Image": {
+      "name": "Mirror Image"
+    },
+    "Monster Summoning": {
+      "name": "Monster Summoning"
+    },
+    "Nythuul's Porcupine Coat": {
+      "name": "Nythuul's Porcupine Coat"
+    },
+    "Phantasm": {
+      "name": "Phantasm"
+    },
+    "Ray of Enfeeblement": {
+      "name": "Ray of Enfeeblement"
+    },
+    "Scare": {
+      "name": "Scare"
+    },
+    "Scorching Ray": {
+      "name": "Scorching Ray"
+    },
+    "Shatter": {
+      "name": "Shatter"
+    },
+    "Spider Web": {
+      "name": "Spider Web"
+    },
+    "Strength": {
+      "name": "Strength"
+    },
+    "Wizard Staff": {
+      "name": "Wizard Staff"
+    }
+  }
+}

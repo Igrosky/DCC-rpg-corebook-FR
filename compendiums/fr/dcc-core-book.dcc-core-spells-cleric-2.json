@@ -1,0 +1,82 @@
+{
+  "label": "Sorts de Clerc lvl 2",
+      "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+	  },
+	  
+  "entries": {
+    "Banish": {
+      "name": "Bannissement",
+      "range": "9 m ou plus",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "270",
+      "description": "<p>Le clerc bannit la cr&eacute;ature loin de lui, voire la renvoie d&rsquo;o&ugrave; elle vient. Ce sort est g&eacute;n&eacute;ralement employ&eacute; pour renvoyer une cr&eacute;ature surnaturelle sur son plan d&rsquo;origine mais peut aussi &ecirc;tre utilis&eacute; pour forcer les cr&eacute;atures communes &agrave; retourner dans leur repaire.</p>\n<p>Le clerc d&eacute;signe une cible unique &agrave; port&eacute;e de vue, ou m&ecirc;me absente, si tant est que le clerc poss&egrave;de un &eacute;l&eacute;ment physique lui appartenant (une m&egrave;che de cheveux, un ongle, son arme pr&eacute;f&eacute;r&eacute;e, une goutte de sang, etc.). Le clerc lance ensuite le sort, et la cible subit les effets d&eacute;crits ci-dessous.</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.4DpvPVF9RxBqGU1x]{Bannissement}</p>"
+    },
+	
+    "Binding": {
+     "name": "Soumission",
+      "range": "9 m ou plus",
+      "duration": "Variable",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation",
+      "page": "281",
+      "description": "<p>Au moyen de ce sort, le clerc peut soumettre une cr&eacute;ature surnaturelle et l&rsquo;obliger &agrave; lui ob&eacute;ir. Ce sort est plus facile &agrave; lancer si la cr&eacute;ature a d&eacute;j&agrave; &eacute;t&eacute; invoqu&eacute;e au moyen d&rsquo;un autre sort, mais il peut &ecirc;tre utilis&eacute; pour tenter de contr&ocirc;ler les cr&eacute;atures rencontr&eacute;es sur leur plan d&rsquo;origine.</p>\n<p>Le clerc peut cibler une cr&eacute;ature se trouvant d&eacute;j&agrave; sous le contr&ocirc;le d&rsquo;un autre incantateur et invoqu&eacute;e via un autre sort (comme par exemple invocation d&rsquo;animaux, convocation de monstre ou compagnon invisible) ou une cr&eacute;ature native d&rsquo;un plan immat&eacute;riel (comme un d&eacute;mon, un diable, un &eacute;l&eacute;mentaire, un esprit, un fant&ocirc;me, etc.). Le clerc force la cr&eacute;ature &agrave; lui ob&eacute;ir au lieu d&rsquo;ob&eacute;ir &agrave; son ma&icirc;tre actuel. Un jet de sauvegarde de Volont&eacute; est autoris&eacute; pour r&eacute;sister, mais il est effectu&eacute; par l&rsquo;autre incantateur, pas par la cr&eacute;ature, qui est d&eacute;j&agrave; soumise. Si le clerc remporte l&rsquo;opposition, le contr&ocirc;le de la cr&eacute;ature lui est transf&eacute;r&eacute; pendant un certain temps, au bout duquel il revient &agrave; l&rsquo;incantateur initial (si le sort d&rsquo;invocation ou de contr&ocirc;le initial n&rsquo;a pas d&eacute;j&agrave; pris fin). Ce sort ne peut affecter les familiers ou les autres cr&eacute;atures ob&eacute;issant de mani&egrave;re consentante &agrave; leur ma&icirc;tre. Seules les cr&eacute;atures domin&eacute;es peuvent &ecirc;tre affect&eacute;es.</p>\n<p>Dans certaines circonstances, d&eacute;taill&eacute;es ci-dessous, le clerc peut affecter d&rsquo;autres types de cibles.</p>\n<p>Le clerc peut obliger une cr&eacute;ature sous son contr&ocirc;le &agrave; effectuer n&rsquo;importe quelle action dans la mesure de ses capacit&eacute;s, &agrave; la mani&egrave;re du sort invocation d&rsquo;animaux. La cr&eacute;ature doit &ecirc;tre capable d&rsquo;entendre le clerc et ex&eacute;cutera les ordres de son mieux. Les ordres suicidaires ou contradictoires donnent &agrave; la cible le droit d&rsquo;effectuer un nouveau jet de sauvegarde de Volont&eacute; pour r&eacute;sister.</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.O5rUvKz8NClB2X99]{Soumission}</p>"
+    },
+	
+    "Cure Paralysis": {
+      "name": "Guérison de la paralysie",
+      "range": "Contact ou plus",
+      "duration": "Une journée ou permanent (voir ci-dessous)",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "273",
+      "description": "<p>Le clerc lib&egrave;re une cr&eacute;ature de la paralysie. Des incantations plus puissantes peuvent gu&eacute;rir la p&eacute;trification et d&rsquo;autres formes de restriction de mouvement.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.xPjNoWHN0DlwM7Cu]{Gu&eacute;rison de la paralysie}</p>"
+    },
+	
+    "Curse": {
+      "name": "Malédiction",
+      "range": "À vue",
+      "duration": "Variable (voir ci-dessous)",
+      "castingTime": "1 round",
+      "save": "Volonté vs DD test d’incantation.",
+      "page": "274",
+      "description": "<p>Le clerc prof&egrave;re une mal&eacute;diction &agrave; l&rsquo;encontre d&rsquo;une autre cr&eacute;ature, qui b&eacute;n&eacute;ficie syst&eacute;matiquement d&rsquo;un jet de sauvegarde de Volont&eacute; pour y r&eacute;sister. Ce sort doit &ecirc;tre utilis&eacute; avec prudence, car il s&rsquo;agit d&rsquo;une intervention majeure de la divinit&eacute; du clerc. Infliger une mal&eacute;diction particuli&egrave;rement grave, de celles qui affectent des familles ou des communaut&eacute;s enti&egrave;res ou qui se transmettent sur plusieurs g&eacute;n&eacute;rations, est per&ccedil;ue comme un p&eacute;ch&eacute;. Des rituels plus longs impliquant un temps d&rsquo;incantation &eacute;tendu peuvent &ecirc;tre n&eacute;cessaires pour prof&eacute;rer des mal&eacute;dictions plus sinistres encore. Vous trouverez dans l&rsquo;annexe C des exemples de mal&eacute;dictions standards accompagn&eacute;es d&rsquo;un historique et de leurs cons&eacute;quences en terme de jeu.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.AsA3cT6wtpMeJTJA]{Mal&eacute;diction}</p>"
+    },
+	
+    "Divine Symbol": {
+      "name": "Symbole Divin",
+      "range": "Personnelle",
+      "duration": "1d6 rounds ou plus",
+      "castingTime": "1 round",
+      "save": "Aucun",
+      "page": "282",
+      "description": "<p>Le clerc canalise la puissance de sa divinit&eacute; au travers de son symbole divin, qui devient le point de ralliement des d&eacute;vots, une arme de vertu et un fl&eacute;au pour les impies.</p>\n<p>&nbsp;</p>\n<p><strong>Spell Data:</strong> @UUID[Compendium.dcc-core-book.dcc-core-spell-journals.JournalEntry.D3fJyfUXpxrQcyuo]{Symbole Divin}</p>"
+    },
+	
+    "Lotus Stare": {
+      "name": "Lotus Stare"
+    },
+    "Neutralize Poison or Disease": {
+      "name": "Neutralize Poison or Disease"
+    },
+    "Restore Vitality": {
+      "name": "Restore Vitality"
+    },
+    "Snake Charm": {
+      "name": "Snake Charm"
+    },
+    "Stinging Stone": {
+      "name": "Stinging Stone"
+    },
+    "Wood Wyrding": {
+      "name": "Wood Wyrding"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "label": "Sorts de Clerc lvl 5",
+    "mapping": {
+    "range": "system.range",
+    "duration": "system.duration",
+    "castingTime": "system.castingTime",
+    "save": "system.save",
+    "page": "system.page",
+    "description": "system.description.value"
+	  },
+	  
+  "entries": {
+    "Righteous Fire": {
+      "name": "Righteous Fire"
+    },
+    "Weather Control": {
+      "name": "Weather Control"
+    },
+    "Whirling Doom": {
+      "name": "Whirling Doom"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "label": "Brûlesort",
+  "entries": {
+    "Azi Dahaka Spellburn Actions": {
+      "name": "Azi Dahaka Brûlesort",
+      "description": "<p>Azi Dahaka se délecte des pleurs et des gémissements de ses adeptes, et encourage ceux qui ne le suivent pas à se tourner vers lui lorsqu’ils sont en détresse. Lorsqu’un mage a recours au brûlesort, lancez 1d4 et consultez la table suivante, ou développez les idées proposées pour alimenter votre campagne.</p>",
+      "results": {
+        "1-1": "Un vent furieux et brûlant enveloppe le mage, absorbant ses fluides corporels pour le laisser desséché, cloqué et épuisé (les caractéristiques consumées sont prioritairement l’Endurance, la Force et l’Agilité).",
+        "2-2": "Le prince démon exige plus du mage que ce qu’il est en mesure d’offrir. Celui-ci peut brûler jusqu’à 10 points de caractéristiques, mais le coût final sera doublé et devra être payé soit avec les caractéristiques du mage, soit en DV de créatures sacrifiées. Pour cela, l’incantateur ne peut recourir à des créatures invoquées et doit impérativement leur porter le coup fatal avec une lame cérémonielle consacrée pour l’occasion.",
+        "3-3": "Azi Dahaka demande une faveur particulière au mage. Durant les 24 h qui suivent le brûlesort, celui-ci est en proie à une fièvre brûlante et perd les points de caractéristiques consumés tandis que les visions des exigences de son maître l’assaillent. Si le mage s’acquitte de sa tâche pleinement (il s’agit le plus souvent d’une quête annexe ne prenant pas plus de 5 jours), Azi Dahaka le récompense selon son bon vouloir.",
+        "4-4": "Le mage tombe à genoux et se met à vomir une bile pleine de serpents huileux se tordant dans tous les sens, le laissant épuisé par l’effort (les caractéristiques consumées sont prioritairement l’Endurance, la Force et l’Agilité). Les serpents s’enfuient rapidement en fouissant dans le sol."
+      }
+    },
+	
+    "Bobugbubilz Spellburn Actions": {
+      "name": "Bobugbubilz Brûlesort",
+      "description": "<p>Bobugbubilz ne raisonne pas comme les humains, et ses requêtes ne suivent pas toujours une logique à court terme. Lorsque le mage a recours au brûlesort, lancez 1d4 sur la table ci-dessous. Ces quelques idées peuvent vous fournir des pistes à développer pour votre propre campagne.</p>",
+      "results": {
+        "1-1": "Bobugbubilz a besoin du sang d’un « sec » (une créature vivant exclusivement sur terre). Le sang du mage fait l’affaire (ce qui provoquera en priorité une perte d’Endurance, Force ou Agilité).",
+        "2-2": "Le seigneur démon des amphibiens demande les pieds d’une chose-humaine. Dans cette situation particulière, le personnage peut choisir de consumer jusqu’à 10 points de caractéristiques, mais ne doit rien faire de particulier sur le moment et ne perd aucun point dans l’immédiat. S’il parvient à sacrifier les pieds d’une chose-humaine (une créature humanoïde conviendra) à Bobugbubilz avant le prochain lever de soleil, le personnage ne subira aucune conséquence de son brûlesort. S’il n’y arrive pas, il subit la perte de la totalité des 10 points de brûlesort répartis entre ses différentes caractéristiques (au choix du Juge) au lever du soleil.",
+        "3-3": "Bobugbubilz a besoin de la douce voix du mage pour effectuer une incantation que ses propres serviteurs sont incapables de prononcer correctement. Le temps ralentit et s’arrête tandis que le personnage est téléporté dans un autre plan, vertigineux, composé de cavernes étroites et humides, semblables à un ventre maternel. Il est alors forcé de lire un texte rédigé dans sa langue, mais dont le sens obscur est au-delà de sa compréhension. Une fois l’incantation terminée, il réapparaît sur son plan d’origine, à l’instant même où il est parti, mais se retrouve diminué d’autant de points de caractéristiques qu’il en a consumé lors du brûlesort.",
+        "4-4": "Une horde de serpents se tortille aux pieds de l’incantateur, lui mord les chevilles et commence à lui sucer le sang. Si le mage résiste, les serpents s’enfuient, et le brûlesort échoue. S’il se laisse faire, les serpents absorbent autant de sang que le nombre de points consumés, puis s’enfoncent dans le sol. Avant qu’ils aient tous disparu, l’un d’eux tourne la tête et présente les remerciements de Bobugbubilz… puis s’en va."
+      }
+    },
+	
+    "Sezrekan Spellburn Actions": {
+      "name": "Sezrekan Brûlesort",
+      "description": "<p>Sezrekan a peu de considération pour ses adeptes. Ceux qui sont assez forts, qui possèdent un mental suffisamment solide, peuvent parvenir à se distinguer, tandis que les faibles ne sont que de pitoyables « outils » sans valeur, juste bons à être abandonnés. Le Vieux Maître est connu pour apprécier ceux qui sacrifient leur corps dans cette course vers l’impossible. Lorsqu’un mage a recours au brûlesort, lancez 1d4 et consultez la table suivante, ou développez les idées proposées pour alimenter votre campagne.</p>",
+      "results": {
+        "1-1": "La puissance du brûlesort ouvre le mage aux horreurs sans nom tapies dans l’univers, le laissant affaibli et désorienté (l’Endurance, la Force ou l’Agilité sont consumées en priorité). Le mage doit réussir un jet de sauvegarde de Volonté DD 15 ou être incapable de lancer le moindre sort pendant 1d3 rounds. S’il réussit son jet de sauvegarde, le mage gagne un bonus de +1 à tous les futurs tests d’incantation pour ce sort en particulier.",
+        "2-2": "Admiratif de l’ambition du mage, Sezrekan donne à celui-ci la possibilité de consumer les caractéristiques d’un allié (Endurance, Force ou Agilité) à la place des siennes. La victime doit cependant être consentante. Pour chaque point bonus gagné par le brûlesort, la victime perd 1d3 points de la caractéristique choisie. Si l’une des caractéristiques de la cible tombe à 0 ou moins, celle-ci meurt.",
+        "3-3": "Sezrekan se moque du pouvoir faiblard du mage. Celui-ci ne reçoit que 1 point bonus pour 2 points de caractéristiques consumés.",
+        "4-4": "La folie guette l’esprit du mage. La terrifiante absence de sens de l’univers s’implante profondément dans son esprit mortel. Le mage doit effectuer un jet de sauvegarde de Volonté DD 15. S’il réussit, il tombe les genoux au sol, affaibli par le brûlesort, mais reste fermement ancré dans la réalité. Sur un échec, le mage reçoit à la place du brûlesort un bonus de +5 à tous ses tests d’incantation pour 1d6 rounds, mais perçoit dorénavant alliés et ennemis comme des abominations dévorantes d’outreterre, une vérité bien trop réelle à contempler."
+      }
+    },
+	
+    "Table 5-1: Spellburn Actions": {
+      "name": "Table 5-1: Actions de Brûlesort",
+      "description": "",
+      "results": {
+        "1-1": "Le mage sacrifie une livre de chair par niveau de sort. Il doit la prélever sur son propre corps avec un couteau considéré comme sacré par une puissante créature extradimensionnelle.",
+        "2-2": "Le mage doit verser son propre sang (une cuillerée à soupe par niveau de sort).",
+        "3-3": "Le mage prête serment à un demi-dieu mineur, qui l’aide au moment où il en a besoin mais l’afflige d’une malédiction de faiblesse jusqu’à ce que le serment soit tenu.",
+        "4-4": "Le mage coupe le bout d’un de ses doigts.",
+        "5-5": "Le mage doit s’arracher les cheveux et les brûler.",
+        "6-6": "Le mage affaiblit magiquement son corps pour alimenter son sort.",
+        "7-7": "Le mage compromet son âme en jurant de servir un puissant démon dans l’au-delà.",
+        "8-8": "Le mage accepte d’aider les fidèles d’un saint patron.",
+        "9-9": "Le mage utilise un fer chauffé à blanc pour se marquer d’un symbole surnaturel sur le bras ou le torse.",
+        "10-10": "Le mage doit se tatouer un symbole mystique sur la joue, le front ou la main.",
+        "11-11": "Le mage doit s’arracher un ongle et le brûler avec de l’encens.",
+        "12-12": "Le mage doit prononcer son véritable nom à voix haute, ce qui l’affaiblit en retour.",
+        "13-13": "Le mage développe une plaie qui ne guérit pas tant qu’il n’aura pas aidé en retour le patron qui l’a aidé.",
+        "14-14": "Le mage doit s’entailler l’oreille en guise de reconnaissance à chaque fois qu’il a été aidé.",
+        "15-15": "Le mage se scarifie rituellement le dos, le torse ou les biceps avec le symbole d’une puissante créature extradimensionnelle.",
+        "16-16": "Le mage voit des asticots tomber de ses manches. S’il ne porte pas de chemise, il ne se passe rien, et son torse semble normal. Mais dès qu’il enfile un vêtement avec des manches, des asticots se mettent à en tomber en permanence.",
+        "17-17": "Le mage commence à avoir des démangeaisons aussi étranges qu’incontrôlables ! Il se gratte en permanence.",
+        "18-18": "Le mage développe un tic bizarre : il bouge le nez, penche la tête ou cligne de l’oeil en permanence.",
+        "19-19": "Le mage commence à marmonner dans sa barbe, répétant sans cesse le nom de l’entité qui l’a aidé. Il ne peut plus s’arrêter.",
+        "20-20": "Le mage doit se couper les joues et laisser le sang couler le long de son visage.",
+        "21-21": "Le mage doit mettre sa main dans les flammes.",
+        "22-22": "Le mage doit sacrifier une de ses plus précieuses possessions.",
+        "23-23": "Le mage doit marcher sur une jambe pour le reste de la journée.",
+        "24-24": "Relancer deux fois."
+      }
+    },
+	
+    "The King of Elfland Spellburn Actions": {
+      "name": "Le Roi des terres elfiques Brûlesort",
+      "description": "<p>Le Roi des Terres elfiques partage volontiers sa puissance avec ses champions, mais peu sont les élus capables de retenir l’attention de leur maître bien longtemps. Ceux qui souhaitent obtenir le soutien de leur patron doivent être à la fois rusés, astucieux et courageux. Lorsqu’un mage a recours au brûlesort, lancez 1d4 et consultez la table suivante, ou développez les idées proposées pour alimenter votre campagne.</p>",
+      "results": {
+        "1-1": "Un redoutable dragon scintillant se dessine sur l’épaule du mage. Tandis qu’il effectue son brûlesort, le dragon disparaît, comme absorbé à l’intérieur du mage qui, sous le choc, perd ses points de caractéristiques.",
+        "2-2": "Le mage obtient le bonus au test d’incantation souhaité mais doit accomplir en échange une quête mineure dans les 1d4 prochaines semaines. Tant qu’il n’a pas accompli la quête, le mage est incapable de regagner les points de caractéristiques consumés par le brûlesort. Sa mission est aussi triviale que complexe. Typiquement : retrouver un objet dont la valeur n’existe qu’aux yeux du roi des Terres elfiques : l’enclume préférée d’un forgeron nain, la tiare d’une dame d’honneur, le bouclier du Chevalier Noir, le diadème favori de l’Empereur du Monde…",
+        "3-3": "Pour quérir l’aide des royaumes sylvestres, le mage y dépêche un morceau de son ombre, ce qui lui demande une telle force mentale qu’il en résulte une perte de points de caractéristiques.",
+        "4-4": "Pour aller au bout de son brûlesort, le mage doit trouver un jeu de mots, une énigme ou une rime qui plaise au Roi des Terres elfiques. Si le roi est diverti, le PJ n’a pas besoin de consumer de points de caractéristiques. Sinon, il devra en payer le double !"
+      }
+    },
+	
+    "The Three Fates Spellburn Actions": {
+      "name": "les Trois Grées Brûlesort",
+      "description": "<p>Alors que l’univers peut sembler froid et indifférent, les agents des Trois Grées le voient suivre un destin écrit d’avance et craignent qu’un excès de Chaos menace de déchirer l’écheveau de la création. Ceux qui ont recours au brûlesort au nom des Trois Grées le font généralement au moyen de rituels bien ordonnés, s’en remettant à la connaissance naturelle des Grées quant au mécanisme des sphères. En retour, elles confèrent aux sorts de l’incantateur une puissance supplémentaire. Lorsqu’un mage a recours au brûlesort, lancez 1d4 et consultez la table suivante, ou développez les idées proposées pour alimenter votre campagne.</p>",
+      "results": {
+        "1-1": "Le mage est épuisé par la compréhension de son rôle dans l’ordre universel (ce qui puise en priorité dans son Endurance, sa Force ou son Agilité). Il doit réussir un jet de sauvegarde de Volonté DD 15 ou perdre tout bénéfice du brûlesort. Si le mage réussit son jet de sauvegarde, sa nouvelle sagesse durement acquise lui octroie un bonus de +1 à tous les futurs tests d’incantation pour ce sort en particulier. Un tel bonus ne peut être acquis qu’une seule fois par sort.",
+        "2-2": "Le mage puise dans le pouvoir latent des lignes et des courants telluriques, et utilise les forces naturelles pour améliorer son sort. En réussissant un test d’Intelligence DD 15 + niveau du sort, le mage gagne un bonus de +3 pour lancer ce sort sans avoir à consumer ses caractéristiques. Le mage est libre d’en consumer tout de même pour obtenir un bonus plus élevé.",
+        "3-3": "Le mage s’en remet à la volonté des Grées, qui puisent dans ses caractéristiques en fonction de leurs propres plans. Lancez 1d4 pour déterminer quelle caractéristique est consumée : (1) Force (2) Agilité (3) Endurance (4) aucune caractéristique n’est consumée, mais le mage obtient malgré tout son bonus.",
+        "4-4": "Le mage ne peut user du brûlesort sans avoir recours à un obscur rite chaotique. La culpabilité le ronge, et les sombres sacrifices nécessaires consument son Endurance, sa Force ou son Agilité. S’il devait recourir au brûlesort devant d’autres agents des Grées, il le paierait sûrement de sa vie."
+      }
+    }
+  }
+}

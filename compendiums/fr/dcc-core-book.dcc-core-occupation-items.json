@@ -1,0 +1,474 @@
+{
+	"label": "Occupation Items",
+	  "mapping": {
+    "range": "system.range"
+	  },
+	  
+	"entries": {
+		"1 late RPG book": {
+			"name": "1 livre de rpg",
+			"description": ""
+		},
+		"100 cp": {
+			"name": "100 pc",
+			"description": ""
+		},
+		"20 sp": {
+			"name": "20 pa",
+			"description": ""
+		},
+		"4gp, 14 sp, 27 cp": {
+			"name": "4 po, 14 pa, 27 pc",
+			"description": ""
+		},
+		"5 gp, 10 sp, 200 cp": {
+			"name": "5 po, 10 pa, 200 pc",
+			"description": ""
+		},
+		"Awl (as dagger)": {
+			"name": "poinçon (dague)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Badger pelt": {
+			"name": "Peau de blaireau",
+			"description": ""
+		},
+		"Barrel": {
+			"name": "Baril",
+			"description": ""
+		},
+		"Begging bowl": {
+			"name": "Bol de mendiant",
+			"description": ""
+		},
+		"Black grimoire": {
+			"name": "Grimoire noir",
+			"description": ""
+		},
+		"Book": {
+			"name": "Livre",
+			"description": ""
+		},
+		"Bridle": {
+			"name": "Bride",
+			"description": ""
+		},
+		"Bundle of wood": {
+			"name": "Fagot de bois",
+			"description": ""
+		},
+		"Candles, 20": {
+			"name": "Bougie, 20",
+			"description": ""
+		},
+		"Cheese dip": {
+			"name": "Trempette au fromage",
+			"description": ""
+		},
+		"Chicken meat, 5 lbs.": {
+			"name": "Viande de poulet, 2 kg.",
+			"description": ""
+		},
+		"Chisel (as dagger)": {
+			"name": "Ciseau (dague)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Clay, 1 lb.": {
+			"name": "Argile, 500g.",
+			"description": ""
+		},
+		"Cleaver (as axe)": {
+			"name": "Couperet(comme hachette)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Club": {
+			"name": "Gourdin",
+			"description": ""
+		},
+		"Cow": {
+			"name": "Vache",
+			"description": ""
+		},
+		"Crowbar (as club)": {
+			"name": "Pied de biche (Gourdin)",
+			"description": ""
+		},
+		"Crutches": {
+			"name": "Béquilles",
+			"description": ""
+		},
+		"Cudgel (as staff)": {
+			"name": "Trique (baton)",
+			"description": ""
+		},
+		"Dagger": {
+			"name": "Dague",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Dart": {
+			"name": "fléchette",
+			"description": "",
+			"range": "6/12/18"
+		},
+		"Deer Pelt": {
+			"name": "Peau de cerf",
+			"description": ""
+		},
+		"Dice": {
+			"name": "Dé",
+			"description": ""
+		},
+		"Dirt": {
+			"name": "Poussière",
+			"description": ""
+		},
+		"Duck": {
+			"name": "Cannard",
+			"description": ""
+		},
+		"Fabric, 3 yards": {
+			"name": "Tissu, 3 mètres",
+			"description": ""
+		},
+		"Falcon": {
+			"name": "Faucon",
+			"description": ""
+		},
+		"Fine dirt, 1 lb.": {
+			"name": "Poussière fine",
+			"description": ""
+		},
+		"Fine stone, 10 lbs.": {
+			"name": "Pierre fine",
+			"description": ""
+		},
+		"Fine suit of clothes": {
+			"name": "Beau costume",
+			"description": ""
+		},
+		"Fine suits, 3 sets": {
+			"name": "Beaux costumes, 3 ensembles",
+			"description": ""
+		},
+		"Fine tools": {
+			"name": "Outils fins",
+			"description": ""
+		},
+		"Flour, 1 lb.": {
+			"name": "Farine",
+			"description": ""
+		},
+		"Fruit": {
+			"name": "Fruit",
+			"description": ""
+		},
+		"Gem worth 20 gp": {
+			"name": "Gemme, 20 po",
+			"description": ""
+		},
+		"Glass beads": {
+			"name": "Billes de verre",
+			"description": ""
+		},
+		"Gloves, 4 pairs": {
+			"name": "Gants, 4 paires",
+			"description": ""
+		},
+		"Goat": {
+			"name": "Chèvre",
+			"description": ""
+		},
+		"Gold ring worth 10 gp": {
+			"name": "Bague en or d'une valeur de 10 po",
+			"description": ""
+		},
+		"Goose": {
+			"name": "Oie",
+			"description": ""
+		},
+		"Hammer (as club)": {
+			"name": "Marteau (Gourdin)",
+			"description": ""
+		},
+		"Handaxe": {
+			"name": "Hachette",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Hen**": {
+			"name": "Poule",
+			"description": ""
+		},
+		"Herbs, 1 lb.": {
+			"name": "Herbes",
+			"description": ""
+		},
+		"Herding Dog**": {
+			"name": "Chien de berger",
+			"description": ""
+		},
+		"Hex doll": {
+			"name": "Poupée",
+			"description": ""
+		},
+		"Hide Armor": {
+			"name": "Armure cachée",
+			"description": ""
+		},
+		"Holy symbol": {
+			"name": "Symbole sacré",
+			"description": ""
+		},
+		"Holy water, 1 vial": {
+			"name": "Eau bénite, 1 flacon",
+			"description": "<p>Une fiole d’une demi-pinte d’eau bénite inflige[[/roll 1d4]] points de dégâts à toute créature morte-vivante, ainsi qu’à certains démons etdiables.</p>"
+		},
+		"Iron helmet": {
+			"name": "Casque de fer",
+			"description": ""
+		},
+		"Jar of honey": {
+			"name": "Pot de miel",
+			"description": ""
+		},
+		"Knife (as dagger)": {
+			"name": "Couteau (dague)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Lantern": {
+			"name": "Lanterne",
+			"description": ""
+		},
+		"Leather Armor": {
+			"name": "Armure en cuir",
+			"description": ""
+		},
+		"Linen, 1 yard": {
+			"name": "Lin, 1 mètre",
+			"description": ""
+		},
+		"Locket": {
+			"name": "Médaillon",
+			"description": ""
+		},
+		"Longsword": {
+			"name": "Épée longue",
+			"description": ""
+		},
+		"Mace": {
+			"name": "Masse",
+			"description": ""
+		},
+		"Mithril, 1 oz.": {
+			"name": "Mithril",
+			"description": ""
+		},
+		"Mule": {
+			"name": "Mule",
+			"description": ""
+		},
+		"Net": {
+			"name": "Filet",
+			"description": ""
+		},
+		"Oil, 1 flask": {
+			"name": "Huile, 1 flacon",
+			"description": ""
+		},
+		"Parchment and quill pen": {
+			"name": "Parchemin et plume d'oie",
+			"description": ""
+		},
+		"Parchment, 10 sheets": {
+			"name": "Parchemin, 10 feuilles",
+			"description": ""
+		},
+		"Pick (as club)": {
+			"name": "Pioche (Gourdin)",
+			"description": ""
+		},
+		"Pitchfork (as spear)": {
+			"name": "Fourche (lance)",
+			"description": ""
+		},
+		"Pony": {
+			"name": "Poney",
+			"description": ""
+		},
+		"Pushcart***": {
+			"name": "Charrette à bras",
+			"description": ""
+		},
+		"Quality cloak": {
+			"name": "Cape de qualité",
+			"description": ""
+		},
+		"Quill (as dart)": {
+			"name": "Plume (fléchette)",
+			"description": "",
+			"range": "6/12/18"
+		},
+		"Rag doll": {
+			"name": "Poupée de chiffon",
+			"description": ""
+		},
+		"Razor (as dagger)": {
+			"name": "Rasoir (Dague)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Rocks": {
+			"name": "Cailloux",
+			"description": ""
+		},
+		"Rope, 100'": {
+			"name": "Corde, 30m",
+			"description": ""
+		},
+		"Sack": {
+			"name": "Sac",
+			"description": ""
+		},
+		"Sack of night soil": {
+			"name": "Sac de terre de nuit",
+			"description": ""
+		},
+		"Sailcloth, 2 yards": {
+			"name": "Toile à voile",
+			"description": ""
+		},
+		"Scissors": {
+			"name": "Ciseaux",
+			"description": ""
+		},
+		"Scissors (as dagger)": {
+			"name": "Ciseaux (dague)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Sheep": {
+			"name": "Mouton",
+			"description": ""
+		},
+		"Shield": {
+			"name": "Bouclier",
+			"description": ""
+		},
+		"Shoehorn": {
+			"name": "Chausse-pied",
+			"description": ""
+		},
+		"Short sword": {
+			"name": "Épée courte",
+			"description": ""
+		},
+		"Shortbow": {
+			"name": "Arc court",
+			"description": "",
+			"range": "15/30/45"
+		},
+		"Shovel (as staff)": {
+			"name": "Pelle (baton)",
+			"description": ""
+		},
+		"Side of beef": {
+			"name": "Côte de boeuf",
+			"description": ""
+		},
+		"Silk clothes": {
+			"name": "Vêtements en soie",
+			"description": ""
+		},
+		"Sling": {
+			"name": "Fronde",
+			"description": "",
+			"range": "12/24/48"
+		},
+		"Small chest": {
+			"name": "Petit coffre",
+			"description": ""
+		},
+		"Sow**": {
+			"name": "Truie",
+			"description": ""
+		},
+		"Spear": {
+			"name": "Lance",
+			"description": ""
+		},
+		"Spyglass": {
+			"name": "Longue-vue",
+			"description": ""
+		},
+		"Staff": {
+			"name": "Baton",
+			"description": ""
+		},
+		"Steel helmet": {
+			"name": "Casque en acier",
+			"description": ""
+		},
+		"Steel tongs": {
+			"name": "Pinces en acier",
+			"description": ""
+		},
+		"Steel vial": {
+			"name": "Flacon en acier",
+			"description": ""
+		},
+		"Stick (as club)": {
+			"name": "Baton (Gourdin)",
+			"description": ""
+		},
+		"Stinky cheese": {
+			"name": "Fromage puant",
+			"description": ""
+		},
+		"Strange-looking rock": {
+			"name": "Pierre d'aspect étrange",
+			"description": ""
+		},
+		"Straw": {
+			"name": "Paille",
+			"description": ""
+		},
+		"Tarot Deck": {
+			"name": "Tarot",
+			"description": ""
+		},
+		"Tomatoes": {
+			"name": "Tomates",
+			"description": ""
+		},
+		"Trowel": {
+			"name": "Truelle",
+			"description": ""
+		},
+		"Trowel (as Dagger)": {
+			"name": "Truelle (dague)",
+			"description": "",
+			"range": "3/6/9"
+		},
+		"Ukelele": {
+			"name": "Ukulélé",
+			"description": ""
+		},
+		"Waterproof sack": {
+			"name": "Sac étanche",
+			"description": ""
+		},
+		"Wood, 10 lbs.": {
+			"name": "Bois",
+			"description": ""
+		},
+		"Your dead": {
+			"name": "Vous êtes mort",
+			"description": ""
+		}
+	}
+}
