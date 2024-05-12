@@ -17,14 +17,13 @@ Pour que le module fonction vous aurez besoin de :
 ### Mise en place
 
 Une fois tous les modules nécéssaires installés voici la marche à suivre :
-- Dans la gconfiguration des otpions passé votre foundry en FR :
+- Dans la configuration des opions, passez votre foundry en FR :
 
 
 ![Screenshot Foundry en FR](/screenshot/Choixdelalangue.png?raw=true)
 
 
-
-- Dans la configuration de Babele indiqué ce dossier :
+- Dans la configuration de Babele, indiquez ce dossier :
 
 ![Screenshot dossier Babele](/screenshot/RepertoireBabele.png?raw=true)
 
