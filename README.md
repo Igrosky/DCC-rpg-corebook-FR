@@ -26,7 +26,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 
 - Dans la configuration de Babele indiqué ce dossier :
 
-![Screenshot dossier Babele](/Repertoire-Babele.png?raw=true)
+![Screenshot dossier Babele](/RepertoireBabele.png?raw=true)
 
 
 ### Ce qui est traduit (v0.5.0) : 
