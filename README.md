@@ -18,10 +18,10 @@ Pour que le module fonction vous aurez besoin de :
 
 Une fois tous les modules nécéssaires installés voici la marche à suivre :
 - Dans la gconfiguration des otpions passé votre foundry en FR :
-![Screenshot Foundry en FR](/)
+![Screenshot Foundry en FR](/Choix-de-la-langue.png)
 
 - Dans la configuration de Babele indiqué ce dossier :
-![Screenshot dossier Babele](/)
+![Screenshot dossier Babele](/Repertoire-Babele.png)
 
 
 ### Ce qui est traduit (v0.5.0) : 
