@@ -20,7 +20,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 - Dans la gconfiguration des otpions passé votre foundry en FR :
 
 
-![Screenshot Foundry en FR](/screenshot/choixdelalangue.png?raw=true)
+![Screenshot Foundry en FR](/screenshot/choix_de_la_langue.png?raw=true)
 
 
 
