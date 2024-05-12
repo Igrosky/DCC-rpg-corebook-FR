@@ -18,7 +18,7 @@ Pour que le module fonction vous aurez besoin de :
 
 Une fois tous les modules nécéssaires installés voici la marche à suivre :
 - Dans la gconfiguration des otpions passé votre foundry en FR :
-![Screenshot Foundry en FR](Choix-de-la-langue.png?raw=true)
+![Screenshot Foundry en FR](/Choix-de-la-langue.png)
 
 - Dans la configuration de Babele indiqué ce dossier :
 ![Screenshot dossier Babele](/Repertoire-Babele.png?raw=true)
@@ -41,7 +41,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 - Occupation Items
 - Montures
 
-### Ce qu'il reste a faire 
+### Ce qu'il reste à faire 
 
 - Sorts de patron de lvl 2/3 ( avec les effets secondaires )
 - Sorts de Mage lvl 2/3/4/5 ( avec les effets secondaires )
