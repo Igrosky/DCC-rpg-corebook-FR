@@ -12,14 +12,10 @@
     {
       "id": "dcc",
       "type": "system",
-      "manifest": "https://github.com/foundryvtt-dcc/dcc/releases/download/v0.36.0/system.json",
-      "version": "0.36.0"
     },
     {
       "id": "babele",
       "type": "module",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.28"
     },
     {
      "id": "dcc-core-rules",
