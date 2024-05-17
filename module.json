@@ -20,6 +20,10 @@
       "type": "module",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
       "version": "1.28"
+    },
+    {
+     "id": "dcc-core-rules",
+     "type": "module"
     }
   ],
   "esmodules": [
