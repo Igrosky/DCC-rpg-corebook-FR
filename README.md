@@ -4,9 +4,10 @@ Un module pour FoundryVTT qui ajoute une surcouche de traduction FR des Corebook
 
 
 
+
 ### Installation 
 
-Pour que le module fonction vous aurez besoin de :
+Pour que le module fonctionne vous aurez besoin de :
 
 - Module Babele : https://foundryvtt.com/packages/babele
 - System de jeu DCC : https://foundryvtt.com/packages/dcc
