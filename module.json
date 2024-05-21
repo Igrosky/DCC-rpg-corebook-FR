@@ -11,11 +11,11 @@
   "relationships.requires": [
     {
       "id": "dcc",
-      "type": "system",
+      "type": "system"
     },
     {
       "id": "babele",
-      "type": "module",
+      "type": "module"
     },
     {
      "id": "dcc-core-rules",
