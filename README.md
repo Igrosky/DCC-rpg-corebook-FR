@@ -29,7 +29,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 ![Screenshot dossier Babele](/screenshot/RepertoireBabele.png?raw=true)
 
 
-### Ce qui est traduit (v0.5.0) : 
+### Ce qui est traduit (v0.6.0) : 
 
 - Core book Text
 - Core Book Journal
@@ -37,7 +37,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 - Crits and Fumbles
 - Brûlesort
 - Sorts de patron de lvl 1 ( avec les effets secondaires ) 
-- Sorts de Mage lvl 1 ( avec les effets secondaires )
+- Sorts de Mage lvl 1, lvl 2 ( avec les effets secondaires )
 - Sorts de Clerc lvl 1 ( avec les effets secondaires )
 - Armes
 - Armures
