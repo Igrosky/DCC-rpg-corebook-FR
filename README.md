@@ -49,7 +49,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 ### Ce qu'il reste à faire 
 
 - Sorts de patron de lvl 2/3 ( avec les effets secondaires )
-- Sorts de Mage lvl 2/3/4/5 ( avec les effets secondaires )
+- Sorts de Mage lvl 3/4/5 ( avec les effets secondaires )
 - Sorts de Clerc lvl 2/3/4/5 ( avec les effets secondaires )
 - NPC
 - Intégrer les jets de dés dans les traductions.
