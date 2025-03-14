@@ -29,7 +29,7 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 ![Screenshot dossier Babele](/screenshot/RepertoireBabele.png?raw=true)
 
 
-### Ce qui est traduit (v0.6.0) : 
+### Ce qui est traduit (v0.7.0) : 
 
 - Core book Text
 - Core Book Journal
@@ -37,8 +37,8 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 - Crits and Fumbles
 - Brûlesort
 - Sorts de patron de lvl 1 ( avec les effets secondaires ) 
-- Sorts de Mage lvl 1, lvl 2 ( avec les effets secondaires )
-- Sorts de Clerc lvl 1 ( avec les effets secondaires )
+- Sorts de Mage ( avec les effets secondaires )
+- Sorts de Clerc ( avec les effets secondaires )
 - Armes
 - Armures
 - Equipements
@@ -49,7 +49,5 @@ Une fois tous les modules nécéssaires installés voici la marche à suivre :
 ### Ce qu'il reste à faire 
 
 - Sorts de patron de lvl 2/3 ( avec les effets secondaires )
-- Sorts de Mage lvl 3/4/5 ( avec les effets secondaires )
-- Sorts de Clerc lvl 2/3/4/5 ( avec les effets secondaires )
 - NPC
 - Intégrer les jets de dés dans les traductions.
